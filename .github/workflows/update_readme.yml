@@ -21,8 +21,6 @@ jobs:
         python-version: '3.x'
 
     - name: Generate folder structure
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: python generate_folder_structure.py
 
     - name: Commit and push changes
