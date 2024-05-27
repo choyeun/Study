@@ -24,11 +24,11 @@ jobs:
       run: python generate_folder_structure.py
 
     - name: Commit and push changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add README.md
         git commit -m '자동 업데이트: 폴더 구조'
         git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
