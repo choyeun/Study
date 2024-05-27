@@ -4,16 +4,68 @@
 
 ## 폴더 구조
 
-후추
-
-
-
-## 커밋 메시지 규칙
-
- - 강의: 강의 필기 추가 및 수정
- - 과제: 과제 관련 내용 추가 및 수정
- - 프로젝트: 프로젝트 관련 변경 사항
- - 시험: 시험 준비 자료 추가 및 수정
- - 수정: 일반적인 수정
- - 업데이트: 기존 내용 업데이트
- - 버그: 버그 수정
+- .git/
+  - FETCH_HEAD
+  - HEAD
+  - branches/
+  - config
+  - description
+  - hooks/
+    - applypatch-msg.sample
+    - commit-msg.sample
+    - fsmonitor-watchman.sample
+    - post-update.sample
+    - pre-applypatch.sample
+    - pre-commit.sample
+    - pre-merge-commit.sample
+    - pre-push.sample
+    - pre-rebase.sample
+    - pre-receive.sample
+    - prepare-commit-msg.sample
+    - push-to-checkout.sample
+    - sendemail-validate.sample
+    - update.sample
+  - index
+  - info/
+    - exclude
+  - logs/
+    - HEAD
+    - refs/
+      - heads/
+        - main
+      - remotes/
+        - origin/
+          - main
+  - objects/
+    - 0c/
+      - b9be546de106b53d292469139388c972776e37
+    - 12/
+      - 8e084f53e0e49417b26b38336d7c2155def81e
+    - 2d/
+      - 5c765b31fadd6289ab51ef0099215d23275fde
+    - 57/
+      - 3bfb0a5b5d282dd72c256c2c68b1dc8ad51374
+    - 70/
+      - 6a0e600e267a13d84863468762c47099f91345
+    - b0/
+      - 1c08c7329ba2222bdeca1ecd898d1233d3fa2e
+    - df/
+      - fcf660e95b689726bbf9205bfc0c0ae6297ae5
+    - ea/
+      - ff895666930df17372a0493b47b46471b26ba7
+    - info/
+    - pack/
+  - refs/
+    - heads/
+      - main
+    - remotes/
+      - origin/
+        - main
+    - tags/
+  - shallow
+- .github/
+  - workflows/
+    - update_readme.yml
+- .gitignore
+- README.md
+- generate_folder_structure.py
