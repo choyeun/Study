@@ -33,11 +33,13 @@ jobs:
         chmod +x scripts/optimize_and_upload.sh
         ./scripts/optimize_and_upload.sh ${{ secrets.IMGUR_CLIENT_ID }}
 
-    - name: Commit changes
+    - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
+        git pull --rebase
         git add -A
         git commit -m "자동 업데이트: 이미지 파일을 최적화하고 업로드"
         git push
-        || echo "No changes to commit"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
