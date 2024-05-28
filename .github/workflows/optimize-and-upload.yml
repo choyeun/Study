@@ -1,0 +1,43 @@
+name: Optimize and Upload Images to Imgur
+
+on:
+  push:
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.gif'
+      - '**.webp'
+      - '**/*.md'  # Markdown 파일에 변경이 생길 때도 트리거
+
+jobs:
+  optimize-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install imagemin-cli
+      run: npm install -g imagemin-cli imagemin-mozjpeg imagemin-pngquant imagemin-webp
+
+    - name: Run optimize and upload script
+      env:
+        IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_ID }}
+      run: |
+        chmod +x scripts/optimize_and_upload.sh
+        ./scripts/optimize_and_upload.sh ${{ secrets.IMGUR_CLIENT_ID }}
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add docs/**/*.md
+        git commit -m "자동 업데이트: 이미지 파일을 최적화하고 업로드"
+        git push
+        || echo "No changes to commit"
