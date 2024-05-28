@@ -37,7 +37,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add docs/**/*.md
+        git add -A
         git commit -m "자동 업데이트: 이미지 파일을 최적화하고 업로드"
         git push
         || echo "No changes to commit"

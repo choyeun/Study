@@ -1,7 +1,6 @@
 #!/bin/bash
 
 IMGUR_CLIENT_ID=${1}
-DOCS_DIR="docs"
 TEMP_DIR="optimized_images"
 
 # 임시 디렉토리 생성
@@ -43,16 +42,14 @@ find . -type f \( -iname \*.jpg -o -iname \*.png -o -iname \*.jpeg -o -iname \*.
     fi
   fi
 
-  if grep -q "$(basename "$file")" "$DOCS_DIR"/*.md; then
-    echo "Uploading $file to Imgur..."
-    link=$(upload_to_imgur "$file")
+  echo "Uploading $file to Imgur..."
+  link=$(upload_to_imgur "$file")
 
-    if [ -n "$link" ]; then
-      find "$DOCS_DIR" -type f -name "*.md" -exec sed -i "s|$(basename "$file")|$link|g" {} +
-    else
-      echo "Failed to upload $file to Imgur. Exiting."
-      exit 1
-    fi
+  if [ -n "$link" ]; then
+    find . -type f -name "*.md" -exec sed -i "s|$(basename "$file")|$link|g" {} +
+  else
+    echo "Failed to upload $file to Imgur. Exiting."
+    exit 1
   fi
 done
 
