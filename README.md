@@ -15,3 +15,5 @@
 ## 폴더 구조
 
 - README.md
+- scripts/
+  - optimize_and_upload.sh
