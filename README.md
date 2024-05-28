@@ -18,4 +18,5 @@
 - Test.md
 - scripts/
   - optimize_and_upload.sh
+- 스크린샷 2024-05-23 041229.png
 - 스크린샷 2024-05-26 194733.png
