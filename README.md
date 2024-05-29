@@ -14,7 +14,7 @@
 
 ## 폴더 구조
 
-- Pasted image 20240529105214.png
+- Pasted image 20240529105328.png
 - README.md
 - Test.md
 - scripts/
