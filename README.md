@@ -15,4 +15,3 @@
 ## 폴더 구조
 
 - README.md
-- Test.md
