@@ -46,8 +46,8 @@ find . -type f \( -iname \*.jpg -o -iname \*.png -o -iname \*.jpeg -o -iname \*.
   link=$(upload_to_imgur "$file")
 
   if [ -n "$link" ]; then
-    # Markdown 파일 내 링크 대체
-    find . -type f -name "*.md" -exec sed -i "s|![]($(basename "$file"))|![$(basename "$file")]($link)|g" {} +
+    # Markdown 파일 내 링크 대체 (전체 경로 사용)
+    find . -type f -name "*.md" -exec sed -i "s|![]($(realpath --relative-to=. "$file"))|![${file##*/}]($link)|g" {} +
     # 원본 파일 삭제
     rm -f "$file"
   else
