@@ -14,10 +14,12 @@
 
 ## 폴더 구조
 
+- Pasted image 20240529104011.png
+- Pasted image 20240529104116.png
 - README.md
 - Test.md
 - scripts/
   - optimize_and_upload.sh
-- 스크린샷 2024-05-21 225212.png
-- 스크린샷 2024-05-23 041229.png
-- 스크린샷 2024-05-26 194733.png
+- https://i.imgur.com/TYHV2si.png
+- https://i.imgur.com/5f4C57E.png
+- https://i.imgur.com/me7z7fb.jpeg
