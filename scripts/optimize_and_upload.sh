@@ -27,7 +27,7 @@ optimize_image() {
 find . -type f \( -iname \*.jpg -o -iname \*.png -o -iname \*.jpeg -o -iname \*.gif -o -iname \*.webp \) | while read file; do
   file_size=$(stat -c%s "$file")
 
-  # 파일 크기 확인
+  # 파일 크기 확인 및 최적화
   if [[ $file == *.gif ]]; then
     if [ $file_size -gt $MAX_GIF_SIZE ]; then
       echo "Optimizing $file: exceeds maximum GIF size limit of 200MB."
@@ -46,7 +46,10 @@ find . -type f \( -iname \*.jpg -o -iname \*.png -o -iname \*.jpeg -o -iname \*.
   link=$(upload_to_imgur "$file")
 
   if [ -n "$link" ]; then
-    find . -type f -name "*.md" -exec sed -i "s|$(basename "$file")|$link|g" {} +
+    # Markdown 파일 내 링크 대체
+    find . -type f -name "*.md" -exec sed -i "s|![]($(basename "$file"))|![$(basename "$file")]($link)|g" {} +
+    # 원본 파일 삭제
+    rm -f "$file"
   else
     echo "Failed to upload $file to Imgur. Exiting."
     exit 1
