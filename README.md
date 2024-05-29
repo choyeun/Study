@@ -16,5 +16,3 @@
 
 - README.md
 - Test.md
-- scripts/
-  - optimize_and_upload.sh
