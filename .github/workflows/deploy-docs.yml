@@ -26,7 +26,7 @@ jobs:
       run: mkdir temp
 
     - name: Copy repository contents to temporary directory
-      run: cp -r * temp/
+      run: rsync -av --progress . temp --exclude temp --exclude deploy-study
 
     - name: Clean target docs directory
       run: rm -rf deploy-study/docs/*
