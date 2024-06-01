@@ -1,0 +1,47 @@
+name: Deploy Docs
+
+on:
+  workflow_run:
+    workflows: ["Update README"]
+    types:
+      - completed
+
+jobs:
+  deploy-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout this repository
+      uses: actions/checkout@v2
+
+    - name: Checkout target repository
+      uses: actions/checkout@v2
+      with:
+        repository: choyeun/deploy-study
+        ref: main
+        path: deploy-study
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+    - name: Create temporary directory
+      run: mkdir temp
+
+    - name: Copy repository contents to temporary directory
+      run: cp -r * temp/
+
+    - name: Clean target docs directory
+      run: rm -rf deploy-study/docs/*
+
+    - name: Copy Markdown files to target docs directory
+      run: |
+        find temp -name "*.md" -exec cp {} deploy-study/docs/ \;
+
+    - name: Commit and push changes
+      run: |
+        cd deploy-study
+        git config --local user.email "you@example.com"
+        git config --local user.name "Your Name"
+        git add docs/
+        git commit -m "Sync markdown files with source repository"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
