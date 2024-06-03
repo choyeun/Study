@@ -11,7 +11,7 @@ def generate_folder_structure(dir_path, prefix=""):
         relative_path = os.path.relpath(full_path, start=".")
         url_path = relative_path.replace(" ", "%20")
         if os.path.isdir(full_path) and entry not in EXCLUDE_DIRS:
-            structure += f"{prefix}- {entry}/\n"
+            structure += f"{prefix}- {entry}\n"
             structure += generate_folder_structure(full_path, prefix + "  ")
         elif os.path.isfile(full_path) and entry not in EXCLUDE_FILES:
             structure += f"{prefix}- [{entry}]({url_path})\n"
