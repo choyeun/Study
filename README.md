@@ -14,6 +14,6 @@
 
 ## 폴더 구조
 
-- NA1011_프로그래밍 입문/
-  - 기말 과제.md
-- README.md
+- [NA1011_프로그래밍 입문](https://github.com/choyeun/Study/tree/main/./NA1011_프로그래밍 입문)/
+  - [기말 과제.md](https://github.com/choyeun/Study/tree/main/./NA1011_프로그래밍 입문/기말 과제.md)
+- [README.md](https://github.com/choyeun/Study/tree/main/./README.md)
