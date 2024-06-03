@@ -35,3 +35,4 @@ jobs:
         else
           git commit -m '자동 업데이트: 폴더 구조'
           git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        fi
