@@ -3,15 +3,13 @@ import os
 EXCLUDE_DIRS = {".git", ".github"}
 EXCLUDE_FILES = {".gitignore", "generate_folder_structure.py"}
 
-GITHUB_REPO_URL = "https://github.com/choyeun/Study/tree/main"
-
 
 def generate_folder_structure(dir_path, prefix=""):
     structure = ""
     for entry in sorted(os.listdir(dir_path)):
         full_path = os.path.join(dir_path, entry)
         relative_path = os.path.relpath(full_path, start=".")
-        url_path = f"{GITHUB_REPO_URL}/{relative_path.replace(os.path.sep, '%20')}"
+        url_path = relative_path.replace(os.path.sep, "%20")
         if os.path.isdir(full_path) and entry not in EXCLUDE_DIRS:
             structure += f"{prefix}- [{entry}]({url_path})/\n"
             structure += generate_folder_structure(full_path, prefix + "  ")
