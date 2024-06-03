@@ -9,9 +9,9 @@ def generate_folder_structure(dir_path, prefix=""):
     for entry in sorted(os.listdir(dir_path)):
         full_path = os.path.join(dir_path, entry)
         relative_path = os.path.relpath(full_path, start=".")
-        url_path = relative_path.replace(os.path.sep, "%20")
+        url_path = relative_path.replace(" ", "%20")
         if os.path.isdir(full_path) and entry not in EXCLUDE_DIRS:
-            structure += f"{prefix}- [{entry}]({url_path})/\n"
+            structure += f"{prefix}- {entry}/\n"
             structure += generate_folder_structure(full_path, prefix + "  ")
         elif os.path.isfile(full_path) and entry not in EXCLUDE_FILES:
             structure += f"{prefix}- [{entry}]({url_path})\n"
