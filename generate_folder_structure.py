@@ -1,6 +1,6 @@
 import os
 
-EXCLUDE_DIRS = {".git", ".github"}
+EXCLUDE_DIRS = {".git", ".github",".obsidian"}
 EXCLUDE_FILES = {".gitignore", "generate_folder_structure.py"}
 
 
