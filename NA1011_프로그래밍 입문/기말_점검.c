@@ -1,6 +1,5 @@
 #include <stdio.h>
-int print(int n){
-	int i;
+void print(int n){
 	if (n > 0) print(n-1);
 	if(n != 0) printf("%d\n", n);
 }
