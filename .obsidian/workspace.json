@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AE0069_JAVA프로그래밍/OT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AE0069_JAVA프로그래밍/OT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AE0069_JAVA프로그래밍/OT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AE0069_JAVA프로그래밍/OT.md"
               }
             }
           }
@@ -160,8 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fdb26ca4eaa7481",
+  "active": "6ef4607c9b210b70",
   "lastOpenFiles": [
+    "README.md",
+    "AE0069_JAVA프로그래밍/OT.md",
+    "AE0069_JAVA프로그래밍",
     "NA2016_프로그래밍 응용/OT.md",
     "A10001_사고와 표현/OT.md",
     "A10001_사고와 표현/중간고사.md",
@@ -171,7 +174,6 @@
     "A10001_사고와 표현/1. 생각하기와 표현하기",
     "NA2016_프로그래밍 응용/7. array/목표.md",
     "NA2016_프로그래밍 응용/~$제7장 배열(강의).pptx",
-    "README.md",
     "NA2016_프로그래밍 응용/7. array",
     "NA2016_프로그래밍 응용/배열.md",
     "NA2016_프로그래밍 응용/제3장 변수와 자료형(강의).pptx",
@@ -180,7 +182,6 @@
     "NA2016_프로그래밍 응용/제14장 전처리와 분할 컴파일(강의).pptx",
     "NA2016_프로그래밍 응용/제13장 동적메모리(강의).pptx",
     "NA2016_프로그래밍 응용/제12장 파일입출력(강의).pptx",
-    "NA2016_프로그래밍 응용/제11장 구조체(강의).pptx",
     "기말 과제.md",
     "AA1072_기독교 개론/기말 고사 일정.md",
     "NF1003_컴퓨터 개론/연습 문제 몰아보기.md",
@@ -197,7 +198,6 @@
     "NA1011_프로그래밍 입문/12. 배열/정렬.md",
     "NA1011_프로그래밍 입문/12. 배열/잘못된 인덱스 문제.md",
     "NA1011_프로그래밍 입문/12. 배열/이진 탐색.md",
-    "NA1011_프로그래밍 입문/12. 배열/순차 탐색.md",
     "스크린샷 2024-05-21 225212.png",
     "스크린샷 2024-05-23 041229.png",
     "스크린샷 2024-05-26 194733.png"
