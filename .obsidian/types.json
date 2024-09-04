@@ -5,6 +5,7 @@
     "tags": "tags",
     "담당 교수": "multitext",
     "교과코드": "multitext",
-    "이수 구분": "multitext"
+    "이수 구분": "multitext",
+    "page": "number"
   }
 }
