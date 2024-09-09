@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2582c777b471387",
+        "id": "b98fb3f89e94e735",
         "type": "tabs",
         "children": [
           {
-            "id": "0c9a465662befc71",
+            "id": "d8073e09e970676d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NA2016_프로그래밍 응용/OT.md",
+                "file": "AN2026_파이썬 프로그래밍/OT.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8fdb26ca4eaa7481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AE0069_JAVA프로그래밍/OT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AE0069_JAVA프로그래밍/OT.md",
+                "file": "AN2026_파이썬 프로그래밍/OT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AE0069_JAVA프로그래밍/OT.md",
+                "file": "AN2026_파이썬 프로그래밍/OT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AE0069_JAVA프로그래밍/OT.md"
+                "file": "AN2026_파이썬 프로그래밍/OT.md"
               }
+            }
+          },
+          {
+            "id": "7b22e68b5ab5cba0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -147,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +158,23 @@
   },
   "active": "6ef4607c9b210b70",
   "lastOpenFiles": [
+    "NA2015_인공지능 개론/1. 인공지능 개요/인공지능과 데이터.md",
+    "AN2026_파이썬 프로그래밍/OT.md",
+    "AN2026_파이썬 프로그래밍",
+    "NA2015_인공지능 개론/1. 인공지능 개요/AI 기술의 활용.md",
+    "NA2015_인공지능 개론/1. 인공지능 개요/AI란.md",
+    "NA2015_인공지능 개론/OT.md",
+    "NA2015_인공지능 개론/1. 인공지능 개요",
+    "C10002_아리 진로 상담과 창의 융합 기업가 정신/OT.md",
+    "NA2015_인공지능 개론",
+    "B10008_인류 문명과 세계 문화사/OT.md",
+    "C10002_아리 진로 상담과 창의 융합 기업가 정신",
+    "인류문명과세계문화사",
+    "NA2016_프로그래밍 응용/OT.md",
+    "B10008_인류 문명과 세계 문화사",
     "README.md",
     "AE0069_JAVA프로그래밍/OT.md",
     "AE0069_JAVA프로그래밍",
-    "NA2016_프로그래밍 응용/OT.md",
     "A10001_사고와 표현/OT.md",
     "A10001_사고와 표현/중간고사.md",
     "A10001_사고와 표현/1. 생각하기와 표현하기/머리말.md",
@@ -176,12 +185,6 @@
     "NA2016_프로그래밍 응용/~$제7장 배열(강의).pptx",
     "NA2016_프로그래밍 응용/7. array",
     "NA2016_프로그래밍 응용/배열.md",
-    "NA2016_프로그래밍 응용/제3장 변수와 자료형(강의).pptx",
-    "NA2016_프로그래밍 응용/제2장 기초사항(강의).pptx",
-    "NA2016_프로그래밍 응용/제1장 프로그래밍 소개(강의).pptx",
-    "NA2016_프로그래밍 응용/제14장 전처리와 분할 컴파일(강의).pptx",
-    "NA2016_프로그래밍 응용/제13장 동적메모리(강의).pptx",
-    "NA2016_프로그래밍 응용/제12장 파일입출력(강의).pptx",
     "기말 과제.md",
     "AA1072_기독교 개론/기말 고사 일정.md",
     "NF1003_컴퓨터 개론/연습 문제 몰아보기.md",
@@ -191,13 +194,6 @@
     "NF1003_컴퓨터 개론/11. IT 융합 기술 응용과 모바일 컴퓨팅/연습 문제.md",
     "NF1003_컴퓨터 개론/10. 떠오르는 4차 산업혁명 기술/연습 문제.md",
     "NF1003_컴퓨터 개론/9. 멀티미디어의 세계와 전자상거래/연습 문제.md",
-    "NF1003_컴퓨터 개론/8. 가까이 다가오는 인공지능/연습 문제.md",
-    "NA1011_프로그래밍 입문/기말 고사 일정.md",
-    "NA1011_프로그래밍 입문/12. 배열/README.md",
-    "NA1011_프로그래밍 입문/12. 배열/행렬.md",
-    "NA1011_프로그래밍 입문/12. 배열/정렬.md",
-    "NA1011_프로그래밍 입문/12. 배열/잘못된 인덱스 문제.md",
-    "NA1011_프로그래밍 입문/12. 배열/이진 탐색.md",
     "스크린샷 2024-05-21 225212.png",
     "스크린샷 2024-05-23 041229.png",
     "스크린샷 2024-05-26 194733.png"
