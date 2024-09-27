@@ -8,6 +8,7 @@ def generate_folder_structure(dir_path, prefix=""):
     for entry in sorted(os.listdir(dir_path)):
         full_path = os.path.join(dir_path, entry)
         if os.path.isdir(full_path) and entry not in EXCLUDE_DIRS:
+            # 숫자 제거하고 그냥 이름으로 출력
             structure += f"{prefix}- {entry}\n"
             structure += generate_folder_structure(full_path, prefix + "  ")
         elif os.path.isfile(full_path) and entry not in EXCLUDE_FILES:
