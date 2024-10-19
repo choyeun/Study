@@ -1,0 +1,49 @@
+{
+  "uuid": "nacwfy9qmccwfy5xrj060e",
+  "gates": {
+    "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy8=": {
+      "id": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy8=",
+      "title": "Microsoft Todo",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy8%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://to-do.live.com/tasks/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20=": {
+      "id": "aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20=",
+      "title": "chat-gpt",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://chat.openai.com",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly9kaXNjb3JkLmNvbS9jaGFubmVscy9AbWU=": {
+      "id": "aHR0cHM6Ly9kaXNjb3JkLmNvbS9jaGFubmVscy9AbWU=",
+      "title": "discord",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9kaXNjb3JkLmNvbS9jaGFubmVscy9AbWU%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://discord.com/channels/@me",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly9ub3ZlbHBpYS5jb20v": {
+      "id": "aHR0cHM6Ly9ub3ZlbHBpYS5jb20v",
+      "title": "Novelpia",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9ub3ZlbHBpYS5jb20v\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://novelpia.com/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}

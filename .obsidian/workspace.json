@@ -13,10 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AN2026_파이썬 프로그래밍/OT.md",
-                "mode": "preview",
+                "file": "기말 정리.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "기말 정리"
+            }
+          },
+          {
+            "id": "2346b66a4178ec8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기말 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "기말 정리"
+            }
+          },
+          {
+            "id": "17b222e50d67f3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인공지능개론_중간고사정리_20241017T124807.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "인공지능개론_중간고사정리_20241017T124807"
             }
           }
         ]
@@ -39,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -48,13 +80,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "무제",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,10 +96,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AN2026_파이썬 프로그래밍/OT.md",
+                "file": "인공지능개론_중간고사정리_20241017T124807.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "인공지능개론_중간고사정리_20241017T124807의 백링크"
             }
           },
           {
@@ -102,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AN2026_파이썬 프로그래밍/OT.md",
+                "file": "인공지능개론_중간고사정리_20241017T124807.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "인공지능개론_중간고사정리_20241017T124807의 나가는 링크"
             }
           },
           {
@@ -116,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,25 +168,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AN2026_파이썬 프로그래밍/OT.md"
-              }
-            }
-          },
-          {
-            "id": "7b22e68b5ab5cba0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+                "file": "기말 정리.md"
+              },
+              "icon": "lucide-list",
+              "title": "기말 정리 개요"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "919e9503823d4ead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9af4503fc41d699",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20=",
+              "state": {},
+              "icon": "aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20=",
+              "title": "chat-gpt"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,47 +205,51 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-gate:Microsoft Todo": false,
+      "open-gate:chat-gpt": false,
+      "open-gate:discord": false,
+      "open-gate:Novelpia": false
     }
   },
-  "active": "6ef4607c9b210b70",
+  "active": "d8073e09e970676d",
   "lastOpenFiles": [
-    "NA2015_인공지능 개론/1. 인공지능 개요/인공지능과 데이터.md",
+    "인공지능개론_중간고사정리_20241017T124807.md",
+    "A10001_사고와 표현/1. 생각하기와 표현하기/무제 파일.md",
+    "기말 정리.md",
     "AN2026_파이썬 프로그래밍/OT.md",
-    "AN2026_파이썬 프로그래밍",
-    "NA2015_인공지능 개론/1. 인공지능 개요/AI 기술의 활용.md",
-    "NA2015_인공지능 개론/1. 인공지능 개요/AI란.md",
-    "NA2015_인공지능 개론/OT.md",
-    "NA2015_인공지능 개론/1. 인공지능 개요",
+    "B10008_인류 문명과 세계 문화사/지상에 건축된 신의 낙원, 앙코르와트 20241019T092000.md",
+    "B10008_인류 문명과 세계 문화사/피라미드와 스핑크스를 낳은 인류의 지혜, 이집트 문명 20241010.md",
+    "B10008_인류 문명과 세계 문화사/사막에서 꽃피었다 전설로 남은 도시문명, 메소포타미아와  바벨론.md",
+    "B10008_인류 문명과 세계 문화사/인류 문명의 새벽과 세계의 문화유산.md",
+    "B10008_인류 문명과 세계 문화사/대학 교육과 문명, 문화사.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/6. 고치기는 글의 완성/1. 글 고치기의 중요성/'일필휘지'란 말이 있다 20241016T134021.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/5. 단락은 어떻게 운용하나/1. 문장과 단락/한 편의 글은 문장과 단락으로 구성된다 20241016T130000.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/6. 고치기는 글의 완성/1. 글 고치기의 중요성",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/6. 고치기는 글의 완성",
     "C10002_아리 진로 상담과 창의 융합 기업가 정신/OT.md",
-    "NA2015_인공지능 개론",
-    "B10008_인류 문명과 세계 문화사/OT.md",
-    "C10002_아리 진로 상담과 창의 융합 기업가 정신",
-    "인류문명과세계문화사",
-    "NA2016_프로그래밍 응용/OT.md",
-    "B10008_인류 문명과 세계 문화사",
     "README.md",
-    "AE0069_JAVA프로그래밍/OT.md",
-    "AE0069_JAVA프로그래밍",
-    "A10001_사고와 표현/OT.md",
-    "A10001_사고와 표현/중간고사.md",
-    "A10001_사고와 표현/1. 생각하기와 표현하기/머리말.md",
-    "NA2016_프로그래밍 응용/7. array/array이란.md",
-    "NA1011_프로그래밍 입문/12. 배열/다차원 배열을 이용한 행렬의 표현.md",
-    "A10001_사고와 표현/1. 생각하기와 표현하기",
-    "NA2016_프로그래밍 응용/7. array/목표.md",
-    "NA2016_프로그래밍 응용/~$제7장 배열(강의).pptx",
-    "NA2016_프로그래밍 응용/7. array",
-    "NA2016_프로그래밍 응용/배열.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/4. 개요는 집짓기의 설계도/1. 개요의 쓸모/개요는 글을 집필하기 전 글을 기획하는 과정에서 글의 뼈대가 되는 내용을 조직한 구조도 이다 20241016.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/5. 단락은 어떻게 운용하나/1. 문장과 단락",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/5. 단락은 어떻게 운용하나",
     "기말 과제.md",
-    "AA1072_기독교 개론/기말 고사 일정.md",
-    "NF1003_컴퓨터 개론/연습 문제 몰아보기.md",
-    "NF1003_컴퓨터 개론/7. 최근의 컴퓨터 응용 기술/연습 문제.md",
-    "NF1003_컴퓨터 개론/13. 데이터베이스와 컴퓨터 보안/연습 문제.md",
-    "NF1003_컴퓨터 개론/12. 컴퓨터와 소통하는 프로그래밍 언어/연습 문제.md",
-    "NF1003_컴퓨터 개론/11. IT 융합 기술 응용과 모바일 컴퓨팅/연습 문제.md",
-    "NF1003_컴퓨터 개론/10. 떠오르는 4차 산업혁명 기술/연습 문제.md",
-    "NF1003_컴퓨터 개론/9. 멀티미디어의 세계와 전자상거래/연습 문제.md",
+    "ㅎㅎ.md",
+    "A10001_사고와 표현/OT.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/3. 무엇을 쓸 것인가/1. 주제가 무엇일까/글을 쓰는 목적이 '왜 쓰는가'라는 질문과 연결된다면, 글의 주제는 '무엇을 쓰는가'에서 그 '무엇'에 해당한다 20241015.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/4. 개요는 집짓기의 설계도/1. 개요의 쓸모",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/4. 개요는 집짓기의 설계도",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/3. 무엇을 쓸 것인가/1. 주제가 무엇일까",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/3. 무엇을 쓸 것인가",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/2. 글쓰기의 목적은 무엇인가/1. 왜 쓰는가/글을 왜 쓰는가 20241015.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/1. 글쓰기에도 과정이 있다/좋은 글은 단번에 쓰이지 않는다 20241015.md",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/2. 글쓰기의 목적은 무엇인가/1. 왜 쓰는가",
+    "A10001_사고와 표현/2. 즐거운 글쓰기/2. 글쓰기의 목적은 무엇인가",
+    "A10001_사고와 표현/1. 즐거운 글쓰기/1. 글쓰기에도 과정이 있다.md",
+    "NA2016_프로그래밍 응용/7. array/목표.md",
+    "NA2016_프로그래밍 응용/7. array/array이란.md",
+    "NA2016_프로그래밍 응용/9. pointer/pointer.md",
+    "시간표.md",
+    "NA2016_프로그래밍 응용/9. pointer/20241002 함수와 포인터.md",
     "스크린샷 2024-05-21 225212.png",
     "스크린샷 2024-05-23 041229.png",
     "스크린샷 2024-05-26 194733.png"
