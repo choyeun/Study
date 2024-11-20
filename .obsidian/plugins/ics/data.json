@@ -1,0 +1,24 @@
+{
+  "format": {
+    "timeFormat": "HH:mm",
+    "dataViewSyntax": true
+  },
+  "calendars": {
+    "대학 일정": {
+      "icsName": "대학 일정",
+      "icsUrl": "https://calendar.google.com/calendar/ical/5a957a58d14f72c728deb17e41ef81aae8dc8f59a0800379c950b27e6eff1705%40group.calendar.google.com/private-82f37e2f8e28273dd67f2563d04dead7/basic.ics",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": true,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": true,
+        "calendarType": "remote",
+        "showAttendees": true,
+        "showOngoing": true
+      },
+      "calendarType": "remote"
+    }
+  }
+}
