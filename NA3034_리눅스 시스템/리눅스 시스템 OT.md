@@ -10,3 +10,6 @@ CLI 배움
 쉬는 시간 없이 12:30에 끝내기 목표 
 
 과제 많음 
+
+vm 설명
+virtualbox에 fedora 설치 
