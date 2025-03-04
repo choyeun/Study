@@ -6,6 +6,7 @@
     "담당 교수": "multitext",
     "교과코드": "multitext",
     "이수 구분": "multitext",
-    "page": "number"
+    "page": "number",
+    "시간": "datetime"
   }
 }

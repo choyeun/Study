@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "vimMode": true
