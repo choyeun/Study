@@ -11,3 +11,9 @@ iso 다운로드
 
 설치
 
+## VM spec 
+
+2 cpu 
+4096mb
+30gb
+
