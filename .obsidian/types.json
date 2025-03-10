@@ -3,10 +3,10 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "담당 교수": "multitext",
-    "교과코드": "multitext",
-    "이수 구분": "multitext",
     "page": "number",
-    "시간": "datetime"
+    "시간": "datetime",
+    "교수": "multitext",
+    "과목": "multitext",
+    "강의 n주차": "number"
   }
 }

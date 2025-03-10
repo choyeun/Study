@@ -6,5 +6,15 @@
       ],
       "key": "Numpad0"
     }
-  ]
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "open-gate:open-list-gates-modal": []
 }
