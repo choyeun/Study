@@ -3,5 +3,6 @@
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "vimMode": false
+  "vimMode": false,
+  "spellcheck": false
 }
