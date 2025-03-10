@@ -4,5 +4,5 @@
 [[박은화]] 01032686202 ingrid0704@anyang.ac.kr 
 기말 1번 
 출석 20 과제 30 시험 50 
-online
+online 기말고사만 offline 
 과제는 실사용 예시 ㅇㅇ 
