@@ -5,6 +5,7 @@
     "tags": "tags",
     "page": "number",
     "시간": "datetime",
-    "교수": "multitext"
+    "교수": "multitext",
+    "과목": "multitext"
   }
 }
