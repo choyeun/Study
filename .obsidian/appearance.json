@@ -1,3 +1,12 @@
 {
-  "accentColor": ""
+  "accentColor": "#44932f",
+  "cssTheme": "🔔 Chime",
+  "interfaceFontFamily": "D2Coding ligature",
+  "textFontFamily": "D2Coding ligature",
+  "monospaceFontFamily": "D2Coding ligature",
+  "enabledCssSnippets": [
+    "header"
+  ],
+  "theme": "system",
+  "showViewHeader": false
 }

@@ -1,0 +1,52 @@
+/* 기본적으로 헤더 인디케이터 숨기기 */
+.markdown-preview-view h1::before,
+.markdown-preview-view h2::before,
+.markdown-preview-view h3::before,
+.markdown-preview-view h4::before,
+.markdown-preview-view h5::before,
+.markdown-preview-view h6::before {
+  content: ' ';
+  color: transparent; /* 색상을 투명으로 설정 */
+  font-weight: bold;
+  margin-right: 5px;
+  font-size: 0.8em;
+  opacity: 0; /* 인디케이터를 기본적으로 숨김 */
+  transition: opacity 0.3s ease; /* 부드러운 트랜지션 효과 */
+}
+
+/* 마우스를 올렸을 때 인디케이터 표시 */
+.markdown-preview-view h1:hover::before {
+  content: 'H1';
+  color: #ff6347; /* 색상 조정 */
+  opacity: 1;
+}
+
+.markdown-preview-view h2:hover::before {
+  content: 'H2';
+  color: #4682b4; /* 색상 조정 */
+  opacity: 1;
+}
+
+.markdown-preview-view h3:hover::before {
+  content: 'H3';
+  color: #32cd32; /* 색상 조정 */
+  opacity: 1;
+}
+
+.markdown-preview-view h4:hover::before {
+  content: 'H4';
+  color: #ff4500; /* 색상 조정 */
+  opacity: 1;
+}
+
+.markdown-preview-view h5:hover::before {
+  content: 'H5';
+  color: #da70d6; /* 색상 조정 */
+  opacity: 1;
+}
+
+.markdown-preview-view h6:hover::before {
+  content: 'H6';
+  color: #d3d3d3; /* 색상 조정 */
+  opacity: 1;
+}

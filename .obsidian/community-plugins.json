@@ -7,5 +7,9 @@
   "open-gate",
   "global-search-and-replace",
   "ics",
-  "dataview"
+  "dataview",
+  "ninja-cursor",
+  "settings-search",
+  "obsidian-footnotes",
+  "obsidian-linter"
 ]

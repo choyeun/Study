@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "vimMode": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": true
 }
