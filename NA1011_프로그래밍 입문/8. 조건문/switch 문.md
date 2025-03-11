@@ -1,3 +1,14 @@
+---
+aliases:
+  - Switch 문
+date created: 월요일, 6월 17일 2024, 3:55:37 오전
+date modified: 수요일, 3월 12일 2025, 8:06:28 오전
+linter-yaml-title-alias: Switch 문
+title: Switch 문
+---
+
+# Switch 문
+
 여러 가지 경우 중에서 하나를 선택하는데 사용
 
 ```mermaid

@@ -1,3 +1,12 @@
+---
+aliases:
+  - Study Repository
+date created: 일요일, 5월 26일 2024, 3:51:36 오후
+date modified: 수요일, 3월 12일 2025, 8:42:37 오전
+linter-yaml-title-alias: Study Repository
+title: Study Repository
+---
+
 # Study Repository
 
 이 저장소는 대학 강의 필기를 관리하기 위해 만들어졌습니다. 각 과목은 과목 코드와 이름으로 된 폴더로 구성되며, 각 폴더는 단원별로 구분된 Markdown 파일을 포함합니다.

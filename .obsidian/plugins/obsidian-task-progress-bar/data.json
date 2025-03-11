@@ -1,0 +1,65 @@
+{
+  "showProgressBar": true,
+  "addTaskProgressBarToHeading": true,
+  "enableHeadingProgressBar": true,
+  "addNumberToProgressBar": true,
+  "autoCompleteParent": true,
+  "showPercentage": false,
+  "countSubLevel": true,
+  "hideProgressBarBasedOnConditions": false,
+  "hideProgressBarTags": "no-progress-bar",
+  "hideProgressBarFolders": "",
+  "hideProgressBarMetadata": "hide-progress-bar",
+  "taskStatuses": {
+    "completed": "x|X",
+    "inProgress": ">|/",
+    "abandoned": "-",
+    "notStarted": " ",
+    "planned": "?"
+  },
+  "countOtherStatusesAs": "notStarted",
+  "excludeTaskMarks": "",
+  "onlyCountTaskMarks": "x|X",
+  "useOnlyCountMarks": false,
+  "customizeProgressRanges": false,
+  "progressRanges": [
+    {
+      "min": 0,
+      "max": 20,
+      "text": "Just started {{PROGRESS}}%"
+    },
+    {
+      "min": 20,
+      "max": 40,
+      "text": "Making progress {{PROGRESS}}%"
+    },
+    {
+      "min": 40,
+      "max": 60,
+      "text": "Half way {{PROGRESS}}%"
+    },
+    {
+      "min": 60,
+      "max": 80,
+      "text": "Good progress {{PROGRESS}}%"
+    },
+    {
+      "min": 80,
+      "max": 100,
+      "text": "Almost there {{PROGRESS}}%"
+    }
+  ],
+  "enableTaskStatusSwitcher": true,
+  "taskStatusCycle": [
+    "TODO",
+    "DOING",
+    "IN-PROGRESS",
+    "DONE"
+  ],
+  "taskStatusMarks": {
+    "TODO": " ",
+    "DOING": "-",
+    "IN-PROGRESS": ">",
+    "DONE": "x"
+  }
+}

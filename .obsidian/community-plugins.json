@@ -11,5 +11,18 @@
   "ninja-cursor",
   "settings-search",
   "obsidian-footnotes",
-  "obsidian-linter"
+  "obsidian-linter",
+  "templater-obsidian",
+  "cmdr",
+  "quickadd",
+  "checkbox-reorder",
+  "day-planner-og",
+  "periodic-notes",
+  "calendar",
+  "obsidian-tasks-plugin",
+  "obsidian-task-progress-bar",
+  "obsidian-tracker",
+  "widgets",
+  "css-editor",
+  "oz-clear-unused-images"
 ]

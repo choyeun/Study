@@ -1,0 +1,19 @@
+{
+  "customFolder": "Day Planners",
+  "debug": false,
+  "mode": "File",
+  "mermaid": false,
+  "notesToDates": [],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 4,
+  "timelineIcon": "calendar-with-checkmark",
+  "plannerLabel": "Day Planner",
+  "breakLabel": "BREAK",
+  "endLabel": "END",
+  "markCurrent": false,
+  "correctLabels": true,
+  "preserveValues": "-"
+}
