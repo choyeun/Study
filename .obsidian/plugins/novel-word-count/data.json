@@ -77,7 +77,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.1,
-      "characterCount": 3023,
+      "characterCount": 3031,
       "nonWhitespaceCharacterCount": 2452,
       "readingTimeInMinutes": 1.0271320754716982,
       "linkCount": 0,
@@ -86,8 +86,8 @@
         "Dataviewjs Test"
       ],
       "createdDate": 1741766227594,
-      "modifiedDate": 1741770786269,
-      "sizeInBytes": 3488,
+      "modifiedDate": 1741771870414,
+      "sizeInBytes": 3496,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.1,
@@ -100,7 +100,7 @@
           "Dataviewjs Test"
         ],
         "date created": "수요일, 3월 12일 2025, 4:57:07 오후",
-        "date modified": "수요일, 3월 12일 2025, 6:13:04 오후",
+        "date modified": "수요일, 3월 12일 2025, 6:31:08 오후",
         "linter-yaml-title-alias": "Dataviewjs Test",
         "title": "Dataviewjs Test"
       }

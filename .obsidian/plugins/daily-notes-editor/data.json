@@ -1,0 +1,11 @@
+{
+  "hideFrontmatter": true,
+  "hideBacklinks": true,
+  "createAndOpenOnStartup": false,
+  "preset": [
+    {
+      "type": "folder",
+      "target": "daily note"
+    }
+  ]
+}
