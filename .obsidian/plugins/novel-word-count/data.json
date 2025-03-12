@@ -585,8 +585,8 @@
         "예상 반박 질문"
       ],
       "createdDate": 1733223988639,
-      "modifiedDate": 1741736558316,
-      "sizeInBytes": 4788,
+      "modifiedDate": 1741793590203,
+      "sizeInBytes": 4824,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.256666666666667,
@@ -599,9 +599,12 @@
           "예상 반박 질문"
         ],
         "date created": "화요일, 12월 3일 2024, 8:06:28 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:33:08 오전",
         "linter-yaml-title-alias": "예상 반박 질문",
-        "title": "예상 반박 질문"
+        "title": "예상 반박 질문",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "리눅스 시스템.md": {
@@ -694,8 +697,8 @@
         "~~사고와 표현~~"
       ],
       "createdDate": 1729336659565,
-      "modifiedDate": 1741736558318,
-      "sizeInBytes": 2546,
+      "modifiedDate": 1741793572782,
+      "sizeInBytes": 2582,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.0033333333333334,
@@ -708,9 +711,12 @@
           "~~사고와 표현~~"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:32:52 오전",
         "linter-yaml-title-alias": "~~사고와 표현~~",
-        "title": "~~사고와 표현~~"
+        "title": "~~사고와 표현~~",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "교집합.md": {
@@ -4671,8 +4677,8 @@
         "사막에서 발달하는 학문"
       ],
       "createdDate": 1729336659554,
-      "modifiedDate": 1741736558488,
-      "sizeInBytes": 1119,
+      "modifiedDate": 1741794298461,
+      "sizeInBytes": 1171,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7833333333333333,
@@ -4687,7 +4693,10 @@
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
         "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
         "linter-yaml-title-alias": "사막에서 발달하는 학문",
-        "title": "사막에서 발달하는 학문"
+        "title": "사막에서 발달하는 학문",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/지상에 건축된 신의 낙원, 앙코르와트 20241019T092000.md": {
@@ -4705,8 +4714,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729336659553,
-      "modifiedDate": 1741736558490,
-      "sizeInBytes": 1802,
+      "modifiedDate": 1741794285799,
+      "sizeInBytes": 1854,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.45,
@@ -4717,7 +4726,10 @@
       "frontmatter": {
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
         "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "지상에 건축된 신의 낙원, 앙코르와트 20241019T092000"
+        "title": "지상에 건축된 신의 낙원, 앙코르와트 20241019T092000",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/중국 문명을 도약시킨 젊은 황제, 진시황 20241107T103948.md": {
@@ -4735,8 +4747,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1731142421152,
-      "modifiedDate": 1741736558494,
-      "sizeInBytes": 810,
+      "modifiedDate": 1741794278791,
+      "sizeInBytes": 862,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5366666666666666,
@@ -4747,7 +4759,10 @@
       "frontmatter": {
         "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
         "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "중국 문명을 도약시킨 젊은 황제, 진시황 20241107T103948"
+        "title": "중국 문명을 도약시킨 젊은 황제, 진시황 20241107T103948",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/인류 문명과 세계 문화사 OT.md": {
@@ -4765,8 +4780,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727924986321,
-      "modifiedDate": 1741736558496,
-      "sizeInBytes": 348,
+      "modifiedDate": 1741794299395,
+      "sizeInBytes": 401,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.16666666666666666,
@@ -4776,8 +4791,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "인류 문명과 세계 문화사 OT"
+        "date modified": "목요일, 3월 13일 2025, 12:44:59 오전",
+        "title": "인류 문명과 세계 문화사 OT",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/서양 고대문명의 저장고, 로마제국 20241120T101500.md": {
@@ -4795,8 +4813,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732187709879,
-      "modifiedDate": 1741736558506,
-      "sizeInBytes": 1957,
+      "modifiedDate": 1741794156504,
+      "sizeInBytes": 2010,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.6166666666666667,
@@ -4806,65 +4824,30 @@
       },
       "frontmatter": {
         "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "서양 고대문명의 저장고, 로마제국 20241120T101500"
-      }
-    },
-    "B10008_인류 문명과 세계 문화사/유럽 중국 중심 세계관과 다른 지역의 문명20241030T090000.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 460,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5333333333333334,
-      "characterCount": 865,
-      "nonWhitespaceCharacterCount": 622,
-      "readingTimeInMinutes": 0.9324150943396227,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "유럽 중국 중심 세계관과 다른 지역의 문명 20241030T090000"
-      ],
-      "createdDate": 1731142421151,
-      "modifiedDate": 1741736558498,
-      "sizeInBytes": 2160,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.5333333333333334,
-        "wordCount": 460,
-        "characterCount": 865,
-        "nonWhitespaceCharacterCount": 622
-      },
-      "frontmatter": {
-        "aliases": [
-          "유럽 중국 중심 세계관과 다른 지역의 문명 20241030T090000"
-        ],
-        "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "유럽 중국 중심 세계관과 다른 지역의 문명 20241030T090000",
-        "title": "유럽 중국 중심 세계관과 다른 지역의 문명 20241030T090000"
+        "date modified": "목요일, 3월 13일 2025, 12:42:36 오전",
+        "title": "서양 고대문명의 저장고, 로마제국 20241120T101500",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/인류 문명의 새벽과 세계의 문화유산.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 27,
-      "nonWhitespaceCharacterCount": 15,
-      "readingTimeInMinutes": 0.029773584905660375,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 31,
+      "readingTimeInMinutes": 0.05977358490566038,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "조 정하기"
-      ],
+      "aliases": null,
       "createdDate": 1729336659553,
-      "modifiedDate": 1741734389779,
-      "sizeInBytes": 263,
+      "modifiedDate": 1741794173245,
+      "sizeInBytes": 339,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04666666666666667,
@@ -4873,13 +4856,12 @@
         "nonWhitespaceCharacterCount": 15
       },
       "frontmatter": {
-        "aliases": [
-          "조 정하기"
-        ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "linter-yaml-title-alias": "조 정하기",
-        "title": "조 정하기"
+        "date modified": "목요일, 3월 13일 2025, 12:42:51 오전",
+        "title": "인류 문명의 새벽과 세계의 문화유산",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/시간을 넘어 문명을 전하는 제국의 도시, 폼페이 20241121T095700.md": {
@@ -4897,8 +4879,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732187709879,
-      "modifiedDate": 1741736558503,
-      "sizeInBytes": 1411,
+      "modifiedDate": 1741794168884,
+      "sizeInBytes": 1464,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.1233333333333333,
@@ -4908,8 +4890,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "시간을 넘어 문명을 전하는 제국의 도시, 폼페이 20241121T095700"
+        "date modified": "목요일, 3월 13일 2025, 12:42:48 오전",
+        "title": "시간을 넘어 문명을 전하는 제국의 도시, 폼페이 20241121T095700",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/문화유산이 들려주는 문화사 20241114T110500.md": {
@@ -4927,8 +4912,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732187709878,
-      "modifiedDate": 1741736558513,
-      "sizeInBytes": 1048,
+      "modifiedDate": 1741794138538,
+      "sizeInBytes": 1101,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.81,
@@ -4938,8 +4923,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "문화유산이 들려주는 문화사 20241114T110500"
+        "date modified": "목요일, 3월 13일 2025, 12:42:18 오전",
+        "title": "문화유산이 들려주는 문화사 20241114T110500",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/대학 교육과 문명, 문화사.md": {
@@ -4959,8 +4947,8 @@
         "과제"
       ],
       "createdDate": 1729336659552,
-      "modifiedDate": 1741736558515,
-      "sizeInBytes": 755,
+      "modifiedDate": 1741794123584,
+      "sizeInBytes": 808,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.51,
@@ -4973,9 +4961,12 @@
           "과제"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:42:03 오전",
         "linter-yaml-title-alias": "과제",
-        "title": "과제"
+        "title": "과제",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "B10008_인류 문명과 세계 문화사/로마 20241212T110100.md": {
@@ -4993,8 +4984,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1734172960034,
-      "modifiedDate": 1741736558508,
-      "sizeInBytes": 1079,
+      "modifiedDate": 1741794090083,
+      "sizeInBytes": 1131,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7866666666666666,
@@ -5005,43 +4996,10 @@
       "frontmatter": {
         "date created": "토요일, 12월 14일 2024, 7:42:40 오후",
         "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "로마 20241212T110100"
-      }
-    },
-    "B10008_인류 문명과 세계 문화사/사막에서 꽃피었다 전설로 남은 도시문명, 메소포타미아와  바벨론.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 40,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 71,
-      "nonWhitespaceCharacterCount": 45,
-      "readingTimeInMinutes": 0.08,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "영상 압축"
-      ],
-      "createdDate": 1729336659552,
-      "modifiedDate": 1741736558500,
-      "sizeInBytes": 361,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13333333333333333,
-        "wordCount": 40,
-        "characterCount": 71,
-        "nonWhitespaceCharacterCount": 45
-      },
-      "frontmatter": {
-        "aliases": [
-          "영상 압축"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "영상 압축",
-        "title": "영상 압축"
+        "title": "로마 20241212T110100",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
       }
     },
     "AE0069_JAVA프로그래밍/JAVA 프로그래밍 OT.md": {
@@ -5059,8 +5017,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727924986319,
-      "modifiedDate": 1741736558532,
-      "sizeInBytes": 303,
+      "modifiedDate": 1741793915529,
+      "sizeInBytes": 371,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.10666666666666667,
@@ -5070,29 +5028,33 @@
       },
       "frontmatter": {
         "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "JAVA 프로그래밍 OT"
+        "date modified": "목요일, 3월 13일 2025, 12:38:35 오전",
+        "title": "JAVA 프로그래밍 OT",
+        "과목": [
+          "[[JAVA 프로그래밍]]"
+        ],
+        "교수": [
+          "[[유수봉]]"
+        ]
       }
     },
     "AN2026_파이썬 프로그래밍/파이썬 프로그래밍 OT.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 23,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 61,
-      "readingTimeInMinutes": 0.03332075471698113,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 86,
+      "nonWhitespaceCharacterCount": 71,
+      "readingTimeInMinutes": 0.05309433962264151,
       "linkCount": 2,
       "embedCount": 0,
-      "aliases": [
-        "연락처"
-      ],
+      "aliases": null,
       "createdDate": 1727924986320,
-      "modifiedDate": 1741736558527,
-      "sizeInBytes": 292,
+      "modifiedDate": 1741794050330,
+      "sizeInBytes": 337,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04666666666666667,
@@ -5101,13 +5063,13 @@
         "nonWhitespaceCharacterCount": 61
       },
       "frontmatter": {
-        "aliases": [
-          "연락처"
-        ],
         "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "연락처",
-        "title": "연락처"
+        "date modified": "목요일, 3월 13일 2025, 12:40:50 오전",
+        "title": "파이썬 프로그래밍 OT",
+        "과목": [
+          "[[파이썬 프로그래밍]]"
+        ],
+        "교수": null
       }
     },
     "AE0049_C 프로그래밍 입문/C 프로그래밍 입문 OT.md": {
@@ -5125,8 +5087,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1717842149528,
-      "modifiedDate": 1741767002807,
-      "sizeInBytes": 391,
+      "modifiedDate": 1741793763966,
+      "sizeInBytes": 435,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.17666666666666667,
@@ -5136,38 +5098,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 6월 8일 2024, 7:22:29 오후",
-        "date modified": "수요일, 3월 12일 2025, 5:10:02 오후",
-        "title": "C 프로그래밍 입문 OT"
-      }
-    },
-    "AE0049_C 프로그래밍 입문/과제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2179,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.263333333333334,
-      "characterCount": 10695,
-      "nonWhitespaceCharacterCount": 8344,
-      "readingTimeInMinutes": 5.945358490566038,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1717842149528,
-      "modifiedDate": 1741734389826,
-      "sizeInBytes": 13398,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.263333333333334,
-        "wordCount": 2179,
-        "characterCount": 10695,
-        "nonWhitespaceCharacterCount": 8344
-      },
-      "frontmatter": {
-        "date created": "토요일, 6월 8일 2024, 7:22:29 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "과제"
+        "date modified": "목요일, 3월 13일 2025, 12:35:49 오전",
+        "title": "C 프로그래밍 입문 OT",
+        "과목": [
+          "[[C 프로그래밍 입문]]"
+        ]
       }
     },
     "AC2024E7109_김인찬_기말평가_202401.hwp": {
@@ -5199,19 +5134,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 134,
+      "wordCount": 114,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.44666666666666666,
-      "characterCount": 250,
-      "nonWhitespaceCharacterCount": 179,
-      "readingTimeInMinutes": 0.29815094339622644,
+      "pageCount": 0.38,
+      "characterCount": 212,
+      "nonWhitespaceCharacterCount": 143,
+      "readingTimeInMinutes": 0.2510566037735849,
       "linkCount": 0,
-      "embedCount": 1,
+      "embedCount": 0,
       "aliases": null,
       "createdDate": 1718435917222,
-      "modifiedDate": 1741766324850,
-      "sizeInBytes": 677,
+      "modifiedDate": 1741793725133,
+      "sizeInBytes": 643,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.44666666666666666,
@@ -5221,8 +5156,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 6월 15일 2024, 4:18:37 오후",
-        "date modified": "수요일, 3월 12일 2025, 4:58:42 오후",
+        "date modified": "목요일, 3월 13일 2025, 12:35:25 오전",
         "title": "기독교 개론 기말 고사 일정",
+        "과목": [
+          "[[기독교 개론]]"
+        ],
         "시험 일정": "2024-06-21"
       }
     },
@@ -5268,8 +5206,8 @@
         "인간 존엄성과 생명의 고유한 가치를 훼손할 수 있다"
       ],
       "createdDate": 1732187709878,
-      "modifiedDate": 1741736558533,
-      "sizeInBytes": 1258,
+      "modifiedDate": 1741793550971,
+      "sizeInBytes": 1294,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.74,
@@ -5282,9 +5220,12 @@
           "인간 존엄성과 생명의 고유한 가치를 훼손할 수 있다"
         ],
         "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:32:30 오전",
         "linter-yaml-title-alias": "인간 존엄성과 생명의 고유한 가치를 훼손할 수 있다",
-        "title": "인간 존엄성과 생명의 고유한 가치를 훼손할 수 있다"
+        "title": "인간 존엄성과 생명의 고유한 가치를 훼손할 수 있다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/사고와 표현 OT.md": {
@@ -5304,8 +5245,8 @@
         "교양 필수"
       ],
       "createdDate": 1741439083908,
-      "modifiedDate": 1741736558537,
-      "sizeInBytes": 587,
+      "modifiedDate": 1741793145567,
+      "sizeInBytes": 671,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3233333333333333,
@@ -5318,9 +5259,15 @@
           "교양 필수"
         ],
         "date created": "토요일, 3월 8일 2025, 10:04:43 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:25:43 오전",
         "linter-yaml-title-alias": "교양 필수",
-        "title": "교양 필수"
+        "title": "교양 필수",
+        "과목": [
+          "[[../사고와 표현|사고와 표현]]"
+        ],
+        "교수": [
+          "[[김중철]]"
+        ]
       }
     },
     "A10001_사고와 표현/중간고사.md": {
@@ -5338,8 +5285,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727924986319,
-      "modifiedDate": 1741734389867,
-      "sizeInBytes": 178,
+      "modifiedDate": 1741793557300,
+      "sizeInBytes": 214,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03,
@@ -5349,8 +5296,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "중간고사"
+        "date modified": "목요일, 3월 13일 2025, 12:32:37 오전",
+        "title": "중간고사",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/4. 명쾌한 토론/2. 토론의 기초/2. 토론 참여자의 역할/토론자의 역할 20241119T111900.md": {
@@ -5368,8 +5318,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732187709878,
-      "modifiedDate": 1741734389839,
-      "sizeInBytes": 206,
+      "modifiedDate": 1741793527428,
+      "sizeInBytes": 242,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.023333333333333334,
@@ -5379,8 +5329,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "토론자의 역할 20241119T111900"
+        "date modified": "목요일, 3월 13일 2025, 12:32:07 오전",
+        "title": "토론자의 역할 20241119T111900",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/4. 명쾌한 토론/2. 토론의 기초/1. 토론의 종류/토론은 대화의 특수 형태이다 20241119T111300.md": {
@@ -5398,8 +5351,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732187709878,
-      "modifiedDate": 1741734389840,
-      "sizeInBytes": 246,
+      "modifiedDate": 1741793517872,
+      "sizeInBytes": 282,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.043333333333333335,
@@ -5409,8 +5362,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "토론은 대화의 특수 형태이다 20241119T111300"
+        "date modified": "목요일, 3월 13일 2025, 12:31:57 오전",
+        "title": "토론은 대화의 특수 형태이다 20241119T111300",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/3. 유쾌한 말하기/1. 말하기의 이해/3. 언어적 요소와 비언어적 요소/의사소통의 수단에는 언어적인 것과 비언어적인 것이 있다 20241105T112318.md": {
@@ -5428,8 +5384,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1731142421151,
-      "modifiedDate": 1741734389869,
-      "sizeInBytes": 323,
+      "modifiedDate": 1741793497527,
+      "sizeInBytes": 359,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.08333333333333333,
@@ -5439,8 +5395,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "의사소통의 수단에는 언어적인 것과 비언어적인 것이 있다 20241105T112318"
+        "date modified": "목요일, 3월 13일 2025, 12:31:37 오전",
+        "title": "의사소통의 수단에는 언어적인 것과 비언어적인 것이 있다 20241105T112318",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/3. 유쾌한 말하기/1. 말하기의 이해/1. 의사소통으로서 말하기/사람은 태어난 순간부터 죽을 때까지 말을 한다 20241105T110000.md": {
@@ -5458,8 +5417,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1731142421151,
-      "modifiedDate": 1741736558552,
-      "sizeInBytes": 406,
+      "modifiedDate": 1741793430760,
+      "sizeInBytes": 441,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.16666666666666666,
@@ -5470,7 +5429,10 @@
       "frontmatter": {
         "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
         "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "사람은 태어난 순간부터 죽을 때까지 말을 한다 20241105T110000"
+        "title": "사람은 태어난 순간부터 죽을 때까지 말을 한다 20241105T110000",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/3. 유쾌한 말하기/2. 일상과 대화/1. 대화의 개념과 특성/일상 속에서 늘 이루어지는 대화는 몇 가지 특성이 있다 20241112T102000.md": {
@@ -5490,8 +5452,8 @@
         "말하기의 유형"
       ],
       "createdDate": 1732187709877,
-      "modifiedDate": 1741736558555,
-      "sizeInBytes": 980,
+      "modifiedDate": 1741793506049,
+      "sizeInBytes": 1016,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6833333333333333,
@@ -5504,9 +5466,12 @@
           "말하기의 유형"
         ],
         "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:31:46 오전",
         "linter-yaml-title-alias": "말하기의 유형",
-        "title": "말하기의 유형"
+        "title": "말하기의 유형",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/6. 고치기는 글의 완성/1. 글 고치기의 중요성/'일필휘지'란 말이 있다 20241016T134021.md": {
@@ -5526,8 +5491,8 @@
         "' 일필휘지 ' 란 말이 있다 20241016T134021"
       ],
       "createdDate": 1729336659549,
-      "modifiedDate": 1741735903475,
-      "sizeInBytes": 382,
+      "modifiedDate": 1741793451337,
+      "sizeInBytes": 418,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -5540,9 +5505,12 @@
           "' 일필휘지 ' 란 말이 있다 20241016T134021"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:31:43 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:30:51 오전",
         "linter-yaml-title-alias": "' 일필휘지 ' 란 말이 있다 20241016T134021",
-        "title": "' 일필휘지 ' 란 말이 있다 20241016T134021"
+        "title": "' 일필휘지 ' 란 말이 있다 20241016T134021",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/6. 고치기는 글의 완성/2. 글 고치기의 방법/주어와 서술어의 호응.md": {
@@ -5560,8 +5528,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1731142421148,
-      "modifiedDate": 1741734389852,
-      "sizeInBytes": 193,
+      "modifiedDate": 1741793458110,
+      "sizeInBytes": 229,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03,
@@ -5571,8 +5539,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "주어와 서술어의 호응"
+        "date modified": "목요일, 3월 13일 2025, 12:30:58 오전",
+        "title": "주어와 서술어의 호응",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/7. 다양한 글쓰기 유형/2. 에피소드형 글쓰기/에피소드형 글쓰기는 단지 에피소드, 즉 일화를 쓰는 것이 아니다 20241105T100000.md": {
@@ -5590,8 +5561,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1731142421150,
-      "modifiedDate": 1741736558541,
-      "sizeInBytes": 412,
+      "modifiedDate": 1741793480058,
+      "sizeInBytes": 448,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.15,
@@ -5601,8 +5572,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "에피소드형 글쓰기는 단지 에피소드, 즉 일화를 쓰는 것이 아니다 20241105T100000"
+        "date modified": "목요일, 3월 13일 2025, 12:31:20 오전",
+        "title": "에피소드형 글쓰기는 단지 에피소드, 즉 일화를 쓰는 것이 아니다 20241105T100000",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/7. 다양한 글쓰기 유형/1. 비교형 글쓰기/비교는 둘 이상의 대상을 서로 견주어 서로의 유사점, 차이점, 일반 법칙 따위를 고찰하는 것이다 20241105T090000.md": {
@@ -5620,8 +5594,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1731142421149,
-      "modifiedDate": 1741734389847,
-      "sizeInBytes": 425,
+      "modifiedDate": 1741793472671,
+      "sizeInBytes": 461,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13,
@@ -5631,8 +5605,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "비교는 둘 이상의 대상을 서로 견주어 서로의 유사점, 차이점, 일반 법칙 따위를 고찰하는 것이다 20241105T090000"
+        "date modified": "목요일, 3월 13일 2025, 12:31:12 오전",
+        "title": "비교는 둘 이상의 대상을 서로 견주어 서로의 유사점, 차이점, 일반 법칙 따위를 고찰하는 것이다 20241105T090000",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/4. 개요는 집짓기의 설계도/1. 개요의 쓸모/개요는 글을 집필하기 전 글을 기획하는 과정에서 글의 뼈대가 되는 내용을 조직한 구조도 이다 20241016.md": {
@@ -5652,8 +5629,8 @@
         "개요"
       ],
       "createdDate": 1729336659548,
-      "modifiedDate": 1741736558545,
-      "sizeInBytes": 262,
+      "modifiedDate": 1741793354348,
+      "sizeInBytes": 298,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.056666666666666664,
@@ -5666,9 +5643,12 @@
           "개요"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:29:14 오전",
         "linter-yaml-title-alias": "개요",
-        "title": "개요"
+        "title": "개요",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/5. 단락은 어떻게 운용하나/1. 문장과 단락/한 편의 글은 문장과 단락으로 구성된다 20241016T130000.md": {
@@ -5686,8 +5666,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729336659549,
-      "modifiedDate": 1741734389855,
-      "sizeInBytes": 274,
+      "modifiedDate": 1741793432641,
+      "sizeInBytes": 310,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.056666666666666664,
@@ -5697,8 +5677,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "한 편의 글은 문장과 단락으로 구성된다 20241016T130000"
+        "date modified": "목요일, 3월 13일 2025, 12:30:32 오전",
+        "title": "한 편의 글은 문장과 단락으로 구성된다 20241016T130000",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/1. 글쓰기에도 과정이 있다/좋은 글은 단번에 쓰이지 않는다 20241015.md": {
@@ -5718,8 +5701,8 @@
         "글쓰기 과정"
       ],
       "createdDate": 1729336659544,
-      "modifiedDate": 1741734389864,
-      "sizeInBytes": 441,
+      "modifiedDate": 1741793379086,
+      "sizeInBytes": 477,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.18666666666666668,
@@ -5732,9 +5715,12 @@
           "글쓰기 과정"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:29:39 오전",
         "linter-yaml-title-alias": "글쓰기 과정",
-        "title": "글쓰기 과정"
+        "title": "글쓰기 과정",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/3. 무엇을 쓸 것인가/1. 주제가 무엇일까/글을 쓰는 목적이 '왜 쓰는가'라는 질문과 연결된다면, 글의 주제는 '무엇을 쓰는가'에서 그 '무엇'에 해당한다 20241015.md": {
@@ -5754,8 +5740,8 @@
         "글을 쓰는 목적이 ' 왜 쓰는가 ' 라는 질문과 연결된다면, 글의 주제는 ' 무엇을 쓰는가 ' 에서 그 ' 무엇 ' 에 해당한다 20241015"
       ],
       "createdDate": 1729336659547,
-      "modifiedDate": 1741734389856,
-      "sizeInBytes": 838,
+      "modifiedDate": 1741793362867,
+      "sizeInBytes": 874,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14333333333333334,
@@ -5768,9 +5754,12 @@
           "글을 쓰는 목적이 ' 왜 쓰는가 ' 라는 질문과 연결된다면, 글의 주제는 ' 무엇을 쓰는가 ' 에서 그 ' 무엇 ' 에 해당한다 20241015"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:29:22 오전",
         "linter-yaml-title-alias": "글을 쓰는 목적이 ' 왜 쓰는가 ' 라는 질문과 연결된다면, 글의 주제는 ' 무엇을 쓰는가 ' 에서 그 ' 무엇 ' 에 해당한다 20241015",
-        "title": "글을 쓰는 목적이 ' 왜 쓰는가 ' 라는 질문과 연결된다면, 글의 주제는 ' 무엇을 쓰는가 ' 에서 그 ' 무엇 ' 에 해당한다 20241015"
+        "title": "글을 쓰는 목적이 ' 왜 쓰는가 ' 라는 질문과 연결된다면, 글의 주제는 ' 무엇을 쓰는가 ' 에서 그 ' 무엇 ' 에 해당한다 20241015",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/2. 즐거운 글쓰기/2. 글쓰기의 목적은 무엇인가/1. 왜 쓰는가/글을 왜 쓰는가 20241015.md": {
@@ -5788,8 +5777,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729336659546,
-      "modifiedDate": 1741734389862,
-      "sizeInBytes": 194,
+      "modifiedDate": 1741793369368,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.023333333333333334,
@@ -5799,8 +5788,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "글을 왜 쓰는가 20241015"
+        "date modified": "목요일, 3월 13일 2025, 12:29:29 오전",
+        "title": "글을 왜 쓰는가 20241015",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/2. 생각에서 표현으로/20241002 어떻게 생각할 것 인가.md": {
@@ -5820,8 +5812,8 @@
         "표현은 생각의 결과다"
       ],
       "createdDate": 1729336659543,
-      "modifiedDate": 1741736558573,
-      "sizeInBytes": 705,
+      "modifiedDate": 1741793393568,
+      "sizeInBytes": 741,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.39,
@@ -5834,10 +5826,13 @@
           "표현은 생각의 결과다"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:29:53 오전",
         "linter-yaml-title-alias": "표현은 생각의 결과다",
         "page": 28,
-        "title": "표현은 생각의 결과다"
+        "title": "표현은 생각의 결과다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/2. 생각에서 표현으로/20241008 아래 왼쪽 사진은 고물상의 풍경이다.md": {
@@ -5855,8 +5850,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729336659544,
-      "modifiedDate": 1741734389898,
-      "sizeInBytes": 378,
+      "modifiedDate": 1741793398588,
+      "sizeInBytes": 414,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.16333333333333333,
@@ -5866,9 +5861,12 @@
       },
       "frontmatter": {
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:29:58 오전",
         "page": 33,
-        "title": "20241008 아래 왼쪽 사진은 고물상의 풍경이다"
+        "title": "20241008 아래 왼쪽 사진은 고물상의 풍경이다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/3. 표현과 글쓰기의 힘/위대한 과학자는 위대한 문장가이기도 하다.md": {
@@ -5888,8 +5886,8 @@
         "아침에 눈을 뜨고 저녁에 잠이 들때까지, 아니 꿈속에서조차 우리는 끊임없이 생각하며 살아간다"
       ],
       "createdDate": 1729336659542,
-      "modifiedDate": 1741734389883,
-      "sizeInBytes": 864,
+      "modifiedDate": 1741793408018,
+      "sizeInBytes": 900,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.28,
@@ -5902,10 +5900,13 @@
           "아침에 눈을 뜨고 저녁에 잠이 들때까지, 아니 꿈속에서조차 우리는 끊임없이 생각하며 살아간다"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:30:08 오전",
         "linter-yaml-title-alias": "아침에 눈을 뜨고 저녁에 잠이 들때까지, 아니 꿈속에서조차 우리는 끊임없이 생각하며 살아간다",
         "page": 24,
-        "title": "아침에 눈을 뜨고 저녁에 잠이 들때까지, 아니 꿈속에서조차 우리는 끊임없이 생각하며 살아간다"
+        "title": "아침에 눈을 뜨고 저녁에 잠이 들때까지, 아니 꿈속에서조차 우리는 끊임없이 생각하며 살아간다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/3. 표현과 글쓰기의 힘/현대인으로써 글쓰기의 압박으로부터 자유로울 수 있는 이는 별로 없다.md": {
@@ -5925,8 +5926,8 @@
         "현대를 영상의 시대, 혹은 이미지의 시대라고 한다"
       ],
       "createdDate": 1729336659543,
-      "modifiedDate": 1741736558562,
-      "sizeInBytes": 668,
+      "modifiedDate": 1741793403864,
+      "sizeInBytes": 704,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2633333333333333,
@@ -5939,10 +5940,13 @@
           "현대를 영상의 시대, 혹은 이미지의 시대라고 한다"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:30:03 오전",
         "linter-yaml-title-alias": "현대를 영상의 시대, 혹은 이미지의 시대라고 한다",
         "page": 21,
-        "title": "현대를 영상의 시대, 혹은 이미지의 시대라고 한다"
+        "title": "현대를 영상의 시대, 혹은 이미지의 시대라고 한다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/1. 현대사회와 의사소통/현대는 과학기술과 디지털 문명의 시대다.md": {
@@ -5962,8 +5966,8 @@
         "서론"
       ],
       "createdDate": 1729336659541,
-      "modifiedDate": 1741736558563,
-      "sizeInBytes": 1905,
+      "modifiedDate": 1741793419127,
+      "sizeInBytes": 1941,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.6366666666666667,
@@ -5976,10 +5980,13 @@
           "서론"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:30:19 오전",
         "linter-yaml-title-alias": "서론",
         "page": 13,
-        "title": "서론"
+        "title": "서론",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/1. 현대사회와 의사소통/인간은 사고를 통해, 살아가면서 부딪히는 수많은 문제에 대응하면서 해결해 간다.md": {
@@ -5999,8 +6006,8 @@
         "서론"
       ],
       "createdDate": 1729336659539,
-      "modifiedDate": 1741736558569,
-      "sizeInBytes": 791,
+      "modifiedDate": 1741793415090,
+      "sizeInBytes": 827,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5533333333333333,
@@ -6013,10 +6020,13 @@
           "서론"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:30:15 오전",
         "linter-yaml-title-alias": "서론",
         "page": 15,
-        "title": "서론"
+        "title": "서론",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/2. 사고와 표현의 관계/인간은 사고 할 줄 알며 그것을 표현할 줄 안다.md": {
@@ -6036,8 +6046,8 @@
         "말과 글은 생각의 표현이며 생각의 결과이다"
       ],
       "createdDate": 1729336659541,
-      "modifiedDate": 1741736558558,
-      "sizeInBytes": 1120,
+      "modifiedDate": 1741793411867,
+      "sizeInBytes": 1156,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7233333333333334,
@@ -6050,10 +6060,13 @@
           "말과 글은 생각의 표현이며 생각의 결과이다"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:30:11 오전",
         "linter-yaml-title-alias": "말과 글은 생각의 표현이며 생각의 결과이다",
         "page": 17,
-        "title": "말과 글은 생각의 표현이며 생각의 결과이다"
+        "title": "말과 글은 생각의 표현이며 생각의 결과이다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "A10001_사고와 표현/1. 생각하기와 표현하기/머리말.md": {
@@ -6073,8 +6086,8 @@
         "서론"
       ],
       "createdDate": 1727924986318,
-      "modifiedDate": 1741736558572,
-      "sizeInBytes": 695,
+      "modifiedDate": 1741793386573,
+      "sizeInBytes": 731,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.39,
@@ -6087,10 +6100,13 @@
           "서론"
         ],
         "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:29:46 오전",
         "linter-yaml-title-alias": "서론",
         "page": 5,
-        "title": "서론"
+        "title": "서론",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
       }
     },
     "2025-03-10.md": {
@@ -6138,8 +6154,241 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741791650353,
-      "modifiedDate": 1741791650353,
+      "modifiedDate": 1741791651334,
       "sizeInBytes": 21,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "김중철.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741793598266,
+      "modifiedDate": 1741793665897,
+      "sizeInBytes": 190,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "목요일, 3월 13일 2025, 12:33:18 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:34:25 오전",
+        "title": "김중철",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
+      }
+    },
+    "C 프로그래밍 입문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 15,
+      "nonWhitespaceCharacterCount": 9,
+      "readingTimeInMinutes": 0.01777358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "AE0049"
+      ],
+      "createdDate": 1741793703572,
+      "modifiedDate": 1741793828385,
+      "sizeInBytes": 233,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "AE0049"
+        ],
+        "date created": "목요일, 3월 13일 2025, 12:35:03 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:37:08 오전",
+        "title": "C 프로그래밍 입문",
+        "교수": [
+          "[[유수봉]]"
+        ]
+      }
+    },
+    "AE0049_C 프로그래밍 입문/C 프로그래밍 입문 기말 과제.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2189,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.296666666666667,
+      "characterCount": 10709,
+      "nonWhitespaceCharacterCount": 8354,
+      "readingTimeInMinutes": 5.967132075471698,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1717842149528,
+      "modifiedDate": 1741793837294,
+      "sizeInBytes": 13506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "토요일, 6월 8일 2024, 7:22:29 오후",
+        "date modified": "목요일, 3월 13일 2025, 12:37:16 오전",
+        "title": "C 프로그래밍 입문 기말 과제",
+        "과목": [
+          "[[C 프로그래밍 입문]]"
+        ]
+      }
+    },
+    "JAVA 프로그래밍.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 15,
+      "nonWhitespaceCharacterCount": 10,
+      "readingTimeInMinutes": 0.013773584905660378,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "AN0069"
+      ],
+      "createdDate": 1741793896173,
+      "modifiedDate": 1741793921916,
+      "sizeInBytes": 225,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "AN0069"
+        ],
+        "date created": "목요일, 3월 13일 2025, 12:38:16 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:38:39 오전",
+        "title": "JAVA 프로그래밍",
+        "교수": [
+          "[[유수봉]]"
+        ]
+      }
+    },
+    "B10008_인류 문명과 세계 문화사/사막에서 꽃피었다 전설로 남은 도시문명, 메소포타미아와 바벨론.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 67,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 107,
+      "nonWhitespaceCharacterCount": 73,
+      "readingTimeInMinutes": 0.134,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729336659552,
+      "modifiedDate": 1741794195105,
+      "sizeInBytes": 513,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
+        "date modified": "목요일, 3월 13일 2025, 12:43:15 오전",
+        "title": "사막에서 꽃피었다 전설로 남은 도시문명, 메소포타미아와 바벨론",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
+      }
+    },
+    "B10008_인류 문명과 세계 문화사/유럽 중국 중심 세계관과 다른 지역의 문명 20241030T090000.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 460,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5333333333333334,
+      "characterCount": 865,
+      "nonWhitespaceCharacterCount": 622,
+      "readingTimeInMinutes": 0.9324150943396227,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1731142421151,
+      "modifiedDate": 1741794284988,
+      "sizeInBytes": 2027,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
+        "date modified": "목요일, 3월 13일 2025, 12:44:44 오전",
+        "title": "유럽 중국 중심 세계관과 다른 지역의 문명 20241030T090000",
+        "과목": [
+          "[[인류 문명과 세계 문화사]]"
+        ]
+      }
+    },
+    "인류 문명과 세계 문화사.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741794310725,
+      "modifiedDate": 1741794310725,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
