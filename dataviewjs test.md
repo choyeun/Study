@@ -2,7 +2,7 @@
 aliases:
   - Dataviewjs Test
 date created: 수요일, 3월 12일 2025, 4:57:07 오후
-date modified: 수요일, 3월 12일 2025, 5:47:31 오후
+date modified: 수요일, 3월 12일 2025, 5:54:43 오후
 linter-yaml-title-alias: Dataviewjs Test
 title: Dataviewjs Test
 ---
@@ -144,13 +144,17 @@ TABLE WHERE length(file.inlinks) = 0
 ```dataview
 TABLE WHERE length(file.outlinks) = 0
 ```
+
 ```wordcloud
 ```
+
 ```linkcloud
 ```
+
 ```linkcloud
 type: resolved
 ```
+
 ```linkcloud
 type: unresolved
 ```
