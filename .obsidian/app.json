@@ -6,5 +6,6 @@
   "vimMode": false,
   "spellcheck": false,
   "showInlineTitle": true,
-  "trashOption": "system"
+  "trashOption": "system",
+  "attachmentFolderPath": "attachments"
 }
