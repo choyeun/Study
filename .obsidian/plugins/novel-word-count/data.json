@@ -157,8 +157,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741618143241,
-      "modifiedDate": 1741734389338,
-      "sizeInBytes": 154,
+      "modifiedDate": 1741796427108,
+      "sizeInBytes": 236,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.01,
@@ -168,8 +168,16 @@
       },
       "frontmatter": {
         "date created": "월요일, 3월 10일 2025, 11:49:03 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:27 오전",
-        "title": "하은용"
+        "date modified": "목요일, 3월 13일 2025, 1:20:25 오전",
+        "email": null,
+        "title": "하은용",
+        "소속": [
+          "[[안양대학교]]"
+        ],
+        "전화번호": null,
+        "직업": [
+          "[[교수]]"
+        ]
       }
     },
     "정수.md": {
@@ -3977,40 +3985,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "AA1072_기독교 개론/기독교 개론 기말 고사 일정.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 114,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.38,
-      "characterCount": 212,
-      "nonWhitespaceCharacterCount": 143,
-      "readingTimeInMinutes": 0.2510566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718435917222,
-      "modifiedDate": 1741793725133,
-      "sizeInBytes": 643,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.44666666666666666,
-        "wordCount": 134,
-        "characterCount": 250,
-        "nonWhitespaceCharacterCount": 179
-      },
-      "frontmatter": {
-        "date created": "토요일, 6월 15일 2024, 4:18:37 오후",
-        "date modified": "목요일, 3월 13일 2025, 12:35:25 오전",
-        "title": "기독교 개론 기말 고사 일정",
-        "과목": [
-          "[[기독교 개론]]"
-        ],
-        "시험 일정": "2024-06-21"
-      }
-    },
     "9/27 인공지능 개론.ipynb": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -5026,8 +5000,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741793598266,
-      "modifiedDate": 1741793665897,
-      "sizeInBytes": 190,
+      "modifiedDate": 1741796373987,
+      "sizeInBytes": 271,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5037,10 +5011,18 @@
       },
       "frontmatter": {
         "date created": "목요일, 3월 13일 2025, 12:33:18 오전",
-        "date modified": "목요일, 3월 13일 2025, 12:34:25 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:19:33 오전",
+        "email": null,
         "title": "김중철",
         "과목": [
           "[[사고와 표현]]"
+        ],
+        "소속": [
+          "[[안양대학교]]"
+        ],
+        "전화번호": null,
+        "직업": [
+          "[[교수]]"
         ]
       }
     },
@@ -5828,8 +5810,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741796085467,
-      "modifiedDate": 1741796156976,
-      "sizeInBytes": 16,
+      "modifiedDate": 1741796187485,
+      "sizeInBytes": 48,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5838,7 +5820,35 @@
         "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
-        "직업": null
+        "직업": null,
+        "소속": null,
+        "전화번호": null,
+        "email": null
+      }
+    },
+    "유수봉.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741796494057,
+      "modifiedDate": 1741796494057,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
