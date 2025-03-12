@@ -144,13 +144,13 @@ TABLE WHERE length(file.inlinks) = 0
 ```dataview
 TABLE WHERE length(file.outlinks) = 0
 ```
-
+## wordcloud 
 ```wordcloud
 ```
-
+## linkcloud 
 ```linkcloud
 ```
-
+## unlinkedcloud
 ```linkcloud
 type: resolved
 ```
