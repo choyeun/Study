@@ -3439,39 +3439,6 @@
         "title": "20250312"
       }
     },
-    "C10002_아리 진로 상담과 창의 융합 기업가 정신/아리 진로 상담과 창의 융합 기업가 정신 OT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 49,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 99,
-      "nonWhitespaceCharacterCount": 61,
-      "readingTimeInMinutes": 0.11218867924528303,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1727924986322,
-      "modifiedDate": 1741794685140,
-      "sizeInBytes": 443,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.16333333333333333,
-        "wordCount": 49,
-        "characterCount": 99,
-        "nonWhitespaceCharacterCount": 61
-      },
-      "frontmatter": {
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "목요일, 3월 13일 2025, 12:51:25 오전",
-        "title": "아리 진로 상담과 창의 융합 기업가 정신 OT",
-        "과목": [
-          "[[아리 진로 상담과 창의 융합 기업가 정신]]"
-        ]
-      }
-    },
     "B80011_자기설계/1주차 & 자기설계 OT.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3789,21 +3756,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 153,
+      "wordCount": 163,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.51,
-      "characterCount": 268,
-      "nonWhitespaceCharacterCount": 190,
-      "readingTimeInMinutes": 0.3130943396226415,
+      "pageCount": 0.5433333333333333,
+      "characterCount": 287,
+      "nonWhitespaceCharacterCount": 203,
+      "readingTimeInMinutes": 0.3330943396226415,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "과제"
-      ],
+      "aliases": null,
       "createdDate": 1729336659552,
-      "modifiedDate": 1741794123584,
-      "sizeInBytes": 808,
+      "modifiedDate": 1741796637416,
+      "sizeInBytes": 822,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.51,
@@ -3812,13 +3777,9 @@
         "nonWhitespaceCharacterCount": 190
       },
       "frontmatter": {
-        "aliases": [
-          "과제"
-        ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "목요일, 3월 13일 2025, 12:42:03 오전",
-        "linter-yaml-title-alias": "과제",
-        "title": "과제",
+        "date modified": "목요일, 3월 13일 2025, 1:23:57 오전",
+        "title": "대학 교육과 문명, 문화사",
         "과목": [
           "[[인류 문명과 세계 문화사]]"
         ]
@@ -5830,25 +5791,152 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741796494057,
-      "modifiedDate": 1741796494057,
-      "sizeInBytes": 0,
+      "modifiedDate": 1741796509368,
+      "sizeInBytes": 258,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "목요일, 3월 13일 2025, 1:21:34 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:21:47 오전",
+        "email": "newbongman@anyang.ac.kr",
+        "title": "유수봉",
+        "소속": [
+          "[[안양대학교]]"
+        ],
+        "전화번호": null,
+        "직업": [
+          "[[교수]]"
+        ]
+      }
+    },
+    "박은화.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741796615929,
+      "modifiedDate": 1741796705949,
+      "sizeInBytes": 268,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "목요일, 3월 13일 2025, 1:23:35 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:25:05 오전",
+        "email": "ingrid0704@anyang.ac.kr",
+        "title": "박은화",
+        "소속": [
+          "[[안양대학교]]"
+        ],
+        "전화번호": 1032686202,
+        "직업": [
+          "[[교수]]"
+        ]
+      }
+    },
+    "김수연.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741796692715,
+      "modifiedDate": 1741796710484,
+      "sizeInBytes": 265,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "목요일, 3월 13일 2025, 1:24:52 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:25:02 오전",
+        "email": "maryleem14@naver.com",
+        "title": "김수연",
+        "소속": [
+          "[[안양대학교]]"
+        ],
+        "전화번호": 1053701637,
+        "직업": [
+          "[[교수]]"
+        ]
+      }
+    },
+    "권희용.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741796768996,
+      "modifiedDate": 1741796807969,
+      "sizeInBytes": 267,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "목요일, 3월 13일 2025, 1:26:08 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:26:17 오전",
+        "email": "hykwon@anyang.ac.kr",
+        "title": "권희용",
+        "소속": [
+          "[[안양대학교]]"
+        ],
+        "전화번호": "01090450669",
+        "직업": [
+          "[[교수]]"
+        ]
       }
     }
   }

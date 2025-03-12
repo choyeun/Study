@@ -31,7 +31,7 @@
     "TQ_show_urgency": "checkbox",
     "title": "text",
     "직업": "multitext",
-    "전화번호": "number",
+    "전화번호": "text",
     "소속": "multitext"
   }
 }
