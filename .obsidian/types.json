@@ -29,6 +29,9 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
-    "title": "text"
+    "title": "text",
+    "직업": "multitext",
+    "전화번호": "number",
+    "소속": "multitext"
   }
 }

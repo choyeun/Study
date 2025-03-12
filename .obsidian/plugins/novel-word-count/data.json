@@ -991,247 +991,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "NF1003_컴퓨터 개론/컴퓨터 개론 기말 고사 일정.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 25,
-      "readingTimeInMinutes": 0.04554716981132075,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1717842149529,
-      "modifiedDate": 1741766500620,
-      "sizeInBytes": 276,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07,
-        "wordCount": 21,
-        "characterCount": 46,
-        "nonWhitespaceCharacterCount": 25
-      },
-      "frontmatter": {
-        "date created": "토요일, 6월 8일 2024, 7:22:29 오후",
-        "date modified": "수요일, 3월 12일 2025, 5:01:38 오후",
-        "title": "컴퓨터 개론 기말 고사 일정",
-        "시험 일정": "2024-06-18"
-      }
-    },
-    "NF1003_컴퓨터 개론/8. 가까이 다가오는 인공지능/컴퓨터 개론 8장 연습 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1613,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.376666666666667,
-      "characterCount": 2728,
-      "nonWhitespaceCharacterCount": 1899,
-      "readingTimeInMinutes": 3.3590188679245285,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718638675940,
-      "modifiedDate": 1741767858155,
-      "sizeInBytes": 5974,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.376666666666667,
-        "wordCount": 1613,
-        "characterCount": 2728,
-        "nonWhitespaceCharacterCount": 1899
-      },
-      "frontmatter": {
-        "date created": "화요일, 6월 18일 2024, 12:37:55 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:24:17 오후",
-        "title": "컴퓨터 개론 8장 연습 문제"
-      }
-    },
-    "NF1003_컴퓨터 개론/7. 최근의 컴퓨터 응용 기술/컴퓨터 개론 7장 연습 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1619,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.3966666666666665,
-      "characterCount": 2462,
-      "nonWhitespaceCharacterCount": 1772,
-      "readingTimeInMinutes": 3.308943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718638407510,
-      "modifiedDate": 1741767866265,
-      "sizeInBytes": 5786,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.3966666666666665,
-        "wordCount": 1619,
-        "characterCount": 2462,
-        "nonWhitespaceCharacterCount": 1772
-      },
-      "frontmatter": {
-        "date created": "화요일, 6월 18일 2024, 12:33:27 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:24:26 오후",
-        "title": "컴퓨터 개론 7장 연습 문제"
-      }
-    },
-    "NF1003_컴퓨터 개론/12. 컴퓨터와 소통하는 프로그래밍 언어/컴퓨터 개론 12장 연습 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1866,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.22,
-      "characterCount": 3532,
-      "nonWhitespaceCharacterCount": 2422,
-      "readingTimeInMinutes": 3.9395094339622645,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718639918819,
-      "modifiedDate": 1741767870380,
-      "sizeInBytes": 7197,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.22,
-        "wordCount": 1866,
-        "characterCount": 3532,
-        "nonWhitespaceCharacterCount": 2422
-      },
-      "frontmatter": {
-        "date created": "화요일, 6월 18일 2024, 12:58:38 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:24:29 오후",
-        "title": "컴퓨터 개론 12장 연습 문제"
-      }
-    },
-    "NF1003_컴퓨터 개론/9. 멀티미디어의 세계와 전자상거래/컴퓨터 개론 9장 연습 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2306,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.6866666666666665,
-      "characterCount": 3714,
-      "nonWhitespaceCharacterCount": 2705,
-      "readingTimeInMinutes": 4.743245283018869,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718639046252,
-      "modifiedDate": 1741767874616,
-      "sizeInBytes": 8927,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.6866666666666665,
-        "wordCount": 2306,
-        "characterCount": 3714,
-        "nonWhitespaceCharacterCount": 2705
-      },
-      "frontmatter": {
-        "date created": "화요일, 6월 18일 2024, 12:44:06 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:24:33 오후",
-        "title": "컴퓨터 개론 9장 연습 문제"
-      }
-    },
-    "NF1003_컴퓨터 개론/13. 데이터베이스와 컴퓨터 보안/컴퓨터 개론 13장 연습 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2507,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.356666666666667,
-      "characterCount": 3940,
-      "nonWhitespaceCharacterCount": 2827,
-      "readingTimeInMinutes": 5.1949056603773585,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718640232103,
-      "modifiedDate": 1741767879834,
-      "sizeInBytes": 8916,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.356666666666667,
-        "wordCount": 2507,
-        "characterCount": 3940,
-        "nonWhitespaceCharacterCount": 2827
-      },
-      "frontmatter": {
-        "date created": "화요일, 6월 18일 2024, 1:03:52 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:24:38 오후",
-        "title": "컴퓨터 개론 13장 연습 문제"
-      }
-    },
-    "NF1003_컴퓨터 개론/10. 떠오르는 4차 산업혁명 기술/컴퓨터 개론 10장 연습 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1707,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.69,
-      "characterCount": 2643,
-      "nonWhitespaceCharacterCount": 1876,
-      "readingTimeInMinutes": 3.5115471698113208,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718639388421,
-      "modifiedDate": 1741767884289,
-      "sizeInBytes": 6114,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.69,
-        "wordCount": 1707,
-        "characterCount": 2643,
-        "nonWhitespaceCharacterCount": 1876
-      },
-      "frontmatter": {
-        "date created": "화요일, 6월 18일 2024, 12:49:48 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:24:43 오후",
-        "title": "컴퓨터 개론 10장 연습 문제"
-      }
-    },
-    "NF1003_컴퓨터 개론/11. IT 융합 기술 응용과 모바일 컴퓨팅/컴퓨터 개론 11장 연습 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2515,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.383333333333333,
-      "characterCount": 3826,
-      "nonWhitespaceCharacterCount": 2785,
-      "readingTimeInMinutes": 5.164792452830189,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1718639666592,
-      "modifiedDate": 1741767889200,
-      "sizeInBytes": 8871,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.383333333333333,
-        "wordCount": 2515,
-        "characterCount": 3826,
-        "nonWhitespaceCharacterCount": 2785
-      },
-      "frontmatter": {
-        "date created": "화요일, 6월 18일 2024, 12:54:26 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:24:48 오후",
-        "title": "컴퓨터 개론 11장 연습 문제"
-      }
-    },
     "NA3036_컴퓨터구조/컴퓨터 시스템 개요.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1249,8 +1008,8 @@
         "컴퓨터의 기본 구조"
       ],
       "createdDate": 1741439083911,
-      "modifiedDate": 1741736558330,
-      "sizeInBytes": 6772,
+      "modifiedDate": 1741795979973,
+      "sizeInBytes": 6807,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 5.346666666666667,
@@ -1263,9 +1022,12 @@
           "컴퓨터의 기본 구조"
         ],
         "date created": "토요일, 3월 8일 2025, 10:04:43 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:12:59 오전",
         "linter-yaml-title-alias": "컴퓨터의 기본 구조",
         "title": "컴퓨터의 기본 구조",
+        "과목": [
+          "[[컴퓨터 구조]]"
+        ],
         "시간": "2025-03-06T14:30:00"
       }
     },
@@ -1495,210 +1257,6 @@
           "[[../리눅스 시스템|리눅스 시스템]]"
         ],
         "시간": "2025-03-05T11:00:00"
-      }
-    },
-    "NA2016_프로그래밍 응용/기말 SDL 과제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 77,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.25666666666666665,
-      "characterCount": 120,
-      "nonWhitespaceCharacterCount": 80,
-      "readingTimeInMinutes": 0.15577358490566037,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1732187709879,
-      "modifiedDate": 1741736558358,
-      "sizeInBytes": 420,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.25666666666666665,
-        "wordCount": 77,
-        "characterCount": 120,
-        "nonWhitespaceCharacterCount": 80
-      },
-      "frontmatter": {
-        "date created": "목요일, 11월 21일 2024, 8:15:09 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "기말 SDL 과제"
-      }
-    },
-    "NA2016_프로그래밍 응용/프로그래밍 응용 OT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 75,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.25,
-      "characterCount": 138,
-      "nonWhitespaceCharacterCount": 91,
-      "readingTimeInMinutes": 0.16418867924528302,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": [
-        "교재"
-      ],
-      "createdDate": 1727924986329,
-      "modifiedDate": 1741736558361,
-      "sizeInBytes": 461,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.25,
-        "wordCount": 75,
-        "characterCount": 138,
-        "nonWhitespaceCharacterCount": 91
-      },
-      "frontmatter": {
-        "aliases": [
-          "교재"
-        ],
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "linter-yaml-title-alias": "교재",
-        "title": "교재"
-      }
-    },
-    "NA2016_프로그래밍 응용/9. pointer/pointer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 120,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4,
-      "characterCount": 290,
-      "nonWhitespaceCharacterCount": 203,
-      "readingTimeInMinutes": 0.2878867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "중간 점검"
-      ],
-      "createdDate": 1729336659563,
-      "modifiedDate": 1741734389491,
-      "sizeInBytes": 686,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4,
-        "wordCount": 120,
-        "characterCount": 290,
-        "nonWhitespaceCharacterCount": 203
-      },
-      "frontmatter": {
-        "aliases": [
-          "중간 점검"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "중간 점검",
-        "title": "중간 점검"
-      }
-    },
-    "NA2016_프로그래밍 응용/9. pointer/20241002 함수와 포인터.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 61,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.20333333333333334,
-      "characterCount": 139,
-      "nonWhitespaceCharacterCount": 97,
-      "readingTimeInMinutes": 0.1379622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Call by Value"
-      ],
-      "createdDate": 1729336659562,
-      "modifiedDate": 1741734389504,
-      "sizeInBytes": 453,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.20333333333333334,
-        "wordCount": 61,
-        "characterCount": 139,
-        "nonWhitespaceCharacterCount": 97
-      },
-      "frontmatter": {
-        "aliases": [
-          "Call by Value"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "Call by Value",
-        "title": "Call by Value"
-      }
-    },
-    "NA2016_프로그래밍 응용/7. array/array이란.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 164,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5466666666666666,
-      "characterCount": 504,
-      "nonWhitespaceCharacterCount": 362,
-      "readingTimeInMinutes": 0.41135849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Array 의 의미"
-      ],
-      "createdDate": 1727924986327,
-      "modifiedDate": 1741734389483,
-      "sizeInBytes": 957,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5466666666666666,
-        "wordCount": 164,
-        "characterCount": 504,
-        "nonWhitespaceCharacterCount": 362
-      },
-      "frontmatter": {
-        "aliases": [
-          "Array 의 의미"
-        ],
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "Array 의 의미",
-        "title": "Array 의 의미"
-      }
-    },
-    "NA2016_프로그래밍 응용/7. array/목표.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 43,
-      "nonWhitespaceCharacterCount": 26,
-      "readingTimeInMinutes": 0.049547169811320756,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1727924986328,
-      "modifiedDate": 1741734389488,
-      "sizeInBytes": 222,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 43,
-        "nonWhitespaceCharacterCount": 26
-      },
-      "frontmatter": {
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "목표"
       }
     },
     "NA1011_프로그래밍 입문/프로그래밍 입문 기말 과제.md": {
@@ -3596,462 +3154,6 @@
         ]
       }
     },
-    "NA2015_인공지능 개론/인공지능 개론 기말 과제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1494,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.98,
-      "characterCount": 7793,
-      "nonWhitespaceCharacterCount": 6093,
-      "readingTimeInMinutes": 3.8038490566037737,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733650120688,
-      "modifiedDate": 1741767049446,
-      "sizeInBytes": 10032,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.98,
-        "wordCount": 1494,
-        "characterCount": 7793,
-        "nonWhitespaceCharacterCount": 6093
-      },
-      "frontmatter": {
-        "date created": "일요일, 12월 8일 2024, 6:28:40 오후",
-        "date modified": "수요일, 3월 12일 2025, 5:10:49 오후",
-        "title": "인공지능 개론 기말 과제"
-      }
-    },
-    "NA2015_인공지능 개론/파이썬 자료구조.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 15,
-      "nonWhitespaceCharacterCount": 9,
-      "readingTimeInMinutes": 0.011773584905660377,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "List"
-      ],
-      "createdDate": 1729336659561,
-      "modifiedDate": 1741734389717,
-      "sizeInBytes": 206,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 15,
-        "nonWhitespaceCharacterCount": 9
-      },
-      "frontmatter": {
-        "aliases": [
-          "List"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "List",
-        "title": "List"
-      }
-    },
-    "NA2015_인공지능 개론/파이썬 기초 문법.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 60,
-      "nonWhitespaceCharacterCount": 35,
-      "readingTimeInMinutes": 0.05109433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "변수"
-      ],
-      "createdDate": 1729336659560,
-      "modifiedDate": 1741734389719,
-      "sizeInBytes": 285,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07333333333333333,
-        "wordCount": 22,
-        "characterCount": 60,
-        "nonWhitespaceCharacterCount": 35
-      },
-      "frontmatter": {
-        "aliases": [
-          "변수"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "변수",
-        "title": "변수"
-      }
-    },
-    "NA2015_인공지능 개론/20241004 객체와 파일.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 20,
-      "nonWhitespaceCharacterCount": 14,
-      "readingTimeInMinutes": 0.013773584905660378,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729336659559,
-      "modifiedDate": 1741734389728,
-      "sizeInBytes": 186,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 20,
-        "nonWhitespaceCharacterCount": 14
-      },
-      "frontmatter": {
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "20241004 객체와 파일"
-      }
-    },
-    "NA2015_인공지능 개론/2. 인공지능을 위한 수학/인공지능을 위한 수학적 바탕.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 666,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.22,
-      "characterCount": 1108,
-      "nonWhitespaceCharacterCount": 788,
-      "readingTimeInMinutes": 1.346188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "인공지능과 수학"
-      ],
-      "createdDate": 1729336659558,
-      "modifiedDate": 1741736558461,
-      "sizeInBytes": 2661,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.22,
-        "wordCount": 666,
-        "characterCount": 1108,
-        "nonWhitespaceCharacterCount": 788
-      },
-      "frontmatter": {
-        "aliases": [
-          "인공지능과 수학"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "linter-yaml-title-alias": "인공지능과 수학",
-        "title": "인공지능과 수학"
-      }
-    },
-    "NA2015_인공지능 개론/2. 인공지능을 위한 수학/행렬과 행렬의 연산.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 530,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7666666666666666,
-      "characterCount": 1681,
-      "nonWhitespaceCharacterCount": 1239,
-      "readingTimeInMinutes": 1.2976603773584907,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "행렬 (matrix, 行列) 의 표현과 정의"
-      ],
-      "createdDate": 1729336659559,
-      "modifiedDate": 1741736558464,
-      "sizeInBytes": 2779,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.7666666666666666,
-        "wordCount": 530,
-        "characterCount": 1681,
-        "nonWhitespaceCharacterCount": 1239
-      },
-      "frontmatter": {
-        "aliases": [
-          "행렬 (matrix, 行列) 의 표현과 정의"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "linter-yaml-title-alias": "행렬 (matrix, 行列) 의 표현과 정의",
-        "title": "행렬 (matrix, 行列) 의 표현과 정의"
-      }
-    },
-    "NA2015_인공지능 개론/2. 인공지능을 위한 수학/인공지능과 함수.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 871,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.9033333333333333,
-      "characterCount": 2187,
-      "nonWhitespaceCharacterCount": 1618,
-      "readingTimeInMinutes": 1.9832075471698114,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "지수함수 (exponential function)"
-      ],
-      "createdDate": 1729336659557,
-      "modifiedDate": 1741736558457,
-      "sizeInBytes": 3970,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.9033333333333333,
-        "wordCount": 871,
-        "characterCount": 2187,
-        "nonWhitespaceCharacterCount": 1618
-      },
-      "frontmatter": {
-        "aliases": [
-          "지수함수 (exponential function)"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "linter-yaml-title-alias": "지수함수 (exponential function)",
-        "title": "지수함수 (exponential function)"
-      }
-    },
-    "NA2015_인공지능 개론/2. 인공지능을 위한 수학/벡터의 개념과 표현.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 915,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.05,
-      "characterCount": 2585,
-      "nonWhitespaceCharacterCount": 1969,
-      "readingTimeInMinutes": 2.115547169811321,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "벡터의 정의"
-      ],
-      "createdDate": 1729336659557,
-      "modifiedDate": 1741736558466,
-      "sizeInBytes": 4327,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.05,
-        "wordCount": 915,
-        "characterCount": 2585,
-        "nonWhitespaceCharacterCount": 1969
-      },
-      "frontmatter": {
-        "aliases": [
-          "벡터의 정의"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "벡터의 정의",
-        "title": "벡터의 정의"
-      }
-    },
-    "NA2015_인공지능 개론/2. 인공지능을 위한 수학/미분과 델타 규칙.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 940,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.1333333333333333,
-      "characterCount": 1737,
-      "nonWhitespaceCharacterCount": 1275,
-      "readingTimeInMinutes": 1.9757735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "미분 (differentiation) 과 도함수"
-      ],
-      "createdDate": 1729336659556,
-      "modifiedDate": 1741736558470,
-      "sizeInBytes": 3804,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.1333333333333333,
-        "wordCount": 940,
-        "characterCount": 1737,
-        "nonWhitespaceCharacterCount": 1275
-      },
-      "frontmatter": {
-        "aliases": [
-          "미분 (differentiation) 과 도함수"
-        ],
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "미분 (differentiation) 과 도함수",
-        "title": "미분 (differentiation) 과 도함수"
-      }
-    },
-    "NA2015_인공지능 개론/인공지능 개론 OT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 64,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 138,
-      "nonWhitespaceCharacterCount": 97,
-      "readingTimeInMinutes": 0.14750943396226415,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": [
-        "교재"
-      ],
-      "createdDate": 1727924986325,
-      "modifiedDate": 1741736558472,
-      "sizeInBytes": 433,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.21333333333333335,
-        "wordCount": 64,
-        "characterCount": 138,
-        "nonWhitespaceCharacterCount": 97
-      },
-      "frontmatter": {
-        "aliases": [
-          "교재"
-        ],
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "교재",
-        "title": "교재"
-      }
-    },
-    "NA2015_인공지능 개론/1. 인공지능 개요/AI란.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1246,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.153333333333333,
-      "characterCount": 2043,
-      "nonWhitespaceCharacterCount": 1436,
-      "readingTimeInMinutes": 2.5700377358490565,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "AI"
-      ],
-      "createdDate": 1727924986323,
-      "modifiedDate": 1741736558476,
-      "sizeInBytes": 4624,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.153333333333333,
-        "wordCount": 1246,
-        "characterCount": 2043,
-        "nonWhitespaceCharacterCount": 1436
-      },
-      "frontmatter": {
-        "aliases": [
-          "AI"
-        ],
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "AI",
-        "title": "AI"
-      }
-    },
-    "NA2015_인공지능 개론/1. 인공지능 개요/인공지능과 데이터.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1329,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.43,
-      "characterCount": 2115,
-      "nonWhitespaceCharacterCount": 1513,
-      "readingTimeInMinutes": 2.698792452830189,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "데이터의 역할"
-      ],
-      "createdDate": 1727924986325,
-      "modifiedDate": 1741736558479,
-      "sizeInBytes": 4980,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.43,
-        "wordCount": 1329,
-        "characterCount": 2115,
-        "nonWhitespaceCharacterCount": 1513
-      },
-      "frontmatter": {
-        "aliases": [
-          "데이터의 역할"
-        ],
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "데이터의 역할",
-        "title": "데이터의 역할"
-      }
-    },
-    "NA2015_인공지능 개론/1. 인공지능 개요/AI 기술의 활용.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 422,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4066666666666667,
-      "characterCount": 658,
-      "nonWhitespaceCharacterCount": 465,
-      "readingTimeInMinutes": 0.858188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "AI 기술이 적용되는 분야"
-      ],
-      "createdDate": 1727924986322,
-      "modifiedDate": 1741736558482,
-      "sizeInBytes": 1757,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.4066666666666667,
-        "wordCount": 422,
-        "characterCount": 658,
-        "nonWhitespaceCharacterCount": 465
-      },
-      "frontmatter": {
-        "aliases": [
-          "AI 기술이 적용되는 분야"
-        ],
-        "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "linter-yaml-title-alias": "AI 기술이 적용되는 분야",
-        "title": "AI 기술이 적용되는 분야"
-      }
-    },
     "generate_folder_structure.py": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4092,8 +3194,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741619142690,
-      "modifiedDate": 1741734389758,
-      "sizeInBytes": 142,
+      "modifiedDate": 1741795908531,
+      "sizeInBytes": 170,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -4103,8 +3205,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 3월 11일 2025, 12:05:42 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
-        "title": "ESP"
+        "date modified": "목요일, 3월 13일 2025, 1:11:48 오전",
+        "title": "ESP",
+        "교수": [
+          "[[김수연]]"
+        ]
       }
     },
     "esp/0312 esp 2주차.md": {
@@ -4124,8 +3229,8 @@
         "0312 Esp 2 주차"
       ],
       "createdDate": 1741766218703,
-      "modifiedDate": 1741767851640,
-      "sizeInBytes": 1033,
+      "modifiedDate": 1741795920264,
+      "sizeInBytes": 1026,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.48333333333333334,
@@ -4138,12 +3243,12 @@
           "0312 Esp 2 주차"
         ],
         "date created": "수요일, 3월 12일 2025, 12:03:24 오후",
-        "date modified": "수요일, 3월 12일 2025, 5:24:11 오후",
+        "date modified": "목요일, 3월 13일 2025, 1:12:00 오전",
         "linter-yaml-title-alias": "0312 Esp 2 주차",
         "title": "0312 Esp 2 주차",
         "강의 n주차": 2,
         "과목": [
-          "[[../ESP|ESP]]"
+          "[[ESP]]"
         ],
         "시간": "2025-03-12T12:00:00"
       }
@@ -4165,8 +3270,8 @@
         "0311 Esp 2 주차"
       ],
       "createdDate": 1741721824880,
-      "modifiedDate": 1741766218703,
-      "sizeInBytes": 328,
+      "modifiedDate": 1741795928039,
+      "sizeInBytes": 320,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.016666666666666666,
@@ -4179,13 +3284,13 @@
           "0311 Esp 2 주차"
         ],
         "date created": "수요일, 3월 12일 2025, 4:37:04 오전",
-        "date modified": "수요일, 3월 12일 2025, 12:22:49 오후",
+        "date modified": "목요일, 3월 13일 2025, 1:12:08 오전",
         "linter-yaml-title-alias": "0311 Esp 2 주차",
         "page": 10,
         "title": "0311 Esp 2 주차",
         "강의 n주차": 2,
         "과목": [
-          "[[../ESP|ESP]]"
+          "[[ESP]]"
         ],
         "시간": "2025-03-11T15:00:00"
       }
@@ -4242,8 +3347,8 @@
         "Finding the Ideal Job"
       ],
       "createdDate": 1741439083913,
-      "modifiedDate": 1741736558520,
-      "sizeInBytes": 1075,
+      "modifiedDate": 1741795934813,
+      "sizeInBytes": 1068,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.49666666666666665,
@@ -4256,12 +3361,12 @@
           "Finding the Ideal Job"
         ],
         "date created": "토요일, 3월 8일 2025, 10:04:43 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:12:14 오전",
         "linter-yaml-title-alias": "Finding the Ideal Job",
         "title": "Finding the Ideal Job",
         "강의 n주차": 1,
         "과목": [
-          "[[../ESP|ESP]]"
+          "[[ESP]]"
         ],
         "시간": "2025-03-05T12:00:00"
       }
@@ -6131,8 +5236,8 @@
         "B10008"
       ],
       "createdDate": 1741794310725,
-      "modifiedDate": 1741794417229,
-      "sizeInBytes": 223,
+      "modifiedDate": 1741795832127,
+      "sizeInBytes": 231,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6145,8 +5250,9 @@
           "B10008"
         ],
         "date created": "목요일, 3월 13일 2025, 12:45:10 오전",
-        "date modified": "목요일, 3월 13일 2025, 12:46:57 오전",
-        "title": "인류 문명과 세계 문화사"
+        "date modified": "목요일, 3월 13일 2025, 1:10:32 오전",
+        "title": "인류 문명과 세계 문화사",
+        "교수": null
       }
     },
     "자기설계.md": {
@@ -6629,6 +5735,110 @@
         "date modified": "목요일, 3월 13일 2025, 1:04:48 오전",
         "title": "프로그래밍 입문",
         "교수": null
+      }
+    },
+    "이산수학.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 9,
+      "nonWhitespaceCharacterCount": 5,
+      "readingTimeInMinutes": 0.008,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "NA3035"
+      ],
+      "createdDate": 1741795697636,
+      "modifiedDate": 1741795796459,
+      "sizeInBytes": 207,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "NA3035"
+        ],
+        "date created": "목요일, 3월 13일 2025, 1:08:17 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:09:56 오전",
+        "title": "이산수학",
+        "교수": [
+          "[[권희용]]"
+        ]
+      }
+    },
+    "컴퓨터 구조.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 11,
+      "nonWhitespaceCharacterCount": 6,
+      "readingTimeInMinutes": 0.01,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "NA3036"
+      ],
+      "createdDate": 1741795941685,
+      "modifiedDate": 1741796033059,
+      "sizeInBytes": 215,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "NA3036"
+        ],
+        "date created": "목요일, 3월 13일 2025, 1:12:21 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:13:53 오전",
+        "title": "컴퓨터 구조",
+        "교수": [
+          "[[송인식]]"
+        ]
+      }
+    },
+    "Template/template 사람.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741796085467,
+      "modifiedDate": 1741796156976,
+      "sizeInBytes": 16,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "직업": null
       }
     }
   }
