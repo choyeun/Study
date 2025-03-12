@@ -17,7 +17,7 @@
     "display": "Obsidian Core Quick Switcher"
   },
   "showRecentFiles": true,
-  "showBookmarks": false,
+  "showBookmarks": true,
   "bookmarkSource": "all",
   "bookmarkGroup": "",
   "showQuote": true,
