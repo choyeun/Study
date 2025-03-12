@@ -1,10 +1,9 @@
 ---
-aliases:
-  - do…while 문
 date created: 월요일, 6월 17일 2024, 3:58:19 오전
-date modified: 수요일, 3월 12일 2025, 8:42:37 오전
-linter-yaml-title-alias: do…while 문
+date modified: 목요일, 3월 13일 2025, 12:57:35 오전
 title: do…while 문
+과목:
+  - "[[프로그래밍 입문]]"
 ---
 
 # do…while 문

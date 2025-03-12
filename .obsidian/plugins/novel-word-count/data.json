@@ -1716,8 +1716,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1717267526898,
-      "modifiedDate": 1741767035850,
-      "sizeInBytes": 644,
+      "modifiedDate": 1741794784722,
+      "sizeInBytes": 686,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4066666666666667,
@@ -1727,8 +1727,11 @@
       },
       "frontmatter": {
         "date created": "일요일, 6월 2일 2024, 3:45:26 오전",
-        "date modified": "수요일, 3월 12일 2025, 5:10:33 오후",
-        "title": "프로그래밍 입문 기말 과제"
+        "date modified": "목요일, 3월 13일 2025, 12:53:04 오전",
+        "title": "프로그래밍 입문 기말 과제",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/프로그래밍 입문 기말 고사 일정.md": {
@@ -1746,8 +1749,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1717842149529,
-      "modifiedDate": 1741766365363,
-      "sizeInBytes": 292,
+      "modifiedDate": 1741794800163,
+      "sizeInBytes": 334,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.08,
@@ -1757,8 +1760,11 @@
       },
       "frontmatter": {
         "date created": "토요일, 6월 8일 2024, 7:22:29 오후",
-        "date modified": "수요일, 3월 12일 2025, 4:59:25 오후",
+        "date modified": "목요일, 3월 13일 2025, 12:53:20 오전",
         "title": "프로그래밍 입문 기말 고사 일정",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ],
         "시험 일정": "2024-06-17"
       }
     },
@@ -1802,8 +1808,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564105344,
-      "modifiedDate": 1741734389586,
-      "sizeInBytes": 191,
+      "modifiedDate": 1741794806086,
+      "sizeInBytes": 232,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.013333333333333334,
@@ -1814,7 +1820,10 @@
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 3:55:05 오전",
         "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "중첩 if"
+        "title": "중첩 if",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/8. 조건문/복합문.md": {
@@ -1832,8 +1841,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861916,
-      "modifiedDate": 1741736558403,
-      "sizeInBytes": 261,
+      "modifiedDate": 1741794842718,
+      "sizeInBytes": 303,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09666666666666666,
@@ -1843,188 +1852,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "복합문"
-      }
-    },
-    "NA1011_프로그래밍 입문/8. 조건문/switch 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 81,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27,
-      "characterCount": 340,
-      "nonWhitespaceCharacterCount": 237,
-      "readingTimeInMinutes": 0.22052830188679245,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Switch 문"
-      ],
-      "createdDate": 1718564137836,
-      "modifiedDate": 1741734389591,
-      "sizeInBytes": 636,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.27,
-        "wordCount": 81,
-        "characterCount": 340,
-        "nonWhitespaceCharacterCount": 237
-      },
-      "frontmatter": {
-        "aliases": [
-          "Switch 문"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:55:37 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "Switch 문",
-        "title": "Switch 문"
-      }
-    },
-    "NA1011_프로그래밍 입문/8. 조건문/if else 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 52,
-      "nonWhitespaceCharacterCount": 44,
-      "readingTimeInMinutes": 0.013320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "If Else 문"
-      ],
-      "createdDate": 1718564080624,
-      "modifiedDate": 1741734389595,
-      "sizeInBytes": 257,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.013333333333333334,
-        "wordCount": 4,
-        "characterCount": 52,
-        "nonWhitespaceCharacterCount": 44
-      },
-      "frontmatter": {
-        "aliases": [
-          "If Else 문"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:54:40 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "If Else 문",
-        "title": "If Else 문"
-      }
-    },
-    "NA1011_프로그래밍 입문/8. 조건문/switch 문에서 주의할 점.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 88,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29333333333333333,
-      "characterCount": 369,
-      "nonWhitespaceCharacterCount": 218,
-      "readingTimeInMinutes": 0.20969811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Switch 문에서 주의할 점"
-      ],
-      "createdDate": 1718564159729,
-      "modifiedDate": 1741734389597,
-      "sizeInBytes": 771,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.29333333333333333,
-        "wordCount": 88,
-        "characterCount": 369,
-        "nonWhitespaceCharacterCount": 218
-      },
-      "frontmatter": {
-        "aliases": [
-          "Switch 문에서 주의할 점"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:55:59 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "Switch 문에서 주의할 점",
-        "title": "Switch 문에서 주의할 점"
-      }
-    },
-    "NA1011_프로그래밍 입문/8. 조건문/if문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 47,
-      "nonWhitespaceCharacterCount": 40,
-      "readingTimeInMinutes": 0.009547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "If 문"
-      ],
-      "createdDate": 1718564046711,
-      "modifiedDate": 1741734389600,
-      "sizeInBytes": 237,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 47,
-        "nonWhitespaceCharacterCount": 40
-      },
-      "frontmatter": {
-        "aliases": [
-          "If 문"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:54:06 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "If 문",
-        "title": "If 문"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/중첩(nested) 반복문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 58,
-      "nonWhitespaceCharacterCount": 50,
-      "readingTimeInMinutes": 0.017547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "중첩 (nested) 반복문"
-      ],
-      "createdDate": 1718564446560,
-      "modifiedDate": 1741734389518,
-      "sizeInBytes": 313,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 58,
-        "nonWhitespaceCharacterCount": 50
-      },
-      "frontmatter": {
-        "aliases": [
-          "중첩 (nested) 반복문"
-        ],
-        "date created": "월요일, 6월 17일 2024, 4:00:46 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "중첩 (nested) 반복문",
-        "title": "중첩 (nested) 반복문"
+        "date modified": "목요일, 3월 13일 2025, 12:54:02 오전",
+        "title": "복합문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/9. 반복문/센티널(경계값의 이용).md": {
@@ -2044,8 +1876,8 @@
         "센티널 (경계값의 이용)"
       ],
       "createdDate": 1718564269367,
-      "modifiedDate": 1741734389511,
-      "sizeInBytes": 368,
+      "modifiedDate": 1741794893483,
+      "sizeInBytes": 410,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09666666666666666,
@@ -2058,45 +1890,12 @@
           "센티널 (경계값의 이용)"
         ],
         "date created": "월요일, 6월 17일 2024, 3:57:49 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:54:53 오전",
         "linter-yaml-title-alias": "센티널 (경계값의 이용)",
-        "title": "센티널 (경계값의 이용)"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/while 반복과 for 반복 비교.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 62,
-      "nonWhitespaceCharacterCount": 52,
-      "readingTimeInMinutes": 0.02532075471698113,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "While 반복과 for 반복 비교"
-      ],
-      "createdDate": 1718564395391,
-      "modifiedDate": 1741734389516,
-      "sizeInBytes": 345,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 62,
-        "nonWhitespaceCharacterCount": 52
-      },
-      "frontmatter": {
-        "aliases": [
-          "While 반복과 for 반복 비교"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:59:55 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "While 반복과 for 반복 비교",
-        "title": "While 반복과 for 반복 비교"
+        "title": "센티널 (경계값의 이용)",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/9. 반복문/프로그램의 흐름 제어 구조.md": {
@@ -2114,8 +1913,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564192902,
-      "modifiedDate": 1741736558366,
-      "sizeInBytes": 386,
+      "modifiedDate": 1741794979427,
+      "sizeInBytes": 428,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.20666666666666667,
@@ -2125,80 +1924,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 3:56:32 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "프로그램의 흐름 제어 구조"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/while 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 40,
-      "nonWhitespaceCharacterCount": 27,
-      "readingTimeInMinutes": 0.04577358490566038,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "While 문"
-      ],
-      "createdDate": 1718564234469,
-      "modifiedDate": 1741734389521,
-      "sizeInBytes": 279,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07333333333333333,
-        "wordCount": 22,
-        "characterCount": 40,
-        "nonWhitespaceCharacterCount": 27
-      },
-      "frontmatter": {
-        "aliases": [
-          "While 문"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:57:14 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "While 문",
-        "title": "While 문"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/for 문의 실행과정.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 54,
-      "nonWhitespaceCharacterCount": 46,
-      "readingTimeInMinutes": 0.019547169811320757,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "For 문의 실행과정"
-      ],
-      "createdDate": 1718564371224,
-      "modifiedDate": 1741734389525,
-      "sizeInBytes": 305,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02666666666666667,
-        "wordCount": 8,
-        "characterCount": 54,
-        "nonWhitespaceCharacterCount": 46
-      },
-      "frontmatter": {
-        "aliases": [
-          "For 문의 실행과정"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:59:31 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "For 문의 실행과정",
-        "title": "For 문의 실행과정"
+        "date modified": "목요일, 3월 13일 2025, 12:56:19 오전",
+        "title": "프로그램의 흐름 제어 구조",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/9. 반복문/다양한 증감수식의 형태.md": {
@@ -2216,8 +1946,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564416644,
-      "modifiedDate": 1741734389523,
-      "sizeInBytes": 237,
+      "modifiedDate": 1741794930564,
+      "sizeInBytes": 279,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03666666666666667,
@@ -2227,152 +1957,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:00:16 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "다양한 증감수식의 형태"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/break 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 30,
-      "readingTimeInMinutes": 0.04354716981132075,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Break 문"
-      ],
-      "createdDate": 1718637861917,
-      "modifiedDate": 1741734389535,
-      "sizeInBytes": 278,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06666666666666667,
-        "wordCount": 20,
-        "characterCount": 44,
-        "nonWhitespaceCharacterCount": 30
-      },
-      "frontmatter": {
-        "aliases": [
-          "Break 문"
-        ],
-        "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "Break 문",
-        "title": "Break 문"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/do...while문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 28,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 51,
-      "nonWhitespaceCharacterCount": 36,
-      "readingTimeInMinutes": 0.057773584905660376,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "do…while 문"
-      ],
-      "createdDate": 1718564299636,
-      "modifiedDate": 1741736558368,
-      "sizeInBytes": 319,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09333333333333334,
-        "wordCount": 28,
-        "characterCount": 51,
-        "nonWhitespaceCharacterCount": 36
-      },
-      "frontmatter": {
-        "aliases": [
-          "do…while 문"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:58:19 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "linter-yaml-title-alias": "do…while 문",
-        "title": "do…while 문"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/continue 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 39,
-      "nonWhitespaceCharacterCount": 27,
-      "readingTimeInMinutes": 0.039773584905660374,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Continue 문"
-      ],
-      "createdDate": 1718564446560,
-      "modifiedDate": 1741734389533,
-      "sizeInBytes": 281,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06333333333333334,
-        "wordCount": 19,
-        "characterCount": 39,
-        "nonWhitespaceCharacterCount": 27
-      },
-      "frontmatter": {
-        "aliases": [
-          "Continue 문"
-        ],
-        "date created": "월요일, 6월 17일 2024, 4:00:46 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "Continue 문",
-        "title": "Continue 문"
-      }
-    },
-    "NA1011_프로그래밍 입문/9. 반복문/for 루프.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 49,
-      "nonWhitespaceCharacterCount": 42,
-      "readingTimeInMinutes": 0.011547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "For 루프"
-      ],
-      "createdDate": 1718564350337,
-      "modifiedDate": 1741734389530,
-      "sizeInBytes": 253,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.013333333333333334,
-        "wordCount": 4,
-        "characterCount": 49,
-        "nonWhitespaceCharacterCount": 42
-      },
-      "frontmatter": {
-        "aliases": [
-          "For 루프"
-        ],
-        "date created": "월요일, 6월 17일 2024, 3:59:10 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "linter-yaml-title-alias": "For 루프",
-        "title": "For 루프"
+        "date modified": "목요일, 3월 13일 2025, 12:55:30 오전",
+        "title": "다양한 증감수식의 형태",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/행렬.md": {
@@ -2390,8 +1979,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861910,
-      "modifiedDate": 1741734389606,
-      "sizeInBytes": 228,
+      "modifiedDate": 1741795342958,
+      "sizeInBytes": 269,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.08,
@@ -2401,8 +1990,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "행렬"
+        "date modified": "목요일, 3월 13일 2025, 1:02:22 오전",
+        "title": "행렬",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/이진 탐색.md": {
@@ -2420,8 +2012,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861909,
-      "modifiedDate": 1741734389603,
-      "sizeInBytes": 1722,
+      "modifiedDate": 1741795277774,
+      "sizeInBytes": 1763,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.9966666666666667,
@@ -2432,7 +2024,10 @@
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
         "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "이진 탐색"
+        "title": "이진 탐색",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/정렬.md": {
@@ -2450,8 +2045,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861909,
-      "modifiedDate": 1741736558405,
-      "sizeInBytes": 386,
+      "modifiedDate": 1741795410438,
+      "sizeInBytes": 427,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24666666666666667,
@@ -2461,8 +2056,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "정렬"
+        "date modified": "목요일, 3월 13일 2025, 1:03:30 오전",
+        "title": "정렬",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/잘못된 인덱스 문제.md": {
@@ -2480,8 +2078,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861909,
-      "modifiedDate": 1741736558409,
-      "sizeInBytes": 368,
+      "modifiedDate": 1741795416549,
+      "sizeInBytes": 409,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.21,
@@ -2491,8 +2089,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "잘못된 인덱스 문제"
+        "date modified": "목요일, 3월 13일 2025, 1:03:36 오전",
+        "title": "잘못된 인덱스 문제",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/순차 탐색.md": {
@@ -2510,8 +2111,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861908,
-      "modifiedDate": 1741734389614,
-      "sizeInBytes": 757,
+      "modifiedDate": 1741795348212,
+      "sizeInBytes": 798,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.38666666666666666,
@@ -2521,8 +2122,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "순차 탐색"
+        "date modified": "목요일, 3월 13일 2025, 1:02:28 오전",
+        "title": "순차 탐색",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/변수의 값 교환 시 주의.md": {
@@ -2540,8 +2144,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861908,
-      "modifiedDate": 1741734389617,
-      "sizeInBytes": 464,
+      "modifiedDate": 1741795353222,
+      "sizeInBytes": 505,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14666666666666667,
@@ -2551,8 +2155,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "변수의 값 교환 시 주의"
+        "date modified": "목요일, 3월 13일 2025, 1:02:33 오전",
+        "title": "변수의 값 교환 시 주의",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/배열의복사, 비교.md": {
@@ -2570,8 +2177,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861908,
-      "modifiedDate": 1741734389625,
-      "sizeInBytes": 220,
+      "modifiedDate": 1741795358441,
+      "sizeInBytes": 261,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.02666666666666667,
@@ -2581,8 +2188,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "배열의복사, 비교"
+        "date modified": "목요일, 3월 13일 2025, 1:02:38 오전",
+        "title": "배열의복사, 비교",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/배열의 초기화.md": {
@@ -2600,8 +2210,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861907,
-      "modifiedDate": 1741734389632,
-      "sizeInBytes": 212,
+      "modifiedDate": 1741795363520,
+      "sizeInBytes": 253,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.023333333333333334,
@@ -2611,8 +2221,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "배열의 초기화"
+        "date modified": "목요일, 3월 13일 2025, 1:02:43 오전",
+        "title": "배열의 초기화",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/선택 정렬(selection sort).md": {
@@ -2632,8 +2245,8 @@
         "선택 정렬 (selection sort)"
       ],
       "createdDate": 1718637861908,
-      "modifiedDate": 1741736558413,
-      "sizeInBytes": 473,
+      "modifiedDate": 1741795422205,
+      "sizeInBytes": 514,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14666666666666667,
@@ -2646,9 +2259,12 @@
           "선택 정렬 (selection sort)"
         ],
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:03:42 오전",
         "linter-yaml-title-alias": "선택 정렬 (selection sort)",
-        "title": "선택 정렬 (selection sort)"
+        "title": "선택 정렬 (selection sort)",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/배열과 함수.md": {
@@ -2666,8 +2282,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861907,
-      "modifiedDate": 1741736558417,
-      "sizeInBytes": 279,
+      "modifiedDate": 1741795428467,
+      "sizeInBytes": 320,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12666666666666668,
@@ -2677,8 +2293,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "배열과 함수"
+        "date modified": "목요일, 3월 13일 2025, 1:03:48 오전",
+        "title": "배열과 함수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/배열.md": {
@@ -2696,8 +2315,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861907,
-      "modifiedDate": 1741736558421,
-      "sizeInBytes": 455,
+      "modifiedDate": 1741795433146,
+      "sizeInBytes": 496,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3,
@@ -2707,8 +2326,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "배열"
+        "date modified": "목요일, 3월 13일 2025, 1:03:53 오전",
+        "title": "배열",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/배열 원소 접근.md": {
@@ -2726,8 +2348,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861906,
-      "modifiedDate": 1741736558422,
-      "sizeInBytes": 335,
+      "modifiedDate": 1741795437244,
+      "sizeInBytes": 376,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14333333333333334,
@@ -2737,8 +2359,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "배열 원소 접근"
+        "date modified": "목요일, 3월 13일 2025, 1:03:57 오전",
+        "title": "배열 원소 접근",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/배열 원소의 개수 계산.md": {
@@ -2756,8 +2381,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861907,
-      "modifiedDate": 1741734389638,
-      "sizeInBytes": 234,
+      "modifiedDate": 1741795369273,
+      "sizeInBytes": 275,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -2767,8 +2392,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "배열 원소의 개수 계산"
+        "date modified": "목요일, 3월 13일 2025, 1:02:49 오전",
+        "title": "배열 원소의 개수 계산",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/배열 선언, 인덱스.md": {
@@ -2786,8 +2414,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861906,
-      "modifiedDate": 1741736558426,
-      "sizeInBytes": 497,
+      "modifiedDate": 1741795442043,
+      "sizeInBytes": 538,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2833333333333333,
@@ -2797,8 +2425,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "배열 선언, 인덱스"
+        "date modified": "목요일, 3월 13일 2025, 1:04:02 오전",
+        "title": "배열 선언, 인덱스",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/다차원 배열을 이용한 행렬의 표현.md": {
@@ -2816,8 +2447,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861906,
-      "modifiedDate": 1741734389650,
-      "sizeInBytes": 3786,
+      "modifiedDate": 1741795319480,
+      "sizeInBytes": 3827,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.15,
@@ -2828,7 +2459,10 @@
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
         "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "다차원 배열을 이용한 행렬의 표현"
+        "title": "다차원 배열을 이용한 행렬의 표현",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/2차원 배열의 초기화.md": {
@@ -2848,8 +2482,8 @@
         "방법 1: 완전한 초기화"
       ],
       "createdDate": 1718637861905,
-      "modifiedDate": 1741734389663,
-      "sizeInBytes": 2790,
+      "modifiedDate": 1741795406031,
+      "sizeInBytes": 2831,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.25,
@@ -2862,9 +2496,12 @@
           "방법 1: 완전한 초기화"
         ],
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:03:26 오전",
         "linter-yaml-title-alias": "방법 1: 완전한 초기화",
-        "title": "방법 1: 완전한 초기화"
+        "title": "방법 1: 완전한 초기화",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/다차원 배열 인수.md": {
@@ -2882,8 +2519,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861905,
-      "modifiedDate": 1741734389655,
-      "sizeInBytes": 3379,
+      "modifiedDate": 1741795391110,
+      "sizeInBytes": 3420,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.06,
@@ -2893,8 +2530,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "다차원 배열 인수"
+        "date modified": "목요일, 3월 13일 2025, 1:03:09 오전",
+        "title": "다차원 배열 인수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/12. 배열/2차원 배열.md": {
@@ -2914,8 +2554,8 @@
         "2 차원 배열"
       ],
       "createdDate": 1718637861904,
-      "modifiedDate": 1741734389657,
-      "sizeInBytes": 440,
+      "modifiedDate": 1741795398028,
+      "sizeInBytes": 481,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.20333333333333334,
@@ -2928,9 +2568,12 @@
           "2 차원 배열"
         ],
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:03:18 오전",
         "linter-yaml-title-alias": "2 차원 배열",
-        "title": "2 차원 배열"
+        "title": "2 차원 배열",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/피보니치 수열의 계산.md": {
@@ -2948,8 +2591,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861904,
-      "modifiedDate": 1741736558428,
-      "sizeInBytes": 585,
+      "modifiedDate": 1741795222615,
+      "sizeInBytes": 626,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.36666666666666664,
@@ -2960,7 +2603,10 @@
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
         "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "피보니치 수열의 계산"
+        "title": "피보니치 수열의 계산",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/하노이 탑.md": {
@@ -2978,8 +2624,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861904,
-      "modifiedDate": 1741734389665,
-      "sizeInBytes": 957,
+      "modifiedDate": 1741795236718,
+      "sizeInBytes": 998,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5466666666666666,
@@ -2989,8 +2635,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "하노이 탑"
+        "date modified": "목요일, 3월 13일 2025, 1:00:36 오전",
+        "title": "하노이 탑",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/전역 변수.md": {
@@ -3008,8 +2657,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718565482902,
-      "modifiedDate": 1741736558432,
-      "sizeInBytes": 456,
+      "modifiedDate": 1741795288289,
+      "sizeInBytes": 497,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.29333333333333333,
@@ -3019,8 +2668,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:18:02 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "전역 변수"
+        "date modified": "목요일, 3월 13일 2025, 1:01:28 오전",
+        "title": "전역 변수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/지역 변수.md": {
@@ -3038,8 +2690,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718565482902,
-      "modifiedDate": 1741734389676,
-      "sizeInBytes": 231,
+      "modifiedDate": 1741795187880,
+      "sizeInBytes": 272,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07,
@@ -3050,7 +2702,10 @@
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:18:02 오전",
         "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "지역 변수"
+        "title": "지역 변수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/전역 변수와 지역 변수.md": {
@@ -3068,8 +2723,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718565482902,
-      "modifiedDate": 1741734389674,
-      "sizeInBytes": 233,
+      "modifiedDate": 1741795242070,
+      "sizeInBytes": 274,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -3079,8 +2734,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:18:02 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "전역 변수와 지역 변수"
+        "date modified": "목요일, 3월 13일 2025, 1:00:42 오전",
+        "title": "전역 변수와 지역 변수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 static.md": {
@@ -3100,8 +2758,8 @@
         "저장 유형 지정자 Static"
       ],
       "createdDate": 1718565639155,
-      "modifiedDate": 1741734389685,
-      "sizeInBytes": 394,
+      "modifiedDate": 1741795257473,
+      "sizeInBytes": 435,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.11666666666666667,
@@ -3114,9 +2772,12 @@
           "저장 유형 지정자 Static"
         ],
         "date created": "월요일, 6월 17일 2024, 4:20:39 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:00:57 오전",
         "linter-yaml-title-alias": "저장 유형 지정자 Static",
-        "title": "저장 유형 지정자 Static"
+        "title": "저장 유형 지정자 Static",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 auto.md": {
@@ -3136,8 +2797,8 @@
         "저장 유형 지정자 Auto"
       ],
       "createdDate": 1718565586748,
-      "modifiedDate": 1741736558434,
-      "sizeInBytes": 489,
+      "modifiedDate": 1741795293560,
+      "sizeInBytes": 530,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22666666666666666,
@@ -3150,9 +2811,12 @@
           "저장 유형 지정자 Auto"
         ],
         "date created": "월요일, 6월 17일 2024, 4:19:46 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:01:33 오전",
         "linter-yaml-title-alias": "저장 유형 지정자 Auto",
-        "title": "저장 유형 지정자 Auto"
+        "title": "저장 유형 지정자 Auto",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 register.md": {
@@ -3172,8 +2836,8 @@
         "저장 유형 지정자 Register"
       ],
       "createdDate": 1718565674280,
-      "modifiedDate": 1741734389688,
-      "sizeInBytes": 349,
+      "modifiedDate": 1741795267464,
+      "sizeInBytes": 390,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06333333333333334,
@@ -3186,9 +2850,12 @@
           "저장 유형 지정자 Register"
         ],
         "date created": "월요일, 6월 17일 2024, 4:21:14 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:01:06 오전",
         "linter-yaml-title-alias": "저장 유형 지정자 Register",
-        "title": "저장 유형 지정자 Register"
+        "title": "저장 유형 지정자 Register",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/외부 연결.md": {
@@ -3206,8 +2873,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861903,
-      "modifiedDate": 1741736558439,
-      "sizeInBytes": 257,
+      "modifiedDate": 1741795301900,
+      "sizeInBytes": 298,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07,
@@ -3217,8 +2884,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "외부 연결"
+        "date modified": "목요일, 3월 13일 2025, 1:01:41 오전",
+        "title": "외부 연결",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 정리.md": {
@@ -3236,8 +2906,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861903,
-      "modifiedDate": 1741736558436,
-      "sizeInBytes": 510,
+      "modifiedDate": 1741795238110,
+      "sizeInBytes": 551,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.31666666666666665,
@@ -3248,7 +2918,10 @@
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
         "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "저장 유형 정리"
+        "title": "저장 유형 정리",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/연결(linkage).md": {
@@ -3268,8 +2941,8 @@
         "연결 (linkage)"
       ],
       "createdDate": 1718565690893,
-      "modifiedDate": 1741736558441,
-      "sizeInBytes": 387,
+      "modifiedDate": 1741795308343,
+      "sizeInBytes": 428,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.15,
@@ -3282,9 +2955,12 @@
           "연결 (linkage)"
         ],
         "date created": "월요일, 6월 17일 2024, 4:21:30 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:01:48 오전",
         "linter-yaml-title-alias": "연결 (linkage)",
-        "title": "연결 (linkage)"
+        "title": "연결 (linkage)",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/순환(recursion).md": {
@@ -3304,8 +2980,8 @@
         "순환 (recursion)"
       ],
       "createdDate": 1718637861903,
-      "modifiedDate": 1741734389705,
-      "sizeInBytes": 358,
+      "modifiedDate": 1741795276352,
+      "sizeInBytes": 399,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12333333333333334,
@@ -3318,9 +2994,12 @@
           "순환 (recursion)"
         ],
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:01:16 오전",
         "linter-yaml-title-alias": "순환 (recursion)",
-        "title": "순환 (recursion)"
+        "title": "순환 (recursion)",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/순환 알고리즘의 구조.md": {
@@ -3338,8 +3017,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861902,
-      "modifiedDate": 1741736558444,
-      "sizeInBytes": 492,
+      "modifiedDate": 1741795253552,
+      "sizeInBytes": 533,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2866666666666667,
@@ -3350,7 +3029,10 @@
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
         "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "순환 알고리즘의 구조"
+        "title": "순환 알고리즘의 구조",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/생존 기간.md": {
@@ -3368,8 +3050,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718565537424,
-      "modifiedDate": 1741736558447,
-      "sizeInBytes": 496,
+      "modifiedDate": 1741795318319,
+      "sizeInBytes": 537,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2833333333333333,
@@ -3379,8 +3061,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:18:57 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "생존 기간"
+        "date modified": "목요일, 3월 13일 2025, 1:01:58 오전",
+        "title": "생존 기간",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/11. 함수와 변수/변수의 속성.md": {
@@ -3398,8 +3083,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718565443058,
-      "modifiedDate": 1741736558448,
-      "sizeInBytes": 442,
+      "modifiedDate": 1741795323783,
+      "sizeInBytes": 483,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24666666666666667,
@@ -3409,8 +3094,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:17:23 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "변수의 속성"
+        "date modified": "목요일, 3월 13일 2025, 1:02:03 오전",
+        "title": "변수의 속성",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/함수의 정의.md": {
@@ -3428,8 +3116,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564611655,
-      "modifiedDate": 1741736558371,
-      "sizeInBytes": 292,
+      "modifiedDate": 1741795100658,
+      "sizeInBytes": 333,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07666666666666666,
@@ -3440,7 +3128,10 @@
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:03:31 오전",
         "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "함수의 정의"
+        "title": "함수의 정의",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/함수의 장점.md": {
@@ -3458,8 +3149,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564577390,
-      "modifiedDate": 1741736558377,
-      "sizeInBytes": 449,
+      "modifiedDate": 1741795174042,
+      "sizeInBytes": 491,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2833333333333333,
@@ -3469,8 +3160,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:02:57 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "함수의 장점"
+        "date modified": "목요일, 3월 13일 2025, 12:59:34 오전",
+        "title": "함수의 장점",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/함수 호출과 반환.md": {
@@ -3488,8 +3182,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564732526,
-      "modifiedDate": 1741736558385,
-      "sizeInBytes": 420,
+      "modifiedDate": 1741795194425,
+      "sizeInBytes": 462,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24666666666666667,
@@ -3499,8 +3193,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:05:32 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "함수 호출과 반환"
+        "date modified": "목요일, 3월 13일 2025, 12:59:54 오전",
+        "title": "함수 호출과 반환",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/함수의 개념.md": {
@@ -3518,8 +3215,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564556014,
-      "modifiedDate": 1741736558375,
-      "sizeInBytes": 358,
+      "modifiedDate": 1741795168464,
+      "sizeInBytes": 400,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.18666666666666668,
@@ -3529,8 +3226,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:02:36 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "함수의 개념"
+        "date modified": "목요일, 3월 13일 2025, 12:59:26 오전",
+        "title": "함수의 개념",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/함수 원형과 헤더 파일.md": {
@@ -3548,8 +3248,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718637861902,
-      "modifiedDate": 1741736558380,
-      "sizeInBytes": 297,
+      "modifiedDate": 1741795179432,
+      "sizeInBytes": 339,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09666666666666666,
@@ -3559,8 +3259,11 @@
       },
       "frontmatter": {
         "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "함수 원형과 헤더 파일"
+        "date modified": "목요일, 3월 13일 2025, 12:59:39 오전",
+        "title": "함수 원형과 헤더 파일",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/인수와 매개 변수.md": {
@@ -3578,8 +3281,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564764442,
-      "modifiedDate": 1741736558381,
-      "sizeInBytes": 330,
+      "modifiedDate": 1741795186254,
+      "sizeInBytes": 372,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.11333333333333333,
@@ -3589,8 +3292,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:06:04 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "인수와 매개 변수"
+        "date modified": "목요일, 3월 13일 2025, 12:59:46 오전",
+        "title": "인수와 매개 변수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/함수 원형.md": {
@@ -3608,8 +3314,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564825155,
-      "modifiedDate": 1741734389562,
-      "sizeInBytes": 268,
+      "modifiedDate": 1741795135892,
+      "sizeInBytes": 310,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.1,
@@ -3619,8 +3325,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:07:05 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "함수 원형"
+        "date modified": "목요일, 3월 13일 2025, 12:58:55 오전",
+        "title": "함수 원형",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/유틸리티 함수.md": {
@@ -3638,8 +3347,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564952851,
-      "modifiedDate": 1741734389559,
-      "sizeInBytes": 211,
+      "modifiedDate": 1741795126944,
+      "sizeInBytes": 253,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.023333333333333334,
@@ -3649,8 +3358,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:09:12 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "유틸리티 함수"
+        "date modified": "목요일, 3월 13일 2025, 12:58:46 오전",
+        "title": "유틸리티 함수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/수학 라이브러리 함수.md": {
@@ -3668,8 +3380,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564976239,
-      "modifiedDate": 1741734389566,
-      "sizeInBytes": 231,
+      "modifiedDate": 1741795144090,
+      "sizeInBytes": 273,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -3679,8 +3391,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:09:36 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "수학 라이브러리 함수"
+        "date modified": "목요일, 3월 13일 2025, 12:59:04 오전",
+        "title": "수학 라이브러리 함수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/반환형.md": {
@@ -3698,8 +3413,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564692270,
-      "modifiedDate": 1741734389570,
-      "sizeInBytes": 191,
+      "modifiedDate": 1741795150369,
+      "sizeInBytes": 233,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.013333333333333334,
@@ -3709,8 +3424,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:04:52 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "반환형"
+        "date modified": "목요일, 3월 13일 2025, 12:59:10 오전",
+        "title": "반환형",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/모듈의 개념.md": {
@@ -3728,8 +3446,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564498285,
-      "modifiedDate": 1741736558387,
-      "sizeInBytes": 532,
+      "modifiedDate": 1741795201408,
+      "sizeInBytes": 573,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.36666666666666664,
@@ -3739,8 +3457,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:01:38 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "모듈의 개념"
+        "date modified": "목요일, 3월 13일 2025, 1:00:01 오전",
+        "title": "모듈의 개념",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/라이브러리 함수.md": {
@@ -3758,8 +3479,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564867849,
-      "modifiedDate": 1741736558393,
-      "sizeInBytes": 372,
+      "modifiedDate": 1741795209399,
+      "sizeInBytes": 413,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19333333333333333,
@@ -3769,8 +3490,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:07:47 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "라이브러리 함수"
+        "date modified": "목요일, 3월 13일 2025, 1:00:09 오전",
+        "title": "라이브러리 함수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/반환값.md": {
@@ -3788,8 +3512,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564789551,
-      "modifiedDate": 1741736558394,
-      "sizeInBytes": 329,
+      "modifiedDate": 1741795215659,
+      "sizeInBytes": 370,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.17333333333333334,
@@ -3799,8 +3523,11 @@
       },
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:06:29 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "반환값"
+        "date modified": "목요일, 3월 13일 2025, 1:00:15 오전",
+        "title": "반환값",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/매개 변수.md": {
@@ -3818,8 +3545,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564692270,
-      "modifiedDate": 1741734389584,
-      "sizeInBytes": 199,
+      "modifiedDate": 1741795095522,
+      "sizeInBytes": 240,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.016666666666666666,
@@ -3830,7 +3557,10 @@
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:04:52 오전",
         "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
-        "title": "매개 변수"
+        "title": "매개 변수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA1011_프로그래밍 입문/10. 함수/난수 함수.md": {
@@ -3848,8 +3578,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564894368,
-      "modifiedDate": 1741736558399,
-      "sizeInBytes": 391,
+      "modifiedDate": 1741795160940,
+      "sizeInBytes": 432,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22,
@@ -3860,7 +3590,10 @@
       "frontmatter": {
         "date created": "월요일, 6월 17일 2024, 4:08:14 오전",
         "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
-        "title": "난수 함수"
+        "title": "난수 함수",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
       }
     },
     "NA2015_인공지능 개론/인공지능 개론 기말 과제.md": {
@@ -4608,8 +4341,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727924986322,
-      "modifiedDate": 1741736558484,
-      "sizeInBytes": 369,
+      "modifiedDate": 1741794685140,
+      "sizeInBytes": 443,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.16333333333333333,
@@ -4619,8 +4352,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 10월 3일 2024, 12:09:46 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
-        "title": "아리 진로 상담과 창의 융합 기업가 정신 OT"
+        "date modified": "목요일, 3월 13일 2025, 12:51:25 오전",
+        "title": "아리 진로 상담과 창의 융합 기업가 정신 OT",
+        "과목": [
+          "[[아리 진로 상담과 창의 융합 기업가 정신]]"
+        ]
       }
     },
     "B80011_자기설계/1주차 & 자기설계 OT.md": {
@@ -4640,8 +4376,8 @@
         "1 주차 & 자기설계 OT"
       ],
       "createdDate": 1741721824879,
-      "modifiedDate": 1741736558312,
-      "sizeInBytes": 466,
+      "modifiedDate": 1741794510831,
+      "sizeInBytes": 526,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14333333333333334,
@@ -4654,9 +4390,15 @@
           "1 주차 & 자기설계 OT"
         ],
         "date created": "수요일, 3월 12일 2025, 4:37:04 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:42:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:48:30 오전",
         "linter-yaml-title-alias": "1 주차 & 자기설계 OT",
         "title": "1 주차 & 자기설계 OT",
+        "과목": [
+          "[[자기설계]]"
+        ],
+        "교수": [
+          "[[박은화]]"
+        ],
         "시간": "2025-03-07T13:00:00"
       }
     },
@@ -4677,8 +4419,8 @@
         "사막에서 발달하는 학문"
       ],
       "createdDate": 1729336659554,
-      "modifiedDate": 1741794298461,
-      "sizeInBytes": 1171,
+      "modifiedDate": 1741794358450,
+      "sizeInBytes": 1172,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7833333333333333,
@@ -4691,7 +4433,7 @@
           "사막에서 발달하는 학문"
         ],
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:45:58 오전",
         "linter-yaml-title-alias": "사막에서 발달하는 학문",
         "title": "사막에서 발달하는 학문",
         "과목": [
@@ -4714,8 +4456,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729336659553,
-      "modifiedDate": 1741794285799,
-      "sizeInBytes": 1854,
+      "modifiedDate": 1741794345802,
+      "sizeInBytes": 1855,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.45,
@@ -4725,7 +4467,7 @@
       },
       "frontmatter": {
         "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:45:45 오전",
         "title": "지상에 건축된 신의 낙원, 앙코르와트 20241019T092000",
         "과목": [
           "[[인류 문명과 세계 문화사]]"
@@ -4747,8 +4489,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1731142421152,
-      "modifiedDate": 1741794278791,
-      "sizeInBytes": 862,
+      "modifiedDate": 1741794338786,
+      "sizeInBytes": 863,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5366666666666666,
@@ -4758,7 +4500,7 @@
       },
       "frontmatter": {
         "date created": "토요일, 11월 9일 2024, 5:53:41 오후",
-        "date modified": "수요일, 3월 12일 2025, 8:42:38 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:45:38 오전",
         "title": "중국 문명을 도약시킨 젊은 황제, 진시황 20241107T103948",
         "과목": [
           "[[인류 문명과 세계 문화사]]"
@@ -6376,25 +6118,517 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 18,
+      "nonWhitespaceCharacterCount": 11,
+      "readingTimeInMinutes": 0.02,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "B10008"
+      ],
       "createdDate": 1741794310725,
-      "modifiedDate": 1741794310725,
-      "sizeInBytes": 0,
+      "modifiedDate": 1741794417229,
+      "sizeInBytes": 223,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "B10008"
+        ],
+        "date created": "목요일, 3월 13일 2025, 12:45:10 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:46:57 오전",
+        "title": "인류 문명과 세계 문화사"
+      }
+    },
+    "자기설계.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 9,
+      "nonWhitespaceCharacterCount": 5,
+      "readingTimeInMinutes": 0.008,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "B80011"
+      ],
+      "createdDate": 1741794510756,
+      "modifiedDate": 1741794611104,
+      "sizeInBytes": 209,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "B80011"
+        ],
+        "date created": "목요일, 3월 13일 2025, 12:48:30 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:50:11 오전",
+        "title": "자기설계",
+        "교수": [
+          "[[박은화]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/중첩 (nested) 반복문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 58,
+      "nonWhitespaceCharacterCount": 50,
+      "readingTimeInMinutes": 0.017547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564446560,
+      "modifiedDate": 1741794933437,
+      "sizeInBytes": 265,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 4:00:46 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:55:33 오전",
+        "title": "중첩 (nested) 반복문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/While 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 40,
+      "nonWhitespaceCharacterCount": 27,
+      "readingTimeInMinutes": 0.04577358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564234469,
+      "modifiedDate": 1741794945543,
+      "sizeInBytes": 263,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 3:57:14 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:55:45 오전",
+        "title": "While 문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/Break 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 30,
+      "readingTimeInMinutes": 0.04354716981132075,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718637861917,
+      "modifiedDate": 1741794952174,
+      "sizeInBytes": 262,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "화요일, 6월 18일 2024, 12:24:21 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:55:52 오전",
+        "title": "Break 문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/While 반복과 for 반복 비교.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 62,
+      "nonWhitespaceCharacterCount": 52,
+      "readingTimeInMinutes": 0.02532075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564395391,
+      "modifiedDate": 1741794957877,
+      "sizeInBytes": 281,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 3:59:55 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:55:57 오전",
+        "title": "While 반복과 for 반복 비교",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/Continue 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 39,
+      "nonWhitespaceCharacterCount": 27,
+      "readingTimeInMinutes": 0.039773584905660374,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564446560,
+      "modifiedDate": 1741794962302,
+      "sizeInBytes": 259,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 4:00:46 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:56:02 오전",
+        "title": "Continue 문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/do…while 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 36,
+      "readingTimeInMinutes": 0.057773584905660376,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564299636,
+      "modifiedDate": 1741795055339,
+      "sizeInBytes": 293,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 3:58:19 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:57:35 오전",
+        "title": "do…while 문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/For 루프.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 42,
+      "readingTimeInMinutes": 0.011547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564350337,
+      "modifiedDate": 1741795003561,
+      "sizeInBytes": 235,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 3:59:10 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:56:43 오전",
+        "title": "For 루프",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/9. 반복문/For 문의 실행과정.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 54,
+      "nonWhitespaceCharacterCount": 46,
+      "readingTimeInMinutes": 0.019547169811320757,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564371224,
+      "modifiedDate": 1741795011368,
+      "sizeInBytes": 261,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 3:59:31 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:56:51 오전",
+        "title": "For 문의 실행과정",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/8. 조건문/If else 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 52,
+      "nonWhitespaceCharacterCount": 44,
+      "readingTimeInMinutes": 0.013320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "If Else 문"
+      ],
+      "createdDate": 1718564080624,
+      "modifiedDate": 1741794879685,
+      "sizeInBytes": 299,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "If Else 문"
+        ],
+        "date created": "월요일, 6월 17일 2024, 3:54:40 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:54:39 오전",
+        "linter-yaml-title-alias": "If Else 문",
+        "title": "If Else 문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/8. 조건문/Switch 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 81,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.27,
+      "characterCount": 340,
+      "nonWhitespaceCharacterCount": 237,
+      "readingTimeInMinutes": 0.22052830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564137836,
+      "modifiedDate": 1741795025794,
+      "sizeInBytes": 618,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 3:55:37 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:57:05 오전",
+        "title": "Switch 문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/8. 조건문/Switch 문에서 주의할 점.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 88,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 369,
+      "nonWhitespaceCharacterCount": 218,
+      "readingTimeInMinutes": 0.20969811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718564159729,
+      "modifiedDate": 1741795032559,
+      "sizeInBytes": 713,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "월요일, 6월 17일 2024, 3:55:59 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:57:12 오전",
+        "title": "Switch 문에서 주의할 점",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "NA1011_프로그래밍 입문/8. 조건문/If문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 40,
+      "readingTimeInMinutes": 0.009547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "If 문"
+      ],
+      "createdDate": 1718564046711,
+      "modifiedDate": 1741794834399,
+      "sizeInBytes": 279,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "If 문"
+        ],
+        "date created": "월요일, 6월 17일 2024, 3:54:06 오전",
+        "date modified": "목요일, 3월 13일 2025, 12:53:54 오전",
+        "linter-yaml-title-alias": "If 문",
+        "title": "If 문",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
+    "프로그래밍 입문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 8,
+      "readingTimeInMinutes": 0.014,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "NA1011"
+      ],
+      "createdDate": 1741795406662,
+      "modifiedDate": 1741795488234,
+      "sizeInBytes": 208,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "NA1011"
+        ],
+        "date created": "목요일, 3월 13일 2025, 1:03:26 오전",
+        "date modified": "목요일, 3월 13일 2025, 1:04:48 오전",
+        "title": "프로그래밍 입문",
+        "교수": null
       }
     }
   }
