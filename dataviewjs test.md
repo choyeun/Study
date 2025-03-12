@@ -2,14 +2,14 @@
 aliases:
   - Dataviewjs Test
 date created: 수요일, 3월 12일 2025, 4:57:07 오후
-date modified: 수요일, 3월 12일 2025, 5:34:21 오후
+date modified: 수요일, 3월 12일 2025, 5:47:31 오후
 linter-yaml-title-alias: Dataviewjs Test
 title: Dataviewjs Test
 ---
 
 # Dataviewjs Test
 
-## Toc 
+## Toc
 
 ```dataviewjs
 const content = await dv.io.load(dv.current().file.path);
@@ -27,7 +27,7 @@ if (headings && headings.length > 0) {
 }
 ```
 
-## 단일 태그 노트 
+## 단일 태그 노트
 
 ```dataview
 TABLE WITHOUT ID 
@@ -35,20 +35,24 @@ file.link as "노트명"
 FROM #태그명
 WHERE length(file.tags) = 1
 ```
-## 북마크한 노트 
 
-### list 
+## 북마크한 노트
+
+### List
+
 ```dataview
 LIST 
 WHERE file.starred
 ```
-### table 
+
+### Table
 
 ```dataview
 TABLE WITHOUT ID 
 file.link AS "문서"
 WHERE file.starred
 ```
+
 ## 태그당 노트 수
 
 ```dataview
@@ -58,7 +62,7 @@ FLATTEN file.tags as tag
 GROUP BY tag
 ```
 
-## 최근 7일동안 편집된 노트 
+## 최근 7일동안 편집된 노트
 
 ```dataview
 TABLE dateformat(file.mtime, "yyyy/MM/dd") AS "Last Modified" 
@@ -66,6 +70,7 @@ WHERE date(today) - file.mtime <= dur(7 days) SORT file.mtime DESC
 ```
 
 ## 중복 파일 검사
+
 ```dataviewjs
 const data = dv.pages();
 
@@ -107,7 +112,9 @@ if (duplicateFound) {
   dv.span("중복 파일이 없습니다.");
 }
 ```
+
 ## 미해결 링크 검사
+
 ```dataviewjs
 const unresolvedLinks = dv.app.metadataCache.unresolvedLinks;
 let links = [];
@@ -123,12 +130,17 @@ for (let file in unresolvedLinks) {
 dv.table(["파일", "미해결 링크", "언급 횟수"], links);
 
 ```
-## 고립된 노트 
-### 백링크가 없는 노트 
+
+## 고립된 노트
+
+### 백링크가 없는 노트
+
 ```dataview
 TABLE WHERE length(file.inlinks) = 0
 ```
-### 링크가 없는 노트 
+
+### 링크가 없는 노트
+
 ```dataview
 TABLE WHERE length(file.outlinks) = 0
 ```
