@@ -31,4 +31,3 @@ title: CPU 의 구조와 기능
 - 레지스터 세트(Register Set)
 - 제어 유니트(Control Unit)
 ![[../attachments/Pasted image 20250313142132.png]]
-- 
