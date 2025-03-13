@@ -8,5 +8,5 @@
     "header"
   ],
   "theme": "system",
-  "showViewHeader": false
+  "showViewHeader": true
 }

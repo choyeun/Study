@@ -5,5 +5,7 @@
   "showLineNumber": true,
   "vimMode": false,
   "spellcheck": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "trashOption": "system",
+  "attachmentFolderPath": "attachments"
 }

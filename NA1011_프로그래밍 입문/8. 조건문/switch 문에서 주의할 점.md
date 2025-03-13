@@ -1,10 +1,9 @@
 ---
-aliases:
-  - Switch 문에서 주의할 점
 date created: 월요일, 6월 17일 2024, 3:55:59 오전
-date modified: 수요일, 3월 12일 2025, 8:06:28 오전
-linter-yaml-title-alias: Switch 문에서 주의할 점
+date modified: 목요일, 3월 13일 2025, 12:57:12 오전
 title: Switch 문에서 주의할 점
+과목:
+  - "[[프로그래밍 입문]]"
 ---
 
 # Switch 문에서 주의할 점

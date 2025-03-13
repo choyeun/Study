@@ -204,7 +204,7 @@
     "heading-blank-lines": {
       "enabled": true,
       "bottom": true,
-      "empty-line-after-yaml": true
+      "empty-line-after-yaml": false
     },
     "line-break-at-document-end": {
       "enabled": true
@@ -237,7 +237,7 @@
       "enabled": true
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
-      "enabled": true,
+      "enabled": false,
       "english-symbols-punctuation-before": "-+;:'\"°%$)]",
       "english-symbols-punctuation-after": "-+'\"([¥$"
     },
