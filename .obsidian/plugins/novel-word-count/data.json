@@ -5954,7 +5954,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1741970851633,
-      "modifiedDate": 1741970851638,
+      "modifiedDate": 1741970851971,
       "sizeInBytes": 21,
       "sessionStart": {
         "noteCount": 0,
@@ -5968,18 +5968,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 292,
+      "wordCount": 226,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9733333333333334,
-      "characterCount": 764,
-      "nonWhitespaceCharacterCount": 607,
-      "readingTimeInMinutes": 0.6691320754716981,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
+      "pageCount": 0.7533333333333333,
+      "characterCount": 531,
+      "nonWhitespaceCharacterCount": 420,
+      "readingTimeInMinutes": 0.4998867924528302,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": [
+        "CPU 의 구조와 기능"
+      ],
       "createdDate": 1741970851875,
-      "modifiedDate": 1741970851875,
+      "modifiedDate": 1741970852191,
       "sizeInBytes": 1252,
       "sessionStart": {
         "noteCount": 0,
@@ -5987,9 +5989,23 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "CPU 의 구조와 기능"
+        ],
+        "date created": "목요일, 3월 13일 2025, 2:05:52 오후",
+        "date modified": "목요일, 3월 13일 2025, 2:29:27 오후",
+        "linter-yaml-title-alias": "CPU 의 구조와 기능",
+        "title": "CPU 의 구조와 기능",
+        "강의 n주차": 2,
+        "과목": [
+          "[[컴퓨터 구조]]"
+        ],
+        "시간": "2025-03-13T14:00:00"
       }
     },
-    "attachments/Pasted image 20250313142132.png": {
+    "attachments/868515229b49743875716b251b911a15_MD5.jpeg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6003,9 +6019,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741970851876,
-      "modifiedDate": 1741970851876,
-      "sizeInBytes": 48509,
+      "createdDate": 1741970857233,
+      "modifiedDate": 1741970857242,
+      "sizeInBytes": 39308,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

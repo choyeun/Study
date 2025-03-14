@@ -30,4 +30,5 @@ title: CPU 의 구조와 기능
 - 산술논리연산장치(Arithmetic and Logical Unit: [[ALU]])
 - 레지스터 세트(Register Set)
 - 제어 유니트(Control Unit)
-![[../attachments/Pasted image 20250313142132.png]]
+[[attachments/868515229b49743875716b251b911a15_MD5.jpeg|Open: Pasted image 20250313142132.png]]
+![[attachments/868515229b49743875716b251b911a15_MD5.jpeg]]
