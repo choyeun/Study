@@ -6195,8 +6195,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742070688106,
-      "modifiedDate": 1742070757505,
-      "sizeInBytes": 151,
+      "modifiedDate": 1742071316893,
+      "sizeInBytes": 166,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6206,7 +6206,10 @@
       },
       "frontmatter": {
         "date created": "일요일, 3월 16일 2025, 5:31:28 오전",
-        "date modified": "일요일, 3월 16일 2025, 5:32:37 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:41:54 오전",
+        "tags": [
+          "Note"
+        ],
         "title": "Obsidian"
       }
     },
@@ -6244,19 +6247,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 41,
+      "wordCount": 49,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 146,
-      "nonWhitespaceCharacterCount": 122,
-      "readingTimeInMinutes": 0.09973584905660376,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 157,
+      "nonWhitespaceCharacterCount": 130,
+      "readingTimeInMinutes": 0.11573584905660378,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742070826619,
-      "modifiedDate": 1742070986343,
-      "sizeInBytes": 346,
+      "modifiedDate": 1742071126745,
+      "sizeInBytes": 393,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6266,8 +6269,36 @@
       },
       "frontmatter": {
         "date created": "일요일, 3월 16일 2025, 5:33:46 오전",
-        "date modified": "일요일, 3월 16일 2025, 5:33:50 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:38:46 오전",
+        "tags": [
+          "Framework"
+        ],
         "title": "Electron"
+      }
+    },
+    "Notion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742071322366,
+      "modifiedDate": 1742071322366,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

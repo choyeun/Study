@@ -36,7 +36,7 @@
     },
     "move-tags-to-yaml": {
       "enabled": true,
-      "how-to-handle-existing-tags": "Nothing",
+      "how-to-handle-existing-tags": "Remove whole tag",
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
