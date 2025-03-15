@@ -6070,8 +6070,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742067175623,
-      "modifiedDate": 1742069161785,
-      "sizeInBytes": 1785,
+      "modifiedDate": 1742070772006,
+      "sizeInBytes": 1757,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6081,9 +6081,8 @@
       },
       "frontmatter": {
         "date created": "일요일, 3월 16일 2025, 4:32:55 오전",
-        "date modified": "일요일, 3월 16일 2025, 5:06:01 오전",
-        "title": "내가 사용중인 프로그램 소개",
-        "시간": "2025-03-16T11:00:00"
+        "date modified": "일요일, 3월 16일 2025, 5:32:52 오전",
+        "title": "내가 사용중인 프로그램 소개"
       }
     },
     "Markdown.md": {
@@ -6124,15 +6123,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.83,
-      "characterCount": 1769,
+      "characterCount": 1768,
       "nonWhitespaceCharacterCount": 996,
       "readingTimeInMinutes": 0.6381132075471698,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742069751173,
-      "modifiedDate": 1742070510340,
-      "sizeInBytes": 2243,
+      "modifiedDate": 1742070568465,
+      "sizeInBytes": 2242,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6142,7 +6141,7 @@
       },
       "frontmatter": {
         "date created": "일요일, 3월 16일 2025, 5:15:51 오전",
-        "date modified": "일요일, 3월 16일 2025, 5:15:54 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:29:28 오전",
         "title": "HTML"
       }
     },
@@ -6150,25 +6149,125 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 7,
+      "nonWhitespaceCharacterCount": 3,
+      "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Javascript"
+      ],
       "createdDate": 1742070540377,
-      "modifiedDate": 1742070540377,
-      "sizeInBytes": 0,
+      "modifiedDate": 1742070559213,
+      "sizeInBytes": 163,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Javascript"
+        ],
+        "date created": "일요일, 3월 16일 2025, 5:29:00 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:29:17 오전",
+        "title": "JS"
+      }
+    },
+    "Obsidian.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 9,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742070688106,
+      "modifiedDate": 1742070757505,
+      "sizeInBytes": 151,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "일요일, 3월 16일 2025, 5:31:28 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:32:37 오전",
+        "title": "Obsidian"
+      }
+    },
+    "Hwp.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 7,
+      "readingTimeInMinutes": 0.009773584905660378,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742070718181,
+      "modifiedDate": 1742070739088,
+      "sizeInBytes": 152,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "일요일, 3월 16일 2025, 5:31:58 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:32:17 오전",
+        "title": "Hwp"
+      }
+    },
+    "Electron.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 146,
+      "nonWhitespaceCharacterCount": 122,
+      "readingTimeInMinutes": 0.09973584905660376,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742070826619,
+      "modifiedDate": 1742070986343,
+      "sizeInBytes": 346,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "일요일, 3월 16일 2025, 5:33:46 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:33:50 오전",
+        "title": "Electron"
       }
     }
   }
