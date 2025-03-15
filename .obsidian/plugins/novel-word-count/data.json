@@ -6045,7 +6045,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742067162581,
-      "modifiedDate": 1742067162581,
+      "modifiedDate": 1742067162888,
       "sizeInBytes": 21,
       "sessionStart": {
         "noteCount": 0,
@@ -6053,6 +6053,37 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "내가 사용중인 프로그램 소개.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 179,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5966666666666667,
+      "characterCount": 351,
+      "nonWhitespaceCharacterCount": 261,
+      "readingTimeInMinutes": 0.38637735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742067175623,
+      "modifiedDate": 1742067753631,
+      "sizeInBytes": 874,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "일요일, 3월 16일 2025, 4:32:55 오전",
+        "date modified": "일요일, 3월 16일 2025, 4:41:25 오전",
+        "title": "내가 사용중인 프로그램 소개",
+        "시간": "2025-03-16T11:00:00"
       }
     }
   }
