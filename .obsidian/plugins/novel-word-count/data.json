@@ -6063,15 +6063,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.35,
-      "characterCount": 822,
-      "nonWhitespaceCharacterCount": 628,
+      "characterCount": 830,
+      "nonWhitespaceCharacterCount": 636,
       "readingTimeInMinutes": 0.8490188679245283,
-      "linkCount": 10,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742067175623,
-      "modifiedDate": 1742070772006,
-      "sizeInBytes": 1757,
+      "modifiedDate": 1742071461630,
+      "sizeInBytes": 1765,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6081,7 +6081,7 @@
       },
       "frontmatter": {
         "date created": "일요일, 3월 16일 2025, 4:32:55 오전",
-        "date modified": "일요일, 3월 16일 2025, 5:32:52 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:44:19 오전",
         "title": "내가 사용중인 프로그램 소개"
       }
     },
@@ -6280,25 +6280,33 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 11,
+      "nonWhitespaceCharacterCount": 7,
+      "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742071322366,
-      "modifiedDate": 1742071322366,
-      "sizeInBytes": 0,
+      "modifiedDate": 1742071329737,
+      "sizeInBytes": 162,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "일요일, 3월 16일 2025, 5:42:02 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:42:07 오전",
+        "tags": [
+          "Note"
+        ],
+        "title": "Notion"
       }
     }
   }
