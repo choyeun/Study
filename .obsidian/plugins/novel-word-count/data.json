@@ -6063,15 +6063,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.35,
-      "characterCount": 811,
-      "nonWhitespaceCharacterCount": 616,
+      "characterCount": 822,
+      "nonWhitespaceCharacterCount": 628,
       "readingTimeInMinutes": 0.8490188679245283,
-      "linkCount": 7,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742067175623,
-      "modifiedDate": 1742069026345,
-      "sizeInBytes": 1774,
+      "modifiedDate": 1742069161785,
+      "sizeInBytes": 1785,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6081,9 +6081,39 @@
       },
       "frontmatter": {
         "date created": "일요일, 3월 16일 2025, 4:32:55 오전",
-        "date modified": "일요일, 3월 16일 2025, 5:03:44 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:06:01 오전",
         "title": "내가 사용중인 프로그램 소개",
         "시간": "2025-03-16T11:00:00"
+      }
+    },
+    "Markdown.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 91,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 233,
+      "nonWhitespaceCharacterCount": 181,
+      "readingTimeInMinutes": 0.19973584905660377,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742069131936,
+      "modifiedDate": 1742069395659,
+      "sizeInBytes": 533,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "일요일, 3월 16일 2025, 5:05:31 오전",
+        "date modified": "일요일, 3월 16일 2025, 5:05:47 오전",
+        "title": "Markdown"
       }
     }
   }
