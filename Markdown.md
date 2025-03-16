@@ -1,6 +1,8 @@
 ---
+aliases:
+  - 마크다운
 date created: 일요일, 3월 16일 2025, 5:05:31 오전
-date modified: 일요일, 3월 16일 2025, 5:11:56 오전
+date modified: 일요일, 3월 16일 2025, 10:26:48 오전
 title: Markdown
 ---
 

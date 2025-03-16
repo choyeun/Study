@@ -6319,25 +6319,36 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 425,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 1.4166666666666667,
+      "characterCount": 891,
+      "nonWhitespaceCharacterCount": 684,
+      "readingTimeInMinutes": 0.887245283018868,
+      "linkCount": 12,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "내가 사용 중인 프로그램 소개 2"
+      ],
       "createdDate": 1742087657248,
-      "modifiedDate": 1742087657248,
-      "sizeInBytes": 0,
+      "modifiedDate": 1742087667387,
+      "sizeInBytes": 1997,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "내가 사용 중인 프로그램 소개 2"
+        ],
+        "date created": "일요일, 3월 16일 2025, 10:14:17 오전",
+        "date modified": "일요일, 3월 16일 2025, 10:14:27 오전",
+        "linter-yaml-title-alias": "내가 사용 중인 프로그램 소개 2",
+        "title": "내가 사용 중인 프로그램 소개 2"
       }
     }
   }
