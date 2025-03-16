@@ -4173,10 +4173,12 @@
       "readingTimeInMinutes": 0.23883018867924527,
       "linkCount": 7,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "마크다운"
+      ],
       "createdDate": 1742069131936,
-      "modifiedDate": 1742069642268,
-      "sizeInBytes": 640,
+      "modifiedDate": 1742088408400,
+      "sizeInBytes": 667,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3566666666666667,
@@ -4185,8 +4187,11 @@
         "nonWhitespaceCharacterCount": 242
       },
       "frontmatter": {
+        "aliases": [
+          "마크다운"
+        ],
         "date created": "일요일, 3월 16일 2025, 5:05:31 오전",
-        "date modified": "일요일, 3월 16일 2025, 5:11:56 오전",
+        "date modified": "일요일, 3월 16일 2025, 10:26:48 오전",
         "title": "Markdown"
       }
     },
@@ -6319,21 +6324,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 425,
+      "wordCount": 688,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4166666666666667,
-      "characterCount": 891,
-      "nonWhitespaceCharacterCount": 684,
-      "readingTimeInMinutes": 0.887245283018868,
-      "linkCount": 12,
+      "pageCount": 2.2933333333333334,
+      "characterCount": 1461,
+      "nonWhitespaceCharacterCount": 1057,
+      "readingTimeInMinutes": 1.4593584905660377,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "내가 사용 중인 프로그램 소개 2"
+        "효율적인 문서 관리를 위한 도구"
       ],
       "createdDate": 1742087657248,
-      "modifiedDate": 1742087667387,
-      "sizeInBytes": 1997,
+      "modifiedDate": 1742088703974,
+      "sizeInBytes": 3044,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6343,12 +6348,12 @@
       },
       "frontmatter": {
         "aliases": [
-          "내가 사용 중인 프로그램 소개 2"
+          "효율적인 문서 관리를 위한 도구"
         ],
         "date created": "일요일, 3월 16일 2025, 10:14:17 오전",
-        "date modified": "일요일, 3월 16일 2025, 10:14:27 오전",
-        "linter-yaml-title-alias": "내가 사용 중인 프로그램 소개 2",
-        "title": "내가 사용 중인 프로그램 소개 2"
+        "date modified": "일요일, 3월 16일 2025, 10:31:43 오전",
+        "linter-yaml-title-alias": "효율적인 문서 관리를 위한 도구",
+        "title": "효율적인 문서 관리를 위한 도구"
       }
     }
   }
