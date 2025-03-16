@@ -994,19 +994,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 450,
+      "wordCount": 515,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5,
-      "characterCount": 910,
-      "nonWhitespaceCharacterCount": 698,
-      "readingTimeInMinutes": 0.9407924528301886,
+      "pageCount": 1.7166666666666666,
+      "characterCount": 1009,
+      "nonWhitespaceCharacterCount": 779,
+      "readingTimeInMinutes": 1.0707924528301886,
       "linkCount": 13,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "내가 사용 중인 프로그램 소개"
+      ],
       "createdDate": 1742067175623,
-      "modifiedDate": 1742086661670,
-      "sizeInBytes": 1933,
+      "modifiedDate": 1742087649701,
+      "sizeInBytes": 2284,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.35,
@@ -1015,9 +1017,13 @@
         "nonWhitespaceCharacterCount": 644
       },
       "frontmatter": {
+        "aliases": [
+          "내가 사용 중인 프로그램 소개"
+        ],
         "date created": "일요일, 3월 16일 2025, 4:32:55 오전",
-        "date modified": "일요일, 3월 16일 2025, 9:57:39 오전",
-        "title": "내가 사용중인 프로그램 소개"
+        "date modified": "일요일, 3월 16일 2025, 10:14:09 오전",
+        "linter-yaml-title-alias": "내가 사용 중인 프로그램 소개",
+        "title": "내가 사용 중인 프로그램 소개"
       }
     },
     "김수연.md": {
@@ -6307,6 +6313,31 @@
         "date created": "월요일, 3월 10일 2025, 11:39:33 오후",
         "date modified": "수요일, 3월 12일 2025, 8:06:29 오전",
         "title": "2025-03-10"
+      }
+    },
+    "임시.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742087657248,
+      "modifiedDate": 1742087657248,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
