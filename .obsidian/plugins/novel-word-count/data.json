@@ -6428,21 +6428,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 98,
+      "wordCount": 135,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.32666666666666666,
-      "characterCount": 419,
-      "nonWhitespaceCharacterCount": 342,
-      "readingTimeInMinutes": 0.29000000000000004,
-      "linkCount": 10,
+      "pageCount": 0.45,
+      "characterCount": 643,
+      "nonWhitespaceCharacterCount": 530,
+      "readingTimeInMinutes": 0.4030188679245283,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": [
         "Proposition"
       ],
       "createdDate": 1742216648422,
-      "modifiedDate": 1742217551226,
-      "sizeInBytes": 764,
+      "modifiedDate": 1742217850617,
+      "sizeInBytes": 1024,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6455,7 +6455,7 @@
           "Proposition"
         ],
         "date created": "월요일, 3월 17일 2025, 10:04:08 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:18:41 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:19:51 오후",
         "tags": [
           "math"
         ],
@@ -6484,8 +6484,8 @@
         "연결사"
       ],
       "createdDate": 1742217521176,
-      "modifiedDate": 1742217527762,
-      "sizeInBytes": 182,
+      "modifiedDate": 1742217655080,
+      "sizeInBytes": 197,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6498,7 +6498,10 @@
           "연결사"
         ],
         "date created": "월요일, 3월 17일 2025, 10:18:41 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:18:47 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:20:55 오후",
+        "tags": [
+          "math"
+        ],
         "title": "Connectives"
       }
     }
