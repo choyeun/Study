@@ -6428,21 +6428,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 22,
+      "wordCount": 64,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 110,
-      "nonWhitespaceCharacterCount": 89,
-      "readingTimeInMinutes": 0.07592452830188678,
-      "linkCount": 1,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 252,
+      "nonWhitespaceCharacterCount": 199,
+      "readingTimeInMinutes": 0.18830188679245283,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": [
         "Proposition"
       ],
       "createdDate": 1742216648422,
-      "modifiedDate": 1742216940000,
-      "sizeInBytes": 358,
+      "modifiedDate": 1742217182294,
+      "sizeInBytes": 567,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6455,7 +6455,10 @@
           "Proposition"
         ],
         "date created": "월요일, 3월 17일 2025, 10:04:08 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:07:19 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:13:00 오후",
+        "tags": [
+          "math"
+        ],
         "title": "명제",
         "강의 n주차": 2,
         "과목": [
