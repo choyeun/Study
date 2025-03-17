@@ -2,7 +2,7 @@
 aliases:
   - CPU 의 구조와 기능
 date created: 목요일, 3월 13일 2025, 2:05:52 오후
-date modified: 목요일, 3월 13일 2025, 2:29:27 오후
+date modified: 월요일, 3월 17일 2025, 12:14:25 오후
 linter-yaml-title-alias: CPU 의 구조와 기능
 title: CPU 의 구조와 기능
 강의 n주차: 2
@@ -12,6 +12,7 @@ title: CPU 의 구조와 기능
 ---
 
 # CPU 의 구조와 기능
+
 **[[CPU]]의 기능**
 - 명령어 인출(Instruction Fetch)
   기억장치로부터 명령어를 읽어온다
@@ -23,10 +24,11 @@ title: CPU 의 구조와 기능
 - 데이터 처리(Data Process)
   데이터에 대한 산술적 혹은 논리적 연산을 수행
 - 데이터 저장(Data Store)
-  수행한 결과를 저장 
+  수행한 결과를 저장
 -> 명령어에 따라 필요한 경우에만 수행
 
-## [[CPU]]의 기본 구조 
+## [[CPU]]의 기본 구조
+
 - 산술논리연산장치(Arithmetic and Logical Unit: [[ALU]])
 - 레지스터 세트(Register Set)
 - 제어 유니트(Control Unit)
