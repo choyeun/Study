@@ -1641,17 +1641,17 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.13,
-      "characterCount": 2480,
-      "nonWhitespaceCharacterCount": 1836,
+      "characterCount": 2484,
+      "nonWhitespaceCharacterCount": 1840,
       "readingTimeInMinutes": 1.8313584905660378,
-      "linkCount": 22,
+      "linkCount": 23,
       "embedCount": 0,
       "aliases": [
         "Set"
       ],
       "createdDate": 1741618349656,
-      "modifiedDate": 1742216832367,
-      "sizeInBytes": 3443,
+      "modifiedDate": 1742223768145,
+      "sizeInBytes": 3447,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.13,
@@ -1664,7 +1664,7 @@
           "Set"
         ],
         "date created": "월요일, 3월 10일 2025, 11:52:29 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:07:12 오후",
+        "date modified": "화요일, 3월 18일 2025, 12:02:48 오전",
         "tags": [
           "math"
         ],
@@ -6842,21 +6842,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 192,
+      "wordCount": 219,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.64,
-      "characterCount": 1693,
-      "nonWhitespaceCharacterCount": 876,
-      "readingTimeInMinutes": 0.6979245283018868,
-      "linkCount": 14,
+      "pageCount": 0.73,
+      "characterCount": 1874,
+      "nonWhitespaceCharacterCount": 1018,
+      "readingTimeInMinutes": 0.7962641509433963,
+      "linkCount": 16,
       "embedCount": 0,
       "aliases": [
         "Logical equivalence"
       ],
       "createdDate": 1742222158689,
-      "modifiedDate": 1742223595064,
-      "sizeInBytes": 2026,
+      "modifiedDate": 1742223930182,
+      "sizeInBytes": 2223,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6869,7 +6869,7 @@
           "Logical equivalence"
         ],
         "date created": "월요일, 3월 17일 2025, 11:35:58 오후",
-        "date modified": "월요일, 3월 17일 2025, 11:59:08 오후",
+        "date modified": "화요일, 3월 18일 2025, 12:05:30 오전",
         "linter-yaml-title-alias": "Logical equivalence",
         "tags": [
           "math"
@@ -7057,7 +7057,7 @@
         "모순 명제"
       ],
       "createdDate": 1742223556469,
-      "modifiedDate": 1742223569325,
+      "modifiedDate": 1742223628049,
       "sizeInBytes": 262,
       "sessionStart": {
         "noteCount": 0,
@@ -7072,7 +7072,7 @@
           "모순 명제"
         ],
         "date created": "월요일, 3월 17일 2025, 11:59:16 오후",
-        "date modified": "월요일, 3월 17일 2025, 11:59:29 오후",
+        "date modified": "화요일, 3월 18일 2025, 12:00:28 오전",
         "linter-yaml-title-alias": "Contradiction",
         "tags": [
           "math"
@@ -7097,6 +7097,110 @@
       "createdDate": 1742223600996,
       "modifiedDate": 1742223601306,
       "sizeInBytes": 21,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "De Morgan’s Laws.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 21,
+      "nonWhitespaceCharacterCount": 15,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "드모르간의 법칙"
+      ],
+      "createdDate": 1742223712976,
+      "modifiedDate": 1742223781292,
+      "sizeInBytes": 224,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "드모르간의 법칙"
+        ],
+        "date created": "화요일, 3월 18일 2025, 12:01:52 오전",
+        "date modified": "화요일, 3월 18일 2025, 12:03:01 오전",
+        "tags": [
+          "math"
+        ],
+        "title": "De Morgan’s Laws"
+      }
+    },
+    "Logical equivalence.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 19,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Logical Equivalence",
+        "동치"
+      ],
+      "createdDate": 1742223930051,
+      "modifiedDate": 1742223949224,
+      "sizeInBytes": 279,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Logical Equivalence",
+          "동치"
+        ],
+        "date created": "화요일, 3월 18일 2025, 12:05:30 오전",
+        "date modified": "화요일, 3월 18일 2025, 12:05:49 오전",
+        "linter-yaml-title-alias": "Logical Equivalence",
+        "tags": [
+          "math"
+        ],
+        "title": "Logical Equivalence"
+      }
+    },
+    "NA3035_이산수학/논법.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742223969439,
+      "modifiedDate": 1742223969439,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
