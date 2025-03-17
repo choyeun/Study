@@ -6716,21 +6716,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 58,
+      "wordCount": 57,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19333333333333333,
-      "characterCount": 380,
-      "nonWhitespaceCharacterCount": 252,
-      "readingTimeInMinutes": 0.19758490566037734,
+      "pageCount": 0.19,
+      "characterCount": 374,
+      "nonWhitespaceCharacterCount": 247,
+      "readingTimeInMinutes": 0.19381132075471696,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": [
         "A conditional proposition"
       ],
       "createdDate": 1742221461714,
-      "modifiedDate": 1742222019496,
-      "sizeInBytes": 728,
+      "modifiedDate": 1742222158801,
+      "sizeInBytes": 737,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6743,8 +6743,11 @@
           "A conditional proposition"
         ],
         "date created": "월요일, 3월 17일 2025, 11:24:21 오후",
-        "date modified": "월요일, 3월 17일 2025, 11:32:58 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:35:58 오후",
         "linter-yaml-title-alias": "A conditional proposition",
+        "tags": [
+          "math"
+        ],
         "title": "A conditional proposition",
         "강의 n주차": 2,
         "과목": [
@@ -6833,6 +6836,49 @@
           "math"
         ],
         "title": "Necessary Condition"
+      }
+    },
+    "NA3035_이산수학/논리적 동치.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 91,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 818,
+      "nonWhitespaceCharacterCount": 399,
+      "readingTimeInMinutes": 0.33452830188679245,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Logical equivalence"
+      ],
+      "createdDate": 1742222158689,
+      "modifiedDate": 1742222644591,
+      "sizeInBytes": 1123,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Logical equivalence"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:35:58 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:37:06 오후",
+        "linter-yaml-title-alias": "Logical equivalence",
+        "tags": [
+          "math"
+        ],
+        "title": "Logical equivalence",
+        "강의 n주차": 2,
+        "과목": [
+          "[[이산수학]]"
+        ]
       }
     }
   }
