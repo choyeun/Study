@@ -44,5 +44,6 @@
   "nlp",
   "graph-analysis",
   "marp",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-custom-frames"
 ]
