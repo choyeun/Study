@@ -6428,21 +6428,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 64,
+      "wordCount": 98,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 252,
-      "nonWhitespaceCharacterCount": 199,
-      "readingTimeInMinutes": 0.18830188679245283,
-      "linkCount": 4,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 419,
+      "nonWhitespaceCharacterCount": 342,
+      "readingTimeInMinutes": 0.29000000000000004,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": [
         "Proposition"
       ],
       "createdDate": 1742216648422,
-      "modifiedDate": 1742217182294,
-      "sizeInBytes": 567,
+      "modifiedDate": 1742217551226,
+      "sizeInBytes": 764,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6455,7 +6455,7 @@
           "Proposition"
         ],
         "date created": "월요일, 3월 17일 2025, 10:04:08 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:13:00 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:18:41 오후",
         "tags": [
           "math"
         ],
@@ -6465,6 +6465,41 @@
           "[[이산수학]]"
         ],
         "시간": "2025-03-15T09:00:00"
+      }
+    },
+    "Connectives.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 12,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "연결사"
+      ],
+      "createdDate": 1742217521176,
+      "modifiedDate": 1742217527762,
+      "sizeInBytes": 182,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "연결사"
+        ],
+        "date created": "월요일, 3월 17일 2025, 10:18:41 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:18:47 오후",
+        "title": "Connectives"
       }
     }
   }
