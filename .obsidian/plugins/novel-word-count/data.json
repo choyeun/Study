@@ -7234,21 +7234,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 66,
+      "wordCount": 81,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22,
-      "characterCount": 226,
-      "nonWhitespaceCharacterCount": 144,
-      "readingTimeInMinutes": 0.18343396226415093,
+      "pageCount": 0.27,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 163,
+      "readingTimeInMinutes": 0.22052830188679245,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": [
         "Rules of Inference"
       ],
       "createdDate": 1742231605285,
-      "modifiedDate": 1742234310230,
-      "sizeInBytes": 571,
+      "modifiedDate": 1742236410209,
+      "sizeInBytes": 628,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7261,7 +7261,7 @@
           "Rules of Inference"
         ],
         "date created": "화요일, 3월 18일 2025, 2:13:25 오전",
-        "date modified": "화요일, 3월 18일 2025, 2:58:30 오전",
+        "date modified": "화요일, 3월 18일 2025, 3:33:30 오전",
         "tags": [
           "math"
         ],
@@ -7270,6 +7270,90 @@
           "[[이산수학]]"
         ],
         "시간": "2025-03-15T09:00:00"
+      }
+    },
+    "NA3035_이산수학/Quantifiers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 100,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3333333333333333,
+      "characterCount": 488,
+      "nonWhitespaceCharacterCount": 389,
+      "readingTimeInMinutes": 0.3454339622641509,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": [
+        "한정기호"
+      ],
+      "createdDate": 1742236410100,
+      "modifiedDate": 1742236891507,
+      "sizeInBytes": 783,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "한정기호"
+        ],
+        "date created": "화요일, 3월 18일 2025, 3:33:30 오전",
+        "date modified": "화요일, 3월 18일 2025, 3:41:29 오전",
+        "tags": [
+          "math"
+        ],
+        "title": "Quantifiers",
+        "강의 n주차": 2,
+        "과목": [
+          "[[이산수학]]"
+        ],
+        "시간": "2025-03-15T09:00:00"
+      }
+    },
+    "propositional function.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 27,
+      "nonWhitespaceCharacterCount": 22,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Propositional Function",
+        "명제 함수"
+      ],
+      "createdDate": 1742236832684,
+      "modifiedDate": 1742236848672,
+      "sizeInBytes": 296,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Propositional Function",
+          "명제 함수"
+        ],
+        "date created": "화요일, 3월 18일 2025, 3:40:32 오전",
+        "date modified": "화요일, 3월 18일 2025, 3:40:48 오전",
+        "linter-yaml-title-alias": "Propositional Function",
+        "tags": [
+          "math"
+        ],
+        "title": "Propositional Function"
       }
     }
   }
