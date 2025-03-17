@@ -7238,7 +7238,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.22,
-      "characterCount": 227,
+      "characterCount": 226,
       "nonWhitespaceCharacterCount": 144,
       "readingTimeInMinutes": 0.18343396226415093,
       "linkCount": 7,
@@ -7247,8 +7247,8 @@
         "Rules of Inference"
       ],
       "createdDate": 1742231605285,
-      "modifiedDate": 1742232015815,
-      "sizeInBytes": 572,
+      "modifiedDate": 1742234310230,
+      "sizeInBytes": 571,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7261,7 +7261,7 @@
           "Rules of Inference"
         ],
         "date created": "화요일, 3월 18일 2025, 2:13:25 오전",
-        "date modified": "화요일, 3월 18일 2025, 2:20:13 오전",
+        "date modified": "화요일, 3월 18일 2025, 2:58:30 오전",
         "tags": [
           "math"
         ],
