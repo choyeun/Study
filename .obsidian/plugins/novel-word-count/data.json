@@ -7161,7 +7161,7 @@
         "동치"
       ],
       "createdDate": 1742223930051,
-      "modifiedDate": 1742223949224,
+      "modifiedDate": 1742224008451,
       "sizeInBytes": 279,
       "sessionStart": {
         "noteCount": 0,
@@ -7176,7 +7176,7 @@
           "동치"
         ],
         "date created": "화요일, 3월 18일 2025, 12:05:30 오전",
-        "date modified": "화요일, 3월 18일 2025, 12:05:49 오전",
+        "date modified": "화요일, 3월 18일 2025, 12:06:48 오전",
         "linter-yaml-title-alias": "Logical Equivalence",
         "tags": [
           "math"
@@ -7188,25 +7188,46 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 76,
+      "nonWhitespaceCharacterCount": 57,
+      "readingTimeInMinutes": 0.03773584905660377,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Arguments and Roles of Inference",
+        "Arguments"
+      ],
       "createdDate": 1742223969439,
-      "modifiedDate": 1742223969439,
-      "sizeInBytes": 0,
+      "modifiedDate": 1742224229690,
+      "sizeInBytes": 452,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Arguments and Roles of Inference",
+          "Arguments"
+        ],
+        "date created": "화요일, 3월 18일 2025, 12:06:09 오전",
+        "date modified": "화요일, 3월 18일 2025, 12:08:03 오전",
+        "linter-yaml-title-alias": "Arguments and Roles of Inference",
+        "tags": [
+          "math"
+        ],
+        "title": "Arguments and Roles of Inference",
+        "강의 n주차": 2,
+        "과목": [
+          "[[이산수학]]"
+        ],
+        "시간": "2025-03-15T09:00:00"
       }
     }
   }
