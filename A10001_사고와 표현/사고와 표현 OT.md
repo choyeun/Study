@@ -2,7 +2,7 @@
 aliases:
   - 교양 필수
 date created: 토요일, 3월 8일 2025, 10:04:43 오후
-date modified: 목요일, 3월 13일 2025, 12:25:43 오전
+date modified: 월요일, 3월 17일 2025, 2:27:36 오전
 linter-yaml-title-alias: 교양 필수
 title: 교양 필수
 과목:
@@ -17,8 +17,7 @@ title: 교양 필수
 
 매 1 시간 마다 출석 체크
 
-> [!NOTE]
-> 출튀 불가
+출튀 불가
 
 3 학점 3 시간
 
