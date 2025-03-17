@@ -6842,21 +6842,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 91,
+      "wordCount": 192,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 818,
-      "nonWhitespaceCharacterCount": 399,
-      "readingTimeInMinutes": 0.33452830188679245,
-      "linkCount": 1,
+      "pageCount": 0.64,
+      "characterCount": 1693,
+      "nonWhitespaceCharacterCount": 876,
+      "readingTimeInMinutes": 0.6979245283018868,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": [
         "Logical equivalence"
       ],
       "createdDate": 1742222158689,
-      "modifiedDate": 1742222644591,
-      "sizeInBytes": 1123,
+      "modifiedDate": 1742223595064,
+      "sizeInBytes": 2026,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6869,7 +6869,7 @@
           "Logical equivalence"
         ],
         "date created": "월요일, 3월 17일 2025, 11:35:58 오후",
-        "date modified": "월요일, 3월 17일 2025, 11:37:06 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:59:08 오후",
         "linter-yaml-title-alias": "Logical equivalence",
         "tags": [
           "math"
@@ -6879,6 +6879,230 @@
         "과목": [
           "[[이산수학]]"
         ]
+      }
+    },
+    "logically equivalent.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 20,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Logically Equivalent",
+        "동치"
+      ],
+      "createdDate": 1742222903286,
+      "modifiedDate": 1742222911550,
+      "sizeInBytes": 283,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Logically Equivalent",
+          "동치"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:48:23 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:48:31 오후",
+        "linter-yaml-title-alias": "Logically Equivalent",
+        "tags": [
+          "math"
+        ],
+        "title": "Logically Equivalent"
+      }
+    },
+    "Converse.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 9,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "역"
+      ],
+      "createdDate": 1742222916663,
+      "modifiedDate": 1742222985311,
+      "sizeInBytes": 185,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "역"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:48:36 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:49:45 오후",
+        "tags": [
+          "math"
+        ],
+        "title": "Converse"
+      }
+    },
+    "Contrapositive.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 19,
+      "nonWhitespaceCharacterCount": 15,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "대우"
+      ],
+      "createdDate": 1742222936620,
+      "modifiedDate": 1742223005397,
+      "sizeInBytes": 200,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "대우"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:48:56 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:50:05 오후",
+        "tags": [
+          "math"
+        ],
+        "title": "Contrapositive"
+      }
+    },
+    "tautology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 10,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Tautology",
+        "항진 명제"
+      ],
+      "createdDate": 1742223455002,
+      "modifiedDate": 1742223527914,
+      "sizeInBytes": 246,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Tautology",
+          "항진 명제"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:57:35 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:58:47 오후",
+        "linter-yaml-title-alias": "Tautology",
+        "tags": [
+          "math"
+        ],
+        "title": "Tautology"
+      }
+    },
+    "contradiction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 18,
+      "nonWhitespaceCharacterCount": 14,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Contradiction",
+        "모순 명제"
+      ],
+      "createdDate": 1742223556469,
+      "modifiedDate": 1742223569325,
+      "sizeInBytes": 262,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Contradiction",
+          "모순 명제"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:59:16 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:59:29 오후",
+        "linter-yaml-title-alias": "Contradiction",
+        "tags": [
+          "math"
+        ],
+        "title": "Contradiction"
+      }
+    },
+    "Day Planners/Day Planner-20250318.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 21,
+      "nonWhitespaceCharacterCount": 15,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742223600996,
+      "modifiedDate": 1742223601306,
+      "sizeInBytes": 21,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
