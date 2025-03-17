@@ -6432,8 +6432,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.05,
-      "characterCount": 2043,
-      "nonWhitespaceCharacterCount": 1289,
+      "characterCount": 2040,
+      "nonWhitespaceCharacterCount": 1287,
       "readingTimeInMinutes": 1.0556603773584905,
       "linkCount": 27,
       "embedCount": 0,
@@ -6441,8 +6441,8 @@
         "Proposition"
       ],
       "createdDate": 1742216648422,
-      "modifiedDate": 1742219424171,
-      "sizeInBytes": 2486,
+      "modifiedDate": 1742221446215,
+      "sizeInBytes": 2485,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6455,7 +6455,7 @@
           "Proposition"
         ],
         "date created": "월요일, 3월 17일 2025, 10:04:08 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:50:22 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:24:06 오후",
         "tags": [
           "math"
         ],
@@ -6710,6 +6710,47 @@
           "math"
         ],
         "title": "Negation"
+      }
+    },
+    "NA3035_이산수학/조건명제.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 127,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "Conditional proposition"
+      ],
+      "createdDate": 1742221461714,
+      "modifiedDate": 1742221709906,
+      "sizeInBytes": 557,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Conditional proposition"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:24:21 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:26:23 오후",
+        "linter-yaml-title-alias": "Conditional proposition",
+        "title": "Conditional proposition",
+        "강의 n주차": 2,
+        "과목": [
+          "[[이산수학]]"
+        ],
+        "시간": "2025-03-15T09:00:00"
       }
     }
   }
