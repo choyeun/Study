@@ -6428,21 +6428,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 231,
+      "wordCount": 293,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.77,
-      "characterCount": 1448,
-      "nonWhitespaceCharacterCount": 987,
-      "readingTimeInMinutes": 0.7510943396226415,
+      "pageCount": 0.9766666666666667,
+      "characterCount": 1981,
+      "nonWhitespaceCharacterCount": 1235,
+      "readingTimeInMinutes": 0.985056603773585,
       "linkCount": 26,
       "embedCount": 0,
       "aliases": [
         "Proposition"
       ],
       "createdDate": 1742216648422,
-      "modifiedDate": 1742218621366,
-      "sizeInBytes": 1855,
+      "modifiedDate": 1742219138280,
+      "sizeInBytes": 2406,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6690,7 +6690,7 @@
         "not"
       ],
       "createdDate": 1742218767006,
-      "modifiedDate": 1742218779678,
+      "modifiedDate": 1742218838559,
       "sizeInBytes": 196,
       "sessionStart": {
         "noteCount": 0,
@@ -6705,7 +6705,7 @@
           "not"
         ],
         "date created": "월요일, 3월 17일 2025, 10:39:27 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:39:39 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:40:38 오후",
         "tags": [
           "math"
         ],
