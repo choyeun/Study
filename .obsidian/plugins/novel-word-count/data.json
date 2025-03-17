@@ -7234,21 +7234,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 54,
+      "wordCount": 66,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 168,
-      "nonWhitespaceCharacterCount": 110,
-      "readingTimeInMinutes": 0.1381509433962264,
-      "linkCount": 4,
+      "pageCount": 0.22,
+      "characterCount": 227,
+      "nonWhitespaceCharacterCount": 144,
+      "readingTimeInMinutes": 0.18343396226415093,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": [
         "Rules of Inference"
       ],
       "createdDate": 1742231605285,
-      "modifiedDate": 1742231888021,
-      "sizeInBytes": 499,
+      "modifiedDate": 1742232015815,
+      "sizeInBytes": 572,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7261,7 +7261,7 @@
           "Rules of Inference"
         ],
         "date created": "화요일, 3월 18일 2025, 2:13:25 오전",
-        "date modified": "화요일, 3월 18일 2025, 2:17:17 오전",
+        "date modified": "화요일, 3월 18일 2025, 2:20:13 오전",
         "tags": [
           "math"
         ],
