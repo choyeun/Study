@@ -7333,7 +7333,7 @@
         "명제 함수"
       ],
       "createdDate": 1742236832684,
-      "modifiedDate": 1742236848672,
+      "modifiedDate": 1742236907639,
       "sizeInBytes": 296,
       "sessionStart": {
         "noteCount": 0,
@@ -7348,12 +7348,56 @@
           "명제 함수"
         ],
         "date created": "화요일, 3월 18일 2025, 3:40:32 오전",
-        "date modified": "화요일, 3월 18일 2025, 3:40:48 오전",
+        "date modified": "화요일, 3월 18일 2025, 3:41:47 오전",
         "linter-yaml-title-alias": "Propositional Function",
         "tags": [
           "math"
         ],
         "title": "Propositional Function"
+      }
+    },
+    "NA3035_이산수학/Universal quantifier.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 129,
+      "nonWhitespaceCharacterCount": 93,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "전체 한정사",
+        "Universal Quantifier"
+      ],
+      "createdDate": 1742237005680,
+      "modifiedDate": 1742237207217,
+      "sizeInBytes": 430,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "전체 한정사",
+          "Universal Quantifier"
+        ],
+        "date created": "화요일, 3월 18일 2025, 3:43:25 오전",
+        "date modified": "화요일, 3월 18일 2025, 3:44:31 오전",
+        "linter-yaml-title-alias": "Universal Quantifier",
+        "tags": [
+          "math"
+        ],
+        "title": "Universal Quantifier",
+        "과목": [
+          "[[이산수학]]"
+        ]
       }
     }
   }
