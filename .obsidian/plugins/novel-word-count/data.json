@@ -6648,7 +6648,7 @@
         "xor"
       ],
       "createdDate": 1742218716238,
-      "modifiedDate": 1742218750954,
+      "modifiedDate": 1742218809873,
       "sizeInBytes": 293,
       "sessionStart": {
         "noteCount": 0,
@@ -6664,7 +6664,7 @@
           "xor"
         ],
         "date created": "월요일, 3월 17일 2025, 10:38:36 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:39:10 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:40:09 오후",
         "linter-yaml-title-alias": "Exclusive Disjunction",
         "tags": [
           "math"
@@ -6676,25 +6676,40 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 1,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 9,
+      "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "부정",
+        "not"
+      ],
       "createdDate": 1742218767006,
-      "modifiedDate": 1742218767006,
-      "sizeInBytes": 0,
+      "modifiedDate": 1742218779678,
+      "sizeInBytes": 196,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "부정",
+          "not"
+        ],
+        "date created": "월요일, 3월 17일 2025, 10:39:27 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:39:39 오후",
+        "tags": [
+          "math"
+        ],
+        "title": "Negation"
       }
     }
   }
