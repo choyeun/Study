@@ -6716,21 +6716,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 29,
+      "wordCount": 58,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 239,
-      "nonWhitespaceCharacterCount": 127,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 2,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 380,
+      "nonWhitespaceCharacterCount": 252,
+      "readingTimeInMinutes": 0.19758490566037734,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": [
-        "Conditional proposition"
+        "A conditional proposition"
       ],
       "createdDate": 1742221461714,
-      "modifiedDate": 1742221709906,
-      "sizeInBytes": 557,
+      "modifiedDate": 1742222019496,
+      "sizeInBytes": 728,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6740,17 +6740,99 @@
       },
       "frontmatter": {
         "aliases": [
-          "Conditional proposition"
+          "A conditional proposition"
         ],
         "date created": "월요일, 3월 17일 2025, 11:24:21 오후",
-        "date modified": "월요일, 3월 17일 2025, 11:26:23 오후",
-        "linter-yaml-title-alias": "Conditional proposition",
-        "title": "Conditional proposition",
+        "date modified": "월요일, 3월 17일 2025, 11:32:58 오후",
+        "linter-yaml-title-alias": "A conditional proposition",
+        "title": "A conditional proposition",
         "강의 n주차": 2,
         "과목": [
           "[[이산수학]]"
         ],
         "시간": "2025-03-15T09:00:00"
+      }
+    },
+    "sufficient conclusion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Sufficient Conclusion",
+        "충분 조건"
+      ],
+      "createdDate": 1742221978183,
+      "modifiedDate": 1742222047200,
+      "sizeInBytes": 294,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Sufficient Conclusion",
+          "충분 조건"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:32:58 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:34:07 오후",
+        "linter-yaml-title-alias": "Sufficient Conclusion",
+        "tags": [
+          "math"
+        ],
+        "title": "Sufficient Conclusion"
+      }
+    },
+    "necessary condition.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 19,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Necessary Condition",
+        "필요 조건"
+      ],
+      "createdDate": 1742221996738,
+      "modifiedDate": 1742222070578,
+      "sizeInBytes": 286,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Necessary Condition",
+          "필요 조건"
+        ],
+        "date created": "월요일, 3월 17일 2025, 11:33:16 오후",
+        "date modified": "월요일, 3월 17일 2025, 11:34:30 오후",
+        "linter-yaml-title-alias": "Necessary Condition",
+        "tags": [
+          "math"
+        ],
+        "title": "Necessary Condition"
       }
     }
   }
