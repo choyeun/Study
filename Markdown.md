@@ -2,7 +2,7 @@
 aliases:
   - 마크다운
 date created: 일요일, 3월 16일 2025, 5:05:31 오전
-date modified: 일요일, 3월 16일 2025, 10:26:48 오전
+date modified: 월요일, 3월 17일 2025, 12:00:46 오후
 title: Markdown
 ---
 
@@ -25,7 +25,7 @@ Markdown 이란 문서를 쉽고 빠르게 작성할 수 있도록 고안된 언
 - - 목록
 - \` 코드 \`
 - [링크](google.com)
-
+- %% adas  %%
 # Markdown 확장자
 
 .md
