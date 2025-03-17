@@ -6432,7 +6432,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.77,
-      "characterCount": 1446,
+      "characterCount": 1448,
       "nonWhitespaceCharacterCount": 987,
       "readingTimeInMinutes": 0.7510943396226415,
       "linkCount": 26,
@@ -6441,8 +6441,8 @@
         "Proposition"
       ],
       "createdDate": 1742216648422,
-      "modifiedDate": 1742218559366,
-      "sizeInBytes": 1853,
+      "modifiedDate": 1742218621366,
+      "sizeInBytes": 1855,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6455,7 +6455,7 @@
           "Proposition"
         ],
         "date created": "월요일, 3월 17일 2025, 10:04:08 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:35:19 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:36:59 오후",
         "tags": [
           "math"
         ],
@@ -6509,6 +6509,47 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 11,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Truth Table",
+        "진리표"
+      ],
+      "createdDate": 1742218585518,
+      "modifiedDate": 1742218601022,
+      "sizeInBytes": 250,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Truth Table",
+          "진리표"
+        ],
+        "date created": "월요일, 3월 17일 2025, 10:36:25 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:36:41 오후",
+        "linter-yaml-title-alias": "Truth Table",
+        "tags": [
+          "math"
+        ],
+        "title": "Truth Table"
+      }
+    },
+    "Conjunction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
@@ -6519,8 +6560,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1742218585518,
-      "modifiedDate": 1742218585518,
+      "createdDate": 1742218646856,
+      "modifiedDate": 1742218646856,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
