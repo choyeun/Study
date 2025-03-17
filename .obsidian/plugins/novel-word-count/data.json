@@ -7188,22 +7188,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 70,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 76,
-      "nonWhitespaceCharacterCount": 57,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 0,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 369,
+      "nonWhitespaceCharacterCount": 194,
+      "readingTimeInMinutes": 0.219811320754717,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": [
         "Arguments and Roles of Inference",
         "Arguments"
       ],
       "createdDate": 1742223969439,
-      "modifiedDate": 1742224229690,
-      "sizeInBytes": 452,
+      "modifiedDate": 1742224492478,
+      "sizeInBytes": 797,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7217,7 +7217,7 @@
           "Arguments"
         ],
         "date created": "화요일, 3월 18일 2025, 12:06:09 오전",
-        "date modified": "화요일, 3월 18일 2025, 12:08:03 오전",
+        "date modified": "화요일, 3월 18일 2025, 12:14:50 오전",
         "linter-yaml-title-alias": "Arguments and Roles of Inference",
         "tags": [
           "math"
