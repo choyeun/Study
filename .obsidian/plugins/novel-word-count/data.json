@@ -6523,7 +6523,7 @@
         "진리표"
       ],
       "createdDate": 1742218585518,
-      "modifiedDate": 1742218601022,
+      "modifiedDate": 1742218660115,
       "sizeInBytes": 250,
       "sessionStart": {
         "noteCount": 0,
@@ -6538,7 +6538,7 @@
           "진리표"
         ],
         "date created": "월요일, 3월 17일 2025, 10:36:25 오후",
-        "date modified": "월요일, 3월 17일 2025, 10:36:41 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:37:40 오후",
         "linter-yaml-title-alias": "Truth Table",
         "tags": [
           "math"
@@ -6547,6 +6547,89 @@
       }
     },
     "Conjunction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 12,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "논리곱",
+        "and"
+      ],
+      "createdDate": 1742218646856,
+      "modifiedDate": 1742218664155,
+      "sizeInBytes": 205,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "논리곱",
+          "and"
+        ],
+        "date created": "월요일, 3월 17일 2025, 10:37:26 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:37:44 오후",
+        "tags": [
+          "math"
+        ],
+        "title": "Conjunction"
+      }
+    },
+    "Inclusive disjunction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 26,
+      "nonWhitespaceCharacterCount": 21,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "논리합",
+        "Inclusive Disjunction",
+        "or"
+      ],
+      "createdDate": 1742218672214,
+      "modifiedDate": 1742218693003,
+      "sizeInBytes": 297,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "논리합",
+          "Inclusive Disjunction",
+          "or"
+        ],
+        "date created": "월요일, 3월 17일 2025, 10:37:52 오후",
+        "date modified": "월요일, 3월 17일 2025, 10:38:12 오후",
+        "linter-yaml-title-alias": "Inclusive Disjunction",
+        "tags": [
+          "math"
+        ],
+        "title": "Inclusive Disjunction"
+      }
+    },
+    "Exclusive disjunction.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -6560,8 +6643,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1742218646856,
-      "modifiedDate": 1742218646856,
+      "createdDate": 1742218716238,
+      "modifiedDate": 1742218716238,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
