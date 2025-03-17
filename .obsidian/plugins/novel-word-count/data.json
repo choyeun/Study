@@ -7404,25 +7404,44 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 156,
+      "nonWhitespaceCharacterCount": 118,
+      "readingTimeInMinutes": 0.10943396226415095,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "존제 한정사",
+        "Existential Quantifier"
+      ],
       "createdDate": 1742237557692,
-      "modifiedDate": 1742237557692,
-      "sizeInBytes": 0,
+      "modifiedDate": 1742237756294,
+      "sizeInBytes": 461,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "존제 한정사",
+          "Existential Quantifier"
+        ],
+        "date created": "화요일, 3월 18일 2025, 3:52:37 오전",
+        "date modified": "화요일, 3월 18일 2025, 3:55:54 오전",
+        "linter-yaml-title-alias": "Existential Quantifier",
+        "tags": [
+          "math"
+        ],
+        "title": "Existential Quantifier",
+        "과목": [
+          "[[이산수학]]"
+        ]
       }
     }
   }
