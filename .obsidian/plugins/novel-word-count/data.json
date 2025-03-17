@@ -7360,22 +7360,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 71,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 129,
-      "nonWhitespaceCharacterCount": 93,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 0,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 364,
+      "nonWhitespaceCharacterCount": 280,
+      "readingTimeInMinutes": 0.25728301886792454,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": [
         "전체 한정사",
         "Universal Quantifier"
       ],
       "createdDate": 1742237005680,
-      "modifiedDate": 1742237207217,
-      "sizeInBytes": 430,
+      "modifiedDate": 1742237557816,
+      "sizeInBytes": 685,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7389,7 +7389,7 @@
           "Universal Quantifier"
         ],
         "date created": "화요일, 3월 18일 2025, 3:43:25 오전",
-        "date modified": "화요일, 3월 18일 2025, 3:44:31 오전",
+        "date modified": "화요일, 3월 18일 2025, 3:52:37 오전",
         "linter-yaml-title-alias": "Universal Quantifier",
         "tags": [
           "math"
@@ -7398,6 +7398,31 @@
         "과목": [
           "[[이산수학]]"
         ]
+      }
+    },
+    "NA3035_이산수학/Existential quantifier.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742237557692,
+      "modifiedDate": 1742237557692,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
