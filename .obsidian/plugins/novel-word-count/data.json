@@ -7408,8 +7408,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.09666666666666666,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 118,
+      "characterCount": 153,
+      "nonWhitespaceCharacterCount": 116,
       "readingTimeInMinutes": 0.10943396226415095,
       "linkCount": 0,
       "embedCount": 0,
@@ -7418,8 +7418,8 @@
         "Existential Quantifier"
       ],
       "createdDate": 1742237557692,
-      "modifiedDate": 1742237756294,
-      "sizeInBytes": 461,
+      "modifiedDate": 1742238104470,
+      "sizeInBytes": 460,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7433,7 +7433,7 @@
           "Existential Quantifier"
         ],
         "date created": "화요일, 3월 18일 2025, 3:52:37 오전",
-        "date modified": "화요일, 3월 18일 2025, 3:55:54 오전",
+        "date modified": "화요일, 3월 18일 2025, 4:01:44 오전",
         "linter-yaml-title-alias": "Existential Quantifier",
         "tags": [
           "math"
