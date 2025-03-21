@@ -37,6 +37,9 @@
     "작가": "multitext",
     "작가 태그": "multitext",
     "독자 태그": "multitext",
-    "추천": "number"
+    "추천": "multitext",
+    "작품 번호": "number",
+    "점수": "number",
+    "보는중": "checkbox"
   }
 }

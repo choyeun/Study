@@ -7469,46 +7469,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Novel/Novel example.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 18,
-      "nonWhitespaceCharacterCount": 13,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Novel Example"
-      ],
-      "createdDate": 1742515405600,
-      "modifiedDate": 1742515581854,
-      "sizeInBytes": 280,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "aliases": [
-          "Novel Example"
-        ],
-        "date created": "금요일, 3월 21일 2025, 9:03:25 오전",
-        "date modified": "금요일, 3월 21일 2025, 9:06:21 오전",
-        "linter-yaml-title-alias": "Novel Example",
-        "title": "Novel Example",
-        "독자 태그": null,
-        "작가": null,
-        "작가 태그": null,
-        "플랫폼": null
-      }
-    },
     "Template/template Novel.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7524,8 +7484,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742515551469,
-      "modifiedDate": 1742515595001,
-      "sizeInBytes": 60,
+      "modifiedDate": 1742516188583,
+      "sizeInBytes": 100,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7537,7 +7497,65 @@
         "작가": null,
         "작가 태그": null,
         "독자 태그": null,
-        "플랫폼": null
+        "플랫폼": null,
+        "추천": null,
+        "작품 번호": null,
+        "URL": null,
+        "점수": null
+      }
+    },
+    "Novel/나 혼자만 솔플러.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 45,
+      "nonWhitespaceCharacterCount": 28,
+      "readingTimeInMinutes": 0.054,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742515405600,
+      "modifiedDate": 1742516225966,
+      "sizeInBytes": 581,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "금요일, 3월 21일 2025, 9:03:25 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:16:24 오전",
+        "title": "나 혼자만 솔플러",
+        "URL": "https://novelpia.com/novel/308821",
+        "독자 태그": [
+          "[[피폐]]"
+        ],
+        "작가": [
+          "[[예신하루]]"
+        ],
+        "작가 태그": [
+          "[[게임]]",
+          "[[먼치킨]]",
+          "[[성장]]",
+          "[[탑등반]]",
+          "[[판타지]]",
+          "[[현대판타지]]"
+        ],
+        "작품 번호": 308821,
+        "점수": 0,
+        "추천": [
+          "비추"
+        ],
+        "플랫폼": [
+          "[[Novelpia]]"
+        ],
+        "보는중": null
       }
     }
   }
