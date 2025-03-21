@@ -7684,7 +7684,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742517521586,
-      "modifiedDate": 1742517636724,
+      "modifiedDate": 1742517696678,
       "sizeInBytes": 582,
       "sessionStart": {
         "noteCount": 0,
@@ -7695,7 +7695,7 @@
       },
       "frontmatter": {
         "date created": "금요일, 3월 21일 2025, 9:38:41 오전",
-        "date modified": "금요일, 3월 21일 2025, 9:40:14 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:41:36 오전",
         "title": "TS미소녀기타리스트의 수기",
         "URL": "https://novelpia.com/novel/211768",
         "독자 태그": null,
@@ -7729,19 +7729,126 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.04,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 13,
+      "readingTimeInMinutes": 0.024,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742517654575,
-      "modifiedDate": 1742517674456,
-      "sizeInBytes": 0,
+      "modifiedDate": 1742517841811,
+      "sizeInBytes": 601,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "금요일, 3월 21일 2025, 9:40:54 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:43:59 오전",
+        "title": "아카데미 흑막의 딸이 되었다",
+        "URL": "https://novelpia.com/novel/96311",
+        "독자 태그": null,
+        "보는중": true,
+        "작가": [
+          "[[희귀한테디베어]]"
+        ],
+        "작가 태그": [
+          "[[TS]]",
+          "[[게임]]",
+          "[[빙의]]",
+          "[[성장]]",
+          "[[아카데미]]",
+          "[[집착]]",
+          "[[착각]]",
+          "[[코미디]]",
+          "[[판타지]]",
+          "[[피폐]]"
+        ],
+        "작품 번호": 96311,
+        "점수": null,
+        "추천": [
+          "[[추천]]"
+        ],
+        "플랫폼": [
+          "[[Novelpia]]"
+        ]
+      }
+    },
+    "Novel/전 버튜버가 하고 싶은데요.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 19,
+      "nonWhitespaceCharacterCount": 12,
+      "readingTimeInMinutes": 0.022,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742517857452,
+      "modifiedDate": 1742517951652,
+      "sizeInBytes": 509,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "금요일, 3월 21일 2025, 9:44:17 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:45:42 오전",
+        "title": "전 버튜버가 하고 싶은데요",
+        "URL": "https://novelpia.com/novel/275975",
+        "독자 태그": null,
+        "보는중": null,
+        "작가": [
+          "[[플라나리아햄버거]]"
+        ],
+        "작가 태그": [
+          "[[배우물]]",
+          "[[연예계]]",
+          "[[일상]]",
+          "[[전생]]",
+          "[[현대]]"
+        ],
+        "작품 번호": 275975,
+        "점수": null,
+        "추천": [
+          "[[보류]]"
+        ],
+        "플랫폼": [
+          "[[Novelpia]]"
+        ]
+      }
+    },
+    "Novel/여자가 되었으니, 버튜버 합니다..md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 64,
+      "nonWhitespaceCharacterCount": 42,
+      "readingTimeInMinutes": 0.05177358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742517979561,
+      "modifiedDate": 1742517979889,
+      "sizeInBytes": 112,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
