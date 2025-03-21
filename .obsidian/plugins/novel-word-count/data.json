@@ -7836,19 +7836,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 15,
+      "readingTimeInMinutes": 0.026,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "여자가 되었으니, 버튜버 합니다"
+      ],
       "createdDate": 1742517979561,
-      "modifiedDate": 1742518129634,
-      "sizeInBytes": 389,
+      "modifiedDate": 1742518527627,
+      "sizeInBytes": 691,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7857,28 +7859,62 @@
         "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
+        "aliases": [
+          "여자가 되었으니, 버튜버 합니다"
+        ],
+        "date created": "금요일, 3월 21일 2025, 9:46:19 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:55:25 오전",
+        "linter-yaml-title-alias": "여자가 되었으니, 버튜버 합니다",
+        "title": "여자가 되었으니, 버튜버 합니다",
+        "URL": "https://novelpia.com/novel/194441",
+        "독자 태그": null,
+        "보는중": true,
         "작가": [
           "[[다장]]"
         ],
         "작가 태그": [
-          "[[현대]]",
-          "[[일상]]",
           "[[TS]]",
-          "[[인터넷방송]]",
           "[[버튜버]]",
+          "[[연예계]]",
           "[[유괘]]",
-          "[[힐링]]",
-          "[[연예계]]"
+          "[[인터넷방송]]",
+          "[[일상]]",
+          "[[현대]]",
+          "[[힐링]]"
         ],
-        "독자 태그": null,
-        "플랫폼": null,
-        "추천": null,
-        "작품 번호": null,
-        "URL": null,
+        "작품 번호": 194441,
         "점수": null,
-        "보는중": null,
-        "date created": "금요일, 3월 21일 2025, 9:46:19 오전",
-        "date modified": "금요일, 3월 21일 2025, 9:48:47 오전"
+        "추천": [
+          "[[보류]]"
+        ],
+        "플랫폼": [
+          "[[Novelpia]]"
+        ]
+      }
+    },
+    "Novel/학원도시의 분신천재.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 64,
+      "nonWhitespaceCharacterCount": 42,
+      "readingTimeInMinutes": 0.05177358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742518559066,
+      "modifiedDate": 1742518559408,
+      "sizeInBytes": 112,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
