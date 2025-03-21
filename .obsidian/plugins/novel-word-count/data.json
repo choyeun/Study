@@ -7484,8 +7484,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742515551469,
-      "modifiedDate": 1742516188583,
-      "sizeInBytes": 100,
+      "modifiedDate": 1742516242376,
+      "sizeInBytes": 112,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7501,7 +7501,8 @@
         "추천": null,
         "작품 번호": null,
         "URL": null,
-        "점수": null
+        "점수": null,
+        "보는중": null
       }
     },
     "Novel/나 혼자만 솔플러.md": {
@@ -7519,8 +7520,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742515405600,
-      "modifiedDate": 1742516225966,
-      "sizeInBytes": 581,
+      "modifiedDate": 1742517075400,
+      "sizeInBytes": 593,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7530,12 +7531,13 @@
       },
       "frontmatter": {
         "date created": "금요일, 3월 21일 2025, 9:03:25 오전",
-        "date modified": "금요일, 3월 21일 2025, 9:16:24 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:17:19 오전",
         "title": "나 혼자만 솔플러",
         "URL": "https://novelpia.com/novel/308821",
         "독자 태그": [
           "[[피폐]]"
         ],
+        "보는중": false,
         "작가": [
           "[[예신하루]]"
         ],
@@ -7550,12 +7552,36 @@
         "작품 번호": 308821,
         "점수": 0,
         "추천": [
-          "비추"
+          "[[비추]]"
         ],
         "플랫폼": [
           "[[Novelpia]]"
-        ],
-        "보는중": null
+        ]
+      }
+    },
+    "Novel/악의 과학자가 너무 유능하다.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 180,
+      "nonWhitespaceCharacterCount": 136,
+      "readingTimeInMinutes": 0.13637735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742517112643,
+      "modifiedDate": 1742517115530,
+      "sizeInBytes": 256,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
