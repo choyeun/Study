@@ -32,6 +32,11 @@
     "title": "text",
     "직업": "multitext",
     "전화번호": "text",
-    "소속": "multitext"
+    "소속": "multitext",
+    "플랫폼": "multitext",
+    "작가": "multitext",
+    "작가 태그": "multitext",
+    "독자 태그": "multitext",
+    "추천": "number"
   }
 }
