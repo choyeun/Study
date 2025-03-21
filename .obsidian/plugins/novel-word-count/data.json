@@ -7796,7 +7796,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742517857452,
-      "modifiedDate": 1742517951652,
+      "modifiedDate": 1742518011666,
       "sizeInBytes": 509,
       "sessionStart": {
         "noteCount": 0,
@@ -7807,7 +7807,7 @@
       },
       "frontmatter": {
         "date created": "금요일, 3월 21일 2025, 9:44:17 오전",
-        "date modified": "금요일, 3월 21일 2025, 9:45:42 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:46:51 오전",
         "title": "전 버튜버가 하고 싶은데요",
         "URL": "https://novelpia.com/novel/275975",
         "독자 태그": null,
@@ -7836,25 +7836,49 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 64,
-      "nonWhitespaceCharacterCount": 42,
-      "readingTimeInMinutes": 0.05177358490566038,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742517979561,
-      "modifiedDate": 1742517979889,
-      "sizeInBytes": 112,
+      "modifiedDate": 1742518129634,
+      "sizeInBytes": 389,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "작가": [
+          "[[다장]]"
+        ],
+        "작가 태그": [
+          "[[현대]]",
+          "[[일상]]",
+          "[[TS]]",
+          "[[인터넷방송]]",
+          "[[버튜버]]",
+          "[[유괘]]",
+          "[[힐링]]",
+          "[[연예계]]"
+        ],
+        "독자 태그": null,
+        "플랫폼": null,
+        "추천": null,
+        "작품 번호": null,
+        "URL": null,
+        "점수": null,
+        "보는중": null,
+        "date created": "금요일, 3월 21일 2025, 9:46:19 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:48:47 오전"
       }
     }
   }
