@@ -7563,19 +7563,185 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 54,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 180,
-      "nonWhitespaceCharacterCount": 136,
-      "readingTimeInMinutes": 0.13637735849056604,
+      "pageCount": 0.04,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 13,
+      "readingTimeInMinutes": 0.024,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742517112643,
-      "modifiedDate": 1742517115530,
-      "sizeInBytes": 256,
+      "modifiedDate": 1742517540845,
+      "sizeInBytes": 584,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "금요일, 3월 21일 2025, 9:31:52 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:39:00 오전",
+        "title": "악의 과학자가 너무 유능하다",
+        "URL": "https://novelpia.com/novel/291243",
+        "독자 태그": null,
+        "보는중": true,
+        "작가": [
+          "[[소드마스타]]"
+        ],
+        "작가 태그": [
+          "[[과학자]]",
+          "[[빌런]]",
+          "[[악당]]",
+          "[[집착]]",
+          "[[착각]]",
+          "[[초능력]]",
+          "[[판타지]]",
+          "[[현대]]",
+          "[[히어로]]"
+        ],
+        "작품 번호": 291243,
+        "점수": null,
+        "추천": [
+          "[[보류]]"
+        ],
+        "플랫폼": [
+          "[[Novelpia]]"
+        ]
+      }
+    },
+    "Novel/마나 살 돈 없어서 인방함.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 19,
+      "nonWhitespaceCharacterCount": 11,
+      "readingTimeInMinutes": 0.02,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742517357417,
+      "modifiedDate": 1742517526121,
+      "sizeInBytes": 596,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "금요일, 3월 21일 2025, 9:35:57 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:38:46 오전",
+        "title": "마나 살 돈 없어서 인방함",
+        "URL": "https://novelpia.com/novel/156911",
+        "독자 태그": null,
+        "보는중": null,
+        "작가": [
+          "[[시엘클레]]"
+        ],
+        "작가 태그": [
+          "[[TS]]",
+          "[[가상현실게임]]",
+          "[[나데나데]]",
+          "[[노맨스]]",
+          "[[먼치킨]]",
+          "[[유년기]]",
+          "[[일상]]",
+          "[[초반약피폐]]",
+          "[[현대판타지]]"
+        ],
+        "작품 번호": 156911,
+        "점수": null,
+        "추천": [
+          "[[보류]]"
+        ],
+        "플랫폼": [
+          "[[Novelpia]]"
+        ]
+      }
+    },
+    "Novel/TS미소녀기타리스트의 수기.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 19,
+      "nonWhitespaceCharacterCount": 14,
+      "readingTimeInMinutes": 0.025773584905660375,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742517521586,
+      "modifiedDate": 1742517636724,
+      "sizeInBytes": 582,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "금요일, 3월 21일 2025, 9:38:41 오전",
+        "date modified": "금요일, 3월 21일 2025, 9:40:14 오전",
+        "title": "TS미소녀기타리스트의 수기",
+        "URL": "https://novelpia.com/novel/211768",
+        "독자 태그": null,
+        "보는중": true,
+        "작가": [
+          "[[김취미]]"
+        ],
+        "작가 태그": [
+          "[[TS]]",
+          "[[먼치킨]]",
+          "[[밴드]]",
+          "[[빙의]]",
+          "[[연예계]]",
+          "[[음악]]",
+          "[[일상]]",
+          "[[천재]]",
+          "[[코미디]]",
+          "[[현대]]"
+        ],
+        "작품 번호": 211768,
+        "점수": null,
+        "추천": [
+          "[[보류]]"
+        ],
+        "플랫폼": [
+          "[[Novelpia]]"
+        ]
+      }
+    },
+    "Novel/아카데미 흑막의 딸이 되었다.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742517654575,
+      "modifiedDate": 1742517674456,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
