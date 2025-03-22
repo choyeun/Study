@@ -7896,19 +7896,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 9,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.03,
+      "characterCount": 15,
+      "nonWhitespaceCharacterCount": 10,
+      "readingTimeInMinutes": 0.018,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1742518559066,
-      "modifiedDate": 1742518690715,
-      "sizeInBytes": 365,
+      "modifiedDate": 1742542324423,
+      "sizeInBytes": 450,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7917,26 +7917,53 @@
         "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
+        "date created": "금요일, 3월 21일 2025, 9:55:59 오전",
+        "date modified": "금요일, 3월 21일 2025, 4:32:04 오후",
+        "title": "학원도시의 분신천재",
+        "URL": null,
+        "독자 태그": null,
+        "보는중": null,
         "작가": [
           "[[Chenestra]]"
         ],
         "작가 태그": [
-          "[[현대판타지]]",
-          "[[현대]]",
           "[[TS]]",
-          "[[인터넷방송]]",
           "[[버튜버]]",
-          "[[유괘]]"
+          "[[유쾌]]",
+          "[[인터넷방송]]",
+          "[[현대]]",
+          "[[현대판타지]]",
+          "[[힐링]]"
         ],
-        "독자 태그": null,
-        "플랫폼": null,
-        "추천": null,
         "작품 번호": null,
-        "URL": null,
         "점수": null,
-        "보는중": null,
-        "date created": "금요일, 3월 21일 2025, 9:55:59 오전",
-        "date modified": "금요일, 3월 21일 2025, 9:57:39 오전"
+        "추천": null,
+        "플랫폼": null
+      }
+    },
+    "Day Planners/Day Planner-20250322.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 21,
+      "nonWhitespaceCharacterCount": 15,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1742643264434,
+      "modifiedDate": 1742643264437,
+      "sizeInBytes": 21,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
