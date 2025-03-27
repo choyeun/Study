@@ -1,9 +1,9 @@
 ---
 aliases:
-  - 존제 한정사
   - Existential Quantifier
+  - 존제 한정사
 date created: 화요일, 3월 18일 2025, 3:52:37 오전
-date modified: 화요일, 3월 18일 2025, 4:01:44 오전
+date modified: 화요일, 3월 25일 2025, 1:08:07 오후
 linter-yaml-title-alias: Existential Quantifier
 tags:
   - math
