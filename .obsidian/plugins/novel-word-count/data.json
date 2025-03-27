@@ -8108,19 +8108,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 270,
+      "wordCount": 320,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9,
-      "characterCount": 585,
-      "nonWhitespaceCharacterCount": 443,
-      "readingTimeInMinutes": 0.6003018867924528,
+      "pageCount": 1.0666666666666667,
+      "characterCount": 780,
+      "nonWhitespaceCharacterCount": 600,
+      "readingTimeInMinutes": 0.7251320754716981,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743081304585,
-      "modifiedDate": 1743083318328,
-      "sizeInBytes": 1235,
+      "modifiedDate": 1743083548431,
+      "sizeInBytes": 1502,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8130,11 +8130,36 @@
       },
       "frontmatter": {
         "date created": "목요일, 3월 27일 2025, 10:15:04 오후",
-        "date modified": "목요일, 3월 27일 2025, 10:39:53 오후",
+        "date modified": "목요일, 3월 27일 2025, 10:51:29 오후",
         "title": "Data Hazard",
         "과목": [
           "[[컴퓨터 구조]]"
         ]
+      }
+    },
+    "Day Planners/Day Planner-20250328.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 21,
+      "nonWhitespaceCharacterCount": 15,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743087620867,
+      "modifiedDate": 1743087620868,
+      "sizeInBytes": 21,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
