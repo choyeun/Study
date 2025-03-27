@@ -5085,11 +5085,11 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "Existential Quantifier",
-        "존제 한정사"
+        "존제 한정사",
+        "Existential Quantifier"
       ],
       "createdDate": 1742237557692,
-      "modifiedDate": 1742875687499,
+      "modifiedDate": 1743077627913,
       "sizeInBytes": 460,
       "sessionStart": {
         "noteCount": 1,
@@ -5100,11 +5100,11 @@
       },
       "frontmatter": {
         "aliases": [
-          "Existential Quantifier",
-          "존제 한정사"
+          "존제 한정사",
+          "Existential Quantifier"
         ],
         "date created": "화요일, 3월 18일 2025, 3:52:37 오전",
-        "date modified": "화요일, 3월 25일 2025, 1:08:07 오후",
+        "date modified": "목요일, 3월 27일 2025, 9:13:47 오후",
         "linter-yaml-title-alias": "Existential Quantifier",
         "tags": [
           "math"
@@ -8071,7 +8071,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "무제 1.md": {
+    "0327 숙제.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
