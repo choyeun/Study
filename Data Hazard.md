@@ -1,6 +1,6 @@
 ---
 date created: 목요일, 3월 27일 2025, 10:15:04 오후
-date modified: 목요일, 3월 27일 2025, 10:21:48 오후
+date modified: 목요일, 3월 27일 2025, 10:39:53 오후
 title: Data Hazard
 과목:
   - "[[컴퓨터 구조]]"
