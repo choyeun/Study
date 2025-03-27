@@ -8075,19 +8075,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 584,
+      "wordCount": 299,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9466666666666668,
-      "characterCount": 3369,
-      "nonWhitespaceCharacterCount": 2381,
-      "readingTimeInMinutes": 1.6362264150943395,
+      "pageCount": 0.9966666666666667,
+      "characterCount": 838,
+      "nonWhitespaceCharacterCount": 621,
+      "readingTimeInMinutes": 0.6884528301886792,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743077627750,
-      "modifiedDate": 1743078356785,
-      "sizeInBytes": 4182,
+      "modifiedDate": 1743081300344,
+      "sizeInBytes": 1508,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8097,10 +8097,43 @@
       },
       "frontmatter": {
         "date created": "목요일, 3월 27일 2025, 9:13:47 오후",
-        "date modified": "목요일, 3월 27일 2025, 9:25:54 오후",
+        "date modified": "목요일, 3월 27일 2025, 10:15:00 오후",
         "title": "0327 숙제",
         "과목": [
           "[[자료 구조]]"
+        ]
+      }
+    },
+    "Data Hazard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 129,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43,
+      "characterCount": 268,
+      "nonWhitespaceCharacterCount": 198,
+      "readingTimeInMinutes": 0.2899245283018868,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743081304585,
+      "modifiedDate": 1743081594045,
+      "sizeInBytes": 668,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "목요일, 3월 27일 2025, 10:15:04 오후",
+        "date modified": "목요일, 3월 27일 2025, 10:15:08 오후",
+        "title": "Data Hazard",
+        "과목": [
+          "[[컴퓨터 구조]]"
         ]
       }
     }
