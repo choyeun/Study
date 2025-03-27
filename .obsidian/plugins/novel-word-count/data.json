@@ -8075,19 +8075,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 465,
+      "wordCount": 555,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.55,
-      "characterCount": 3104,
-      "nonWhitespaceCharacterCount": 2175,
-      "readingTimeInMinutes": 1.3698490566037735,
+      "pageCount": 1.85,
+      "characterCount": 3287,
+      "nonWhitespaceCharacterCount": 2314,
+      "readingTimeInMinutes": 1.5675849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743077627750,
-      "modifiedDate": 1743077922902,
-      "sizeInBytes": 3679,
+      "modifiedDate": 1743078221576,
+      "sizeInBytes": 4054,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8097,8 +8097,11 @@
       },
       "frontmatter": {
         "date created": "목요일, 3월 27일 2025, 9:13:47 오후",
-        "date modified": "목요일, 3월 27일 2025, 9:14:07 오후",
-        "title": "0327 숙제"
+        "date modified": "목요일, 3월 27일 2025, 9:21:09 오후",
+        "title": "0327 숙제",
+        "과목": [
+          "[[자료 구조]]"
+        ]
       }
     }
   }
