@@ -8252,6 +8252,31 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "Day Planners/Day Planner-20250403.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 21,
+      "nonWhitespaceCharacterCount": 15,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743606027342,
+      "modifiedDate": 1743606027343,
+      "sizeInBytes": 21,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
