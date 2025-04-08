@@ -8307,25 +8307,36 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 203,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.6766666666666666,
+      "characterCount": 1867,
+      "nonWhitespaceCharacterCount": 1595,
+      "readingTimeInMinutes": 0.7660377358490567,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Resume"
+      ],
       "createdDate": 1744113219457,
-      "modifiedDate": 1744113219457,
-      "sizeInBytes": 0,
+      "modifiedDate": 1744113482341,
+      "sizeInBytes": 2077,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Resume"
+        ],
+        "date created": "화요일, 4월 8일 2025, 8:53:39 오후",
+        "date modified": "화요일, 4월 8일 2025, 8:57:59 오후",
+        "linter-yaml-title-alias": "Resume",
+        "title": "Resume"
       }
     }
   }
