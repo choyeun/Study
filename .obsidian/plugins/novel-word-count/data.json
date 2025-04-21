@@ -1441,12 +1441,12 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "Sufficient Conclusion",
-        "충분 조건"
+        "충분 조건",
+        "Sufficient Conclusion"
       ],
       "createdDate": 1742221978183,
-      "modifiedDate": 1742222047200,
-      "sizeInBytes": 294,
+      "modifiedDate": 1745254735311,
+      "sizeInBytes": 293,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.006666666666666667,
@@ -1456,11 +1456,11 @@
       },
       "frontmatter": {
         "aliases": [
-          "Sufficient Conclusion",
-          "충분 조건"
+          "충분 조건",
+          "Sufficient Conclusion"
         ],
         "date created": "월요일, 3월 17일 2025, 11:32:58 오후",
-        "date modified": "월요일, 3월 17일 2025, 11:34:07 오후",
+        "date modified": "화요일, 4월 22일 2025, 1:58:55 오전",
         "linter-yaml-title-alias": "Sufficient Conclusion",
         "tags": [
           "math"
@@ -8454,7 +8454,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1745254678768,
-      "modifiedDate": 1745254678769,
+      "modifiedDate": 1745254679077,
       "sizeInBytes": 21,
       "sessionStart": {
         "noteCount": 0,
@@ -8462,6 +8462,36 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "시험.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 172,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5733333333333334,
+      "characterCount": 521,
+      "nonWhitespaceCharacterCount": 400,
+      "readingTimeInMinutes": 0.34932075471698115,
+      "linkCount": 35,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745256205906,
+      "modifiedDate": 1745256809474,
+      "sizeInBytes": 995,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "date created": "화요일, 4월 22일 2025, 2:23:25 오전",
+        "date modified": "화요일, 4월 22일 2025, 2:23:33 오전",
+        "title": "시험"
       }
     }
   }
