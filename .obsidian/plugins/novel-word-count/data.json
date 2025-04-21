@@ -826,7 +826,7 @@
         "subset"
       ],
       "createdDate": 1741628051529,
-      "modifiedDate": 1745257060897,
+      "modifiedDate": 1745257118480,
       "sizeInBytes": 197,
       "sessionStart": {
         "noteCount": 1,
@@ -841,7 +841,7 @@
           "subset"
         ],
         "date created": "화요일, 3월 11일 2025, 2:34:11 오전",
-        "date modified": "화요일, 4월 22일 2025, 2:37:40 오전",
+        "date modified": "화요일, 4월 22일 2025, 2:38:38 오전",
         "title": "부분집합"
       }
     },
@@ -4764,8 +4764,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.1566666666666667,
-      "characterCount": 2496,
-      "nonWhitespaceCharacterCount": 1850,
+      "characterCount": 2490,
+      "nonWhitespaceCharacterCount": 1844,
       "readingTimeInMinutes": 1.8473584905660378,
       "linkCount": 23,
       "embedCount": 0,
@@ -4773,8 +4773,8 @@
         "Set"
       ],
       "createdDate": 1741618349656,
-      "modifiedDate": 1745257097069,
-      "sizeInBytes": 3475,
+      "modifiedDate": 1745257416231,
+      "sizeInBytes": 3468,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.13,
@@ -4787,7 +4787,7 @@
           "Set"
         ],
         "date created": "월요일, 3월 10일 2025, 11:52:29 오후",
-        "date modified": "화요일, 3월 18일 2025, 12:02:48 오전",
+        "date modified": "화요일, 4월 22일 2025, 2:43:34 오전",
         "tags": [
           "math"
         ],
