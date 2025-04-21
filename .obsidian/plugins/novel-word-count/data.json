@@ -822,11 +822,12 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
+        "부분 집합",
         "subset"
       ],
       "createdDate": 1741628051529,
-      "modifiedDate": 1741734389407,
-      "sizeInBytes": 179,
+      "modifiedDate": 1745257060897,
+      "sizeInBytes": 197,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.013333333333333334,
@@ -836,10 +837,11 @@
       },
       "frontmatter": {
         "aliases": [
+          "부분 집합",
           "subset"
         ],
         "date created": "화요일, 3월 11일 2025, 2:34:11 오전",
-        "date modified": "수요일, 3월 12일 2025, 8:06:28 오전",
+        "date modified": "화요일, 4월 22일 2025, 2:37:40 오전",
         "title": "부분집합"
       }
     },
@@ -4758,21 +4760,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 639,
+      "wordCount": 647,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.13,
-      "characterCount": 2484,
-      "nonWhitespaceCharacterCount": 1840,
-      "readingTimeInMinutes": 1.8313584905660378,
+      "pageCount": 2.1566666666666667,
+      "characterCount": 2496,
+      "nonWhitespaceCharacterCount": 1850,
+      "readingTimeInMinutes": 1.8473584905660378,
       "linkCount": 23,
       "embedCount": 0,
       "aliases": [
         "Set"
       ],
       "createdDate": 1741618349656,
-      "modifiedDate": 1742223768145,
-      "sizeInBytes": 3447,
+      "modifiedDate": 1745257097069,
+      "sizeInBytes": 3475,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.13,
@@ -8468,19 +8470,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 172,
+      "wordCount": 178,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5733333333333334,
-      "characterCount": 521,
-      "nonWhitespaceCharacterCount": 400,
-      "readingTimeInMinutes": 0.34932075471698115,
+      "pageCount": 0.5933333333333334,
+      "characterCount": 543,
+      "nonWhitespaceCharacterCount": 406,
+      "readingTimeInMinutes": 0.3613207547169811,
       "linkCount": 35,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1745256205906,
-      "modifiedDate": 1745256809474,
-      "sizeInBytes": 995,
+      "modifiedDate": 1745256918016,
+      "sizeInBytes": 1029,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8490,7 +8492,7 @@
       },
       "frontmatter": {
         "date created": "화요일, 4월 22일 2025, 2:23:25 오전",
-        "date modified": "화요일, 4월 22일 2025, 2:23:33 오전",
+        "date modified": "화요일, 4월 22일 2025, 2:35:17 오전",
         "title": "시험"
       }
     }
