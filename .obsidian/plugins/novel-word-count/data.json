@@ -944,35 +944,6 @@
         ]
       }
     },
-    "무제 1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 33,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 54,
-      "nonWhitespaceCharacterCount": 35,
-      "readingTimeInMinutes": 0.06777358490566038,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745387095451,
-      "modifiedDate": 1745369576729,
-      "sizeInBytes": 240,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11,
-        "wordCount": 33,
-        "characterCount": 54,
-        "nonWhitespaceCharacterCount": 35
-      },
-      "frontmatter": {
-        "date created": "수요일, 4월 23일 2025, 9:48:10 오전",
-        "date modified": "수요일, 4월 23일 2025, 9:52:53 오전"
-      }
-    },
     "멱집합.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8587,39 +8558,6 @@
         "title": "Resume"
       }
     },
-    "0327 숙제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 299,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9966666666666667,
-      "characterCount": 838,
-      "nonWhitespaceCharacterCount": 621,
-      "readingTimeInMinutes": 0.6884528301886792,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743077627750,
-      "modifiedDate": 1743081300344,
-      "sizeInBytes": 1508,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9966666666666667,
-        "wordCount": 299,
-        "characterCount": 838,
-        "nonWhitespaceCharacterCount": 621
-      },
-      "frontmatter": {
-        "date created": "목요일, 3월 27일 2025, 9:13:47 오후",
-        "date modified": "목요일, 3월 27일 2025, 10:15:00 오후",
-        "title": "0327 숙제",
-        "과목": [
-          "[[자료 구조]]"
-        ]
-      }
-    },
     "2025-03-10.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8665,8 +8603,33 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1747544012165,
-      "modifiedDate": 1747544012166,
+      "modifiedDate": 1747544012476,
       "sizeInBytes": 21,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "0327 자료구조 숙제.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 335,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1166666666666667,
+      "characterCount": 968,
+      "nonWhitespaceCharacterCount": 725,
+      "readingTimeInMinutes": 0.7852830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743077627750,
+      "modifiedDate": 1743081300344,
+      "sizeInBytes": 1508,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
