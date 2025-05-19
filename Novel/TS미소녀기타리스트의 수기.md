@@ -1,6 +1,4 @@
 ---
-date created: 금요일, 3월 21일 2025, 9:38:41 오전
-date modified: 금요일, 3월 21일 2025, 9:41:36 오전
 title: TS미소녀기타리스트의 수기
 URL: https://novelpia.com/novel/211768
 독자 태그: 

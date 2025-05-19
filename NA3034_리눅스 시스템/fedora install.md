@@ -1,8 +1,6 @@
 ---
 aliases:
   - fedora Install
-date created: 토요일, 3월 8일 2025, 10:04:43 오후
-date modified: 수요일, 3월 12일 2025, 8:42:37 오전
 linter-yaml-title-alias: fedora Install
 title: fedora Install
 강의 n주차: 1

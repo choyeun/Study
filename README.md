@@ -1,8 +1,6 @@
 ---
 aliases:
   - Study Repository
-date created: 일요일, 5월 26일 2024, 3:51:36 오후
-date modified: 수요일, 3월 12일 2025, 8:42:37 오전
 linter-yaml-title-alias: Study Repository
 title: Study Repository
 ---

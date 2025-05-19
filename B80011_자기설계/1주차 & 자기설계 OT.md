@@ -1,8 +1,6 @@
 ---
 aliases:
   - 1 주차 & 자기설계 OT
-date created: 수요일, 3월 12일 2025, 4:37:04 오전
-date modified: 목요일, 3월 13일 2025, 12:48:30 오전
 linter-yaml-title-alias: 1 주차 & 자기설계 OT
 title: 1 주차 & 자기설계 OT
 과목:

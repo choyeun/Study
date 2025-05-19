@@ -1,8 +1,6 @@
 ---
 aliases:
   - 연결 (linkage)
-date created: 월요일, 6월 17일 2024, 4:21:30 오전
-date modified: 목요일, 3월 13일 2025, 1:01:48 오전
 linter-yaml-title-alias: 연결 (linkage)
 title: 연결 (linkage)
 과목:

@@ -1,6 +1,4 @@
 ---
-date created: 일요일, 3월 16일 2025, 5:33:46 오전
-date modified: 일요일, 3월 16일 2025, 5:38:46 오전
 tags:
   - Framework
 title: Electron

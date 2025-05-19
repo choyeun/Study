@@ -1,8 +1,6 @@
 ---
 aliases:
   - 한정기호
-date created: 화요일, 3월 18일 2025, 3:33:30 오전
-date modified: 화요일, 3월 18일 2025, 3:41:29 오전
 tags:
   - math
 title: Quantifiers

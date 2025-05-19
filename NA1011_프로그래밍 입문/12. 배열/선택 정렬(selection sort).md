@@ -1,8 +1,6 @@
 ---
 aliases:
   - 선택 정렬 (selection sort)
-date created: 화요일, 6월 18일 2024, 12:24:21 오전
-date modified: 목요일, 3월 13일 2025, 1:03:42 오전
 linter-yaml-title-alias: 선택 정렬 (selection sort)
 title: 선택 정렬 (selection sort)
 과목:

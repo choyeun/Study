@@ -1,6 +1,4 @@
 ---
-date created: 일요일, 3월 16일 2025, 5:15:51 오전
-date modified: 일요일, 3월 16일 2025, 5:29:28 오전
 title: HTML
 ---
 
