@@ -1,6 +1,7 @@
 ---
 aliases:
   - 한정기호
+date created: 20250318T033330
 tags:
   - math
 title: Quantifiers

@@ -1,4 +1,5 @@
 ---
+date created: 20240617T035714
 title: While 문
 과목:
   - "[[프로그래밍 입문]]"

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ssh 접속
+date created: 20250312T165658
 linter-yaml-title-alias: Ssh 접속
 title: Ssh 접속
 강의 n주차: 2

@@ -1,4 +1,5 @@
 ---
+date created: 20250327T221504
 title: Data Hazard
 과목:
   - "[[컴퓨터 구조]]"

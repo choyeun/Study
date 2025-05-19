@@ -1,6 +1,7 @@
 ---
 aliases:
   - 순환 (recursion)
+date created: 20240618T002421
 linter-yaml-title-alias: 순환 (recursion)
 title: 순환 (recursion)
 과목:

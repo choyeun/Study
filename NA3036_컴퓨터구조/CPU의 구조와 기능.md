@@ -1,6 +1,7 @@
 ---
 aliases:
   - CPU 의 구조와 기능
+date created: 20250315T014731
 linter-yaml-title-alias: CPU 의 구조와 기능
 title: CPU 의 구조와 기능
 강의 n주차: 2

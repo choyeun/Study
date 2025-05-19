@@ -1,4 +1,5 @@
 ---
+date created: 20241003T120946
 title: JAVA 프로그래밍 OT
 과목:
   - "[[JAVA 프로그래밍]]"

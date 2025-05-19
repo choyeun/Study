@@ -2,6 +2,7 @@
 aliases:
   - 모순 명제
   - Contradiction
+date created: 20250317T235916
 linter-yaml-title-alias: Contradiction
 tags:
   - math

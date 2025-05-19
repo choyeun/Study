@@ -25,7 +25,6 @@
   "widgets",
   "css-editor",
   "oz-clear-unused-images",
-  "beautitab",
   "typing-speed",
   "tag-word-cloud",
   "link-favicon",
@@ -38,12 +37,13 @@
   "novel-word-count",
   "obsidian-old-note-admonitor",
   "daily-notes-editor",
-  "better-search-views",
   "omnisearch",
   "obsidian42-brat",
   "nlp",
   "graph-analysis",
   "marp",
   "tag-wrangler",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "beautitab",
+  "better-search-views"
 ]

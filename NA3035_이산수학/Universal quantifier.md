@@ -2,6 +2,7 @@
 aliases:
   - 전체 한정사
   - Universal Quantifier
+date created: 20250318T034325
 linter-yaml-title-alias: Universal Quantifier
 tags:
   - math

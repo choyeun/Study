@@ -1,6 +1,7 @@
 ---
 aliases:
   - If Else 문
+date created: 20240617T035440
 linter-yaml-title-alias: If Else 문
 title: If Else 문
 과목:

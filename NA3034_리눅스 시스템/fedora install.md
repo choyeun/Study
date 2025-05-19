@@ -1,6 +1,7 @@
 ---
 aliases:
   - fedora Install
+date created: 20250308T220443
 linter-yaml-title-alias: fedora Install
 title: fedora Install
 강의 n주차: 1

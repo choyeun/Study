@@ -1,4 +1,5 @@
 ---
+date created: 20250308T220443
 title: 이산수학 OT
 강의 n주차: 1
 과목:

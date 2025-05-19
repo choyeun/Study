@@ -1,6 +1,7 @@
 ---
 aliases:
   - 선택 정렬 (selection sort)
+date created: 20240618T002421
 linter-yaml-title-alias: 선택 정렬 (selection sort)
 title: 선택 정렬 (selection sort)
 과목:
