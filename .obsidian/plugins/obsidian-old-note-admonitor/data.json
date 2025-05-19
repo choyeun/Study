@@ -2,7 +2,7 @@
   "minNumberOfDaysToShowWarning": 180,
   "messageTemplate": "The following content hasn't been updated in the last ${numberOfDays} days",
   "showWarningIfDataIsNotFound": true,
-  "triggerToUpdate": "On open file",
+  "triggerToUpdate": "On open or save file",
   "dateToBeReferred": "Front matter",
   "frontMatterKey": "date modified",
   "captureGroupPattern": "^// (?<date>[0-9]{4}/[0-9]{2}/[0-9]{2})",

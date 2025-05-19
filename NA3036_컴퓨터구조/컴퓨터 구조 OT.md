@@ -2,6 +2,7 @@
 aliases:
   - 개요
 date created: 20250308T220443
+date modified: 20250519T171016
 linter-yaml-title-alias: 개요
 title: 개요
 강의 n주차: 1

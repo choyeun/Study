@@ -1,5 +1,6 @@
 ---
 date created: 20240608T192229
+date modified: 20250519T171017
 title: C 프로그래밍 입문 OT
 과목:
   - "[[C 프로그래밍 입문]]"

@@ -2,6 +2,7 @@
 aliases:
   - 연결 (linkage)
 date created: 20240617T042130
+date modified: 20250519T171017
 linter-yaml-title-alias: 연결 (linkage)
 title: 연결 (linkage)
 과목:

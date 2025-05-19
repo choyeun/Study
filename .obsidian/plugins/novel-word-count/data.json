@@ -597,8 +597,8 @@
         "B10008"
       ],
       "createdDate": 1741794310725,
-      "modifiedDate": 1741795832127,
-      "sizeInBytes": 231,
+      "modifiedDate": 1747641967321,
+      "sizeInBytes": 144,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -611,8 +611,7 @@
         "aliases": [
           "B10008"
         ],
-        "date created": "목요일, 3월 13일 2025, 12:45:10 오전",
-        "date modified": "목요일, 3월 13일 2025, 1:10:32 오전",
+        "date created": "20250313T004510",
         "title": "인류 문명과 세계 문화사",
         "교수": null
       }
@@ -3032,8 +3031,8 @@
         "Universal Quantifier"
       ],
       "createdDate": 1742237005680,
-      "modifiedDate": 1742237557816,
-      "sizeInBytes": 685,
+      "modifiedDate": 1747641914446,
+      "sizeInBytes": 600,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.23666666666666666,
@@ -3047,8 +3046,7 @@
           "전체 한정사",
           "Universal Quantifier"
         ],
-        "date created": "화요일, 3월 18일 2025, 3:43:25 오전",
-        "date modified": "화요일, 3월 18일 2025, 3:52:37 오전",
+        "date created": "20250318T034325",
         "linter-yaml-title-alias": "Universal Quantifier",
         "tags": [
           "math"
@@ -7721,20 +7719,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 67,
+      "wordCount": 78,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22333333333333333,
-      "characterCount": 107,
-      "nonWhitespaceCharacterCount": 73,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.134,
+      "pageCount": 0.26,
+      "characterCount": 137,
+      "nonWhitespaceCharacterCount": 95,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.156,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729336659552,
-      "modifiedDate": 1741794195105,
-      "sizeInBytes": 513,
+      "modifiedDate": 1747641914761,
+      "sizeInBytes": 426,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22333333333333333,
@@ -7744,8 +7742,6 @@
         "newlineCount": 18
       },
       "frontmatter": {
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "목요일, 3월 13일 2025, 12:43:15 오전",
         "title": "사막에서 꽃피었다 전설로 남은 도시문명, 메소포타미아와 바벨론",
         "과목": [
           "[[인류 문명과 세계 문화사]]"
@@ -8753,8 +8749,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729336659544,
-      "modifiedDate": 1741793398588,
-      "sizeInBytes": 414,
+      "modifiedDate": 1747641914811,
+      "sizeInBytes": 327,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.16333333333333333,
@@ -8764,8 +8760,7 @@
         "newlineCount": 8
       },
       "frontmatter": {
-        "date created": "토요일, 10월 19일 2024, 8:17:39 오후",
-        "date modified": "목요일, 3월 13일 2025, 12:29:58 오전",
+        "date created": "20241019T201739",
         "page": 33,
         "title": "20241008 아래 왼쪽 사진은 고물상의 풍경이다",
         "과목": [
@@ -9140,8 +9135,8 @@
         "0327 숙제"
       ],
       "createdDate": 1743077627750,
-      "modifiedDate": 1747641621726,
-      "sizeInBytes": 1454,
+      "modifiedDate": 1747641914839,
+      "sizeInBytes": 1484,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.9966666666666667,
@@ -9154,6 +9149,7 @@
         "aliases": [
           "0327 숙제"
         ],
+        "date created": "20250327T211347",
         "linter-yaml-title-alias": "0327 숙제",
         "title": "0327 숙제",
         "과목": [

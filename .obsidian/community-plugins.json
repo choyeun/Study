@@ -16,7 +16,6 @@
   "cmdr",
   "quickadd",
   "checkbox-reorder",
-  "day-planner-og",
   "periodic-notes",
   "calendar",
   "obsidian-tasks-plugin",
@@ -32,11 +31,9 @@
   "obsidian-quiet-outline",
   "obsidian-statusbar-pomo",
   "obsidian-reading-time",
-  "last-modified-timestamp-in-status-bar",
   "backlink-cache",
   "novel-word-count",
   "obsidian-old-note-admonitor",
-  "daily-notes-editor",
   "omnisearch",
   "obsidian42-brat",
   "nlp",
@@ -45,5 +42,8 @@
   "tag-wrangler",
   "obsidian-custom-frames",
   "beautitab",
-  "better-search-views"
+  "better-search-views",
+  "daily-notes-editor",
+  "day-planner-og",
+  "last-modified-timestamp-in-status-bar"
 ]
