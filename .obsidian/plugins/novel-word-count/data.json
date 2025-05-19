@@ -8402,20 +8402,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 1642,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 5.473333333333334,
+      "characterCount": 3280,
+      "nonWhitespaceCharacterCount": 2510,
+      "newlineCount": 122,
+      "readingTimeInMinutes": 3.624528301886792,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "프로세스 관리"
+      ],
       "createdDate": 1747653389717,
-      "modifiedDate": 1747653389717,
-      "sizeInBytes": 0,
+      "modifiedDate": 1747653683639,
+      "sizeInBytes": 6355,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8423,6 +8425,15 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "프로세스 관리"
+        ],
+        "date created": "20250519T201629",
+        "date modified": "20250519T201700",
+        "linter-yaml-title-alias": "프로세스 관리",
+        "title": "프로세스 관리"
       }
     }
   }
