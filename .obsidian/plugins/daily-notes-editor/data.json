@@ -1,7 +1,8 @@
 {
   "hideFrontmatter": true,
   "hideBacklinks": true,
-  "createAndOpenOnStartup": false,
+  "createAndOpenOnStartup": true,
+  "useArrowUpOrDownToNavigate": false,
   "preset": [
     {
       "type": "folder",

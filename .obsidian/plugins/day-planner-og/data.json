@@ -1,7 +1,7 @@
 {
   "customFolder": "Day Planners",
   "debug": false,
-  "mode": "File",
+  "mode": "Daily",
   "mermaid": false,
   "notesToDates": [],
   "completePastItems": true,
@@ -15,5 +15,6 @@
   "endLabel": "END",
   "markCurrent": false,
   "correctLabels": true,
-  "preserveValues": "-"
+  "preserveValues": "-",
+  "hideTimelineValues": ""
 }
