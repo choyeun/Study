@@ -58,11 +58,11 @@
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
-      "enabled": true,
-      "date-created": true,
+      "enabled": false,
+      "date-created": false,
       "date-created-key": "date created",
       "date-created-source-of-truth": "frontmatter",
-      "date-modified": true,
+      "date-modified": false,
       "date-modified-key": "date modified",
       "date-modified-source-of-truth": "user or Linter edits",
       "format": "dddd, MMMM Do YYYY, h:mm:ss a",

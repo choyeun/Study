@@ -1,6 +1,6 @@
 {
   "format": {
-    "timeFormat": "HH:mm",
+    "timeFormat": "HHmm",
     "dataViewSyntax": true
   },
   "calendars": {
