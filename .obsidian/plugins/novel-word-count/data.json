@@ -8402,22 +8402,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1642,
+      "wordCount": 2532,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.473333333333334,
-      "characterCount": 3280,
-      "nonWhitespaceCharacterCount": 2510,
-      "newlineCount": 122,
-      "readingTimeInMinutes": 3.624528301886792,
+      "pageCount": 8.44,
+      "characterCount": 4954,
+      "nonWhitespaceCharacterCount": 3791,
+      "newlineCount": 150,
+      "readingTimeInMinutes": 5.541094339622641,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "프로세스 관리"
       ],
       "createdDate": 1747653389717,
-      "modifiedDate": 1747653683639,
-      "sizeInBytes": 6355,
+      "modifiedDate": 1747653932869,
+      "sizeInBytes": 9655,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8431,9 +8431,36 @@
           "프로세스 관리"
         ],
         "date created": "20250519T201629",
-        "date modified": "20250519T201700",
+        "date modified": "20250519T202346",
         "linter-yaml-title-alias": "프로세스 관리",
         "title": "프로세스 관리"
+      }
+    },
+    "daily note/20250520.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747667248931,
+      "modifiedDate": 1747667248931,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
