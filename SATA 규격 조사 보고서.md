@@ -1,7 +1,9 @@
 ---
 date created: 20250530T234121
-date modified: 20250530T234405
+date modified: 20250606T160355
+title: SATA 규격 조사 보고서
 ---
+
 # SATA 규격 조사 보고서
 
 ## 개요
@@ -50,7 +52,7 @@ SATA 규격은 2000년 2월 APT Technologies, Dell, Intel, Maxtor, Seagate의 �
 ### SATA 3.2 (2013년 8월)
 
 - **SATA Express 규격**: SATA와 PCI Express 버스를 결합한 인터페이스
-    - PCI Express 사용으로 1969 MB/s의 이론적 처리량 달성
+	- PCI Express 사용으로 1969 MB/s의 이론적 처리량 달성
 - **M.2 표준**: SATA Express 인터페이스의 소형 폼 팩터 구현
 - **microSSD**: 소형화된 임베디드 SATA 저장 장치용 BGA 전기 인터페이스
 - **USM Slim**: Universal Storage Module 두께를 14.5mm에서 9mm로 감소
@@ -81,23 +83,23 @@ SATA 3.5 규격은 성능 향상과 다른 산업 I/O 표준과의 통합 증진
 **주요 새 기능:**
 
 1. **Device Transmit Emphasis for Gen 3 PHY**
-    
-    - SATA를 다른 I/O 측정 솔루션의 특성과 정렬
-    - SATA-IO 회원들의 테스트 및 통합 지원
+	
+	- SATA를 다른 I/O 측정 솔루션의 특성과 정렬
+	- SATA-IO 회원들의 테스트 및 통합 지원
 2. **Defined Ordered NCQ Commands**
-    
-    - 호스트가 대기열 명령 간의 처리 관계를 지정할 수 있게 함
-    - 큐에서 명령이 처리되는 순서 설정
+	
+	- 호스트가 대기열 명령 간의 처리 관계를 지정할 수 있게 함
+	- 큐에서 명령이 처리되는 순서 설정
 3. **Command Duration Limit Features**
-    
-    - 호스트가 서비스 품질 카테고리를 정의하여 지연 시간 감소
-    - 명령 속성에 대한 더 세밀한 제어 제공
-    - Open Compute Project(OCP)에서 설정한 "Fast Fail" 요구사항과 정렬
-    - INCITS T13 기술 위원회 표준에 명시된 요구사항 준수
+	
+	- 호스트가 서비스 품질 카테고리를 정의하여 지연 시간 감소
+	- 명령 속성에 대한 더 세밀한 제어 제공
+	- Open Compute Project(OCP)에서 설정한 "Fast Fail" 요구사항과 정렬
+	- INCITS T13 기술 위원회 표준에 명시된 요구사항 준수
 4. **기타 개선사항**
-    
-    - 최신 T13 표준 업데이트 통합
-    - 이전 SATA 3.4 규격의 다양한 수정 및 명확화
+	
+	- 최신 T13 표준 업데이트 통합
+	- 이전 SATA 3.4 규격의 다양한 수정 및 명확화
 
 ## SATA의 기술적 특징
 
@@ -117,7 +119,7 @@ SATA 3.0부터 향상된 전력 관리 기능이 도입되어 모바일 및 항�
 
 ## 현재 시장 동향
 
-### SATA vs NVMe
+### SATA Vs NVMe
 
 현재 스토리지 시장에서는 NVMe(Non-Volatile Memory Express) 인터페이스가 고성능 SSD의 주류로 자리잡고 있다. 그러나 SATA는 여전히 다음과 같은 영역에서 중요한 역할을 하고 있다:
 
@@ -147,21 +149,21 @@ SATA 규격은 2000년 최초 발표 이후 25년간 지속적으로 발전해�
 
 ## 참고 문헌
 
-1. Serial ATA International Organization (SATA-IO). (2020). "SATA-IO Increases Interoperability Features with Revision 3.5 Specification." _Business Wire_.  https://www.businesswire.com/news/home/20200715005295/en/
-    
-2. SATA-IO. (2024). "Home | SATA-IO." Official Website.  https://sata-io.org/
-    
-3. Wikipedia Contributors. (2025). "SATA." _Wikipedia_.  https://en.wikipedia.org/wiki/SATA
-    
-4. SATA-IO. (2020). "SATA-IO Increases Interoperability Features with Revision 3.5 Specification." _TechPowerUp_.  https://www.techpowerup.com/269946/sata-io-increases-interoperability-features-with-revision-3-5-specification
-    
-5. Bit-tech.net. (2018). "SATA-IO announces SATA 3.4 release."  https://bit-tech.net/news/tech/storage/sata-io-announces-sata-34-release/1/
-    
-6. SATA-IO. (2016). "SATA-IO Expands Supported Features in Revision 3.3 Specification." _Business Wire_.  https://www.businesswire.com/news/home/20160216005077/en/
-    
-7. Market Research Forecast. (2025). "SATA Connector Market 2025-2033 Trends: Unveiling Growth Opportunities and Competitor Dynamics."  https://www.marketresearchforecast.com/reports/sata-connector-market-5378
-    
-8. Wikipedia (2024). "SATA Express."   https://en.wikipedia.org/wiki/SATA_Express
-    
-9. SATA-IO. (2024). "Specification Errata, Technical Proposals, and Design Guidelines."  https://sata-io.org/developers/errata-design-guidelines
-    
+1. Serial ATA International Organization (SATA-IO). (2020). "SATA-IO Increases Interoperability Features with Revision 3.5 Specification." _Business Wire_. <https://www.businesswire.com/news/home/20200715005295/en/>
+	
+2. SATA-IO. (2024). "Home | SATA-IO." Official Website. <https://sata-io.org/>
+	
+3. Wikipedia Contributors. (2025). "SATA." _Wikipedia_. <https://en.wikipedia.org/wiki/SATA>
+	
+4. SATA-IO. (2020). "SATA-IO Increases Interoperability Features with Revision 3.5 Specification." _TechPowerUp_. <https://www.techpowerup.com/269946/sata-io-increases-interoperability-features-with-revision-3-5-specification>
+	
+5. Bit-tech.net. (2018). "SATA-IO announces SATA 3.4 release." <https://bit-tech.net/news/tech/storage/sata-io-announces-sata-34-release/1/>
+	
+6. SATA-IO. (2016). "SATA-IO Expands Supported Features in Revision 3.3 Specification." _Business Wire_. <https://www.businesswire.com/news/home/20160216005077/en/>
+	
+7. Market Research Forecast. (2025). "SATA Connector Market 2025-2033 Trends: Unveiling Growth Opportunities and Competitor Dynamics." <https://www.marketresearchforecast.com/reports/sata-connector-market-5378>
+	
+8. Wikipedia (2024). "SATA Express." <https://en.wikipedia.org/wiki/SATA_Express>
+	
+9. SATA-IO. (2024). "Specification Errata, Technical Proposals, and Design Guidelines." <https://sata-io.org/developers/errata-design-guidelines>
+	
