@@ -1,9 +1,15 @@
 {
   "pluginList": [
+    "Swaggeroo/obsidian-ai-image-analyzer",
     "SkepticMystic/graph-analysis",
     "SkepticMystic/nlp"
   ],
-  "pluginSubListFrozenVersion": [],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Swaggeroo/obsidian-ai-image-analyzer",
+      "version": "latest"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,

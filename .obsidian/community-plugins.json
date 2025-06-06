@@ -46,5 +46,7 @@
   "daily-notes-editor",
   "day-planner-og",
   "last-modified-timestamp-in-status-bar",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "text-extractor",
+  "ai-image-analyzer"
 ]
