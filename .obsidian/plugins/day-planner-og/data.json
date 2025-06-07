@@ -3,7 +3,12 @@
   "debug": false,
   "mode": "Daily",
   "mermaid": false,
-  "notesToDates": [],
+  "notesToDates": [
+    {
+      "notePath": "daily note/20250607.md",
+      "date": "Sat Jun 07 2025"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": false,
   "nowAndNextInStatusBar": false,
