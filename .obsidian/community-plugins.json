@@ -7,7 +7,6 @@
   "open-gate",
   "global-search-and-replace",
   "ics",
-  "dataview",
   "ninja-cursor",
   "settings-search",
   "obsidian-footnotes",
@@ -18,7 +17,6 @@
   "checkbox-reorder",
   "periodic-notes",
   "calendar",
-  "obsidian-tasks-plugin",
   "obsidian-task-progress-bar",
   "obsidian-tracker",
   "widgets",
@@ -36,9 +34,7 @@
   "obsidian-old-note-admonitor",
   "omnisearch",
   "obsidian42-brat",
-  "nlp",
   "graph-analysis",
-  "marp",
   "tag-wrangler",
   "obsidian-custom-frames",
   "beautitab",
@@ -48,5 +44,6 @@
   "last-modified-timestamp-in-status-bar",
   "obsidian-pandoc",
   "text-extractor",
-  "ai-image-analyzer"
+  "ai-image-analyzer",
+  "lazy-plugins"
 ]
