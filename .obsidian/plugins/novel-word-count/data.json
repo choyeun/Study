@@ -6487,20 +6487,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 9,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 15,
-      "nonWhitespaceCharacterCount": 12,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.016,
+      "pageCount": 0.03,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 21,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.019773584905660377,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754733071777,
-      "modifiedDate": 1754733091898,
-      "sizeInBytes": 31,
+      "modifiedDate": 1754733159209,
+      "sizeInBytes": 132,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -6508,6 +6508,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date created": "20250809T185111",
+        "date modified": "20250809T185239",
+        "title": "20250809"
       }
     },
     "daily note/20250616.md": {
@@ -8987,20 +8992,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 52,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 106,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.11286792452830188,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754733100639,
-      "modifiedDate": 1754733100639,
-      "sizeInBytes": 0,
+      "modifiedDate": 1754733354341,
+      "sizeInBytes": 295,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9008,6 +9013,10 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "date created": "20250809T185140",
+        "date modified": "20250809T185502"
       }
     }
   }
