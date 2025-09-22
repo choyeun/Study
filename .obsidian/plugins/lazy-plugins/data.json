@@ -158,6 +158,9 @@
       },
       "widgets": {
         "startupType": "instant"
+      },
+      "korean-spellchecker": {
+        "startupType": "instant"
       }
     }
   }
