@@ -45,5 +45,6 @@
   "obsidian-pandoc",
   "text-extractor",
   "ai-image-analyzer",
-  "lazy-plugins"
+  "lazy-plugins",
+  "korean-spellchecker"
 ]

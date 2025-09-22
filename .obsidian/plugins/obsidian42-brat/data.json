@@ -1,10 +1,15 @@
 {
   "pluginList": [
+    "dldisud/obsidian-korean-spellchecker",
     "Swaggeroo/obsidian-ai-image-analyzer",
     "SkepticMystic/graph-analysis",
     "SkepticMystic/nlp"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "dldisud/obsidian-korean-spellchecker",
+      "version": "latest"
+    },
     {
       "repo": "Swaggeroo/obsidian-ai-image-analyzer",
       "version": "latest"
@@ -19,5 +24,6 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
   "notificationsEnabled": true,
-  "personalAccessToken": ""
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
 }
