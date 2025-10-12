@@ -46,5 +46,7 @@
   "text-extractor",
   "ai-image-analyzer",
   "lazy-plugins",
-  "korean-spellchecker"
+  "korean-spellchecker",
+  "recent-files-obsidian",
+  "obsidian-front-matter-title-plugin"
 ]
