@@ -89,8 +89,8 @@
         "union"
       ],
       "createdDate": 1741628090726,
-      "modifiedDate": 1747642217798,
-      "sizeInBytes": 126,
+      "modifiedDate": 1760290169175,
+      "sizeInBytes": 65,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.01,
@@ -104,8 +104,6 @@
           "∪",
           "union"
         ],
-        "date created": "20250311T023450",
-        "date modified": "20250519T171016",
         "title": "합집합"
       }
     },
@@ -3729,8 +3727,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1718564395391,
-      "modifiedDate": 1747642218012,
-      "sizeInBytes": 226,
+      "modifiedDate": 1760290169604,
+      "sizeInBytes": 165,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -3740,8 +3738,6 @@
         "newlineCount": 6
       },
       "frontmatter": {
-        "date created": "20240617T035955",
-        "date modified": "20250519T171017",
         "title": "While 반복과 for 반복 비교",
         "과목": [
           "[[프로그래밍 입문]]"
@@ -4435,22 +4431,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 44,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 136,
-      "nonWhitespaceCharacterCount": 112,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.09864150943396226,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 75,
+      "nonWhitespaceCharacterCount": 65,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.05354716981132075,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "선택 정렬 (selection sort)"
       ],
       "createdDate": 1718637861908,
-      "modifiedDate": 1747642218089,
-      "sizeInBytes": 459,
+      "modifiedDate": 1760290169691,
+      "sizeInBytes": 398,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14666666666666667,
@@ -6854,8 +6850,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1758553573354,
-      "modifiedDate": 1759586863483,
-      "sizeInBytes": 99,
+      "modifiedDate": 1760290170096,
+      "sizeInBytes": 38,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -6865,8 +6861,6 @@
         "newlineCount": 4
       },
       "frontmatter": {
-        "date created": "20250923T000613",
-        "date modified": "20251004T230743",
         "title": "20250923"
       }
     },
@@ -7162,20 +7156,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 18,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 48,
-      "nonWhitespaceCharacterCount": 34,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.04309433962264151,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1748579420919,
-      "modifiedDate": 1748569186992,
-      "sizeInBytes": 162,
+      "modifiedDate": 1760290170209,
+      "sizeInBytes": 101,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06,
@@ -9413,8 +9407,8 @@
         "0327 숙제"
       ],
       "createdDate": 1743077627750,
-      "modifiedDate": 1747642218434,
-      "sizeInBytes": 1515,
+      "modifiedDate": 1760290170588,
+      "sizeInBytes": 1454,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.9966666666666667,
@@ -9427,8 +9421,6 @@
         "aliases": [
           "0327 숙제"
         ],
-        "date created": "20250327T211347",
-        "date modified": "20250519T171017",
         "linter-yaml-title-alias": "0327 숙제",
         "title": "0327 숙제",
         "과목": [
