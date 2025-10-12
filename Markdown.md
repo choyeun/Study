@@ -1,8 +1,6 @@
 ---
 aliases:
   - 마크다운
-date created: 20250316T050531
-date modified: 20250519T171017
 title: Markdown
 ---
 

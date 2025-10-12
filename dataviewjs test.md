@@ -1,8 +1,6 @@
 ---
 aliases:
   - Dataviewjs Test
-date created: 20250312T165707
-date modified: 20250519T171017
 linter-yaml-title-alias: Dataviewjs Test
 title: Dataviewjs Test
 ---

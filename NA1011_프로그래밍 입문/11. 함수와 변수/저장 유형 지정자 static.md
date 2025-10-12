@@ -1,8 +1,6 @@
 ---
 aliases:
   - 저장 유형 지정자 Static
-date created: 20240617T042039
-date modified: 20250519T171017
 linter-yaml-title-alias: 저장 유형 지정자 Static
 title: 저장 유형 지정자 Static
 과목:

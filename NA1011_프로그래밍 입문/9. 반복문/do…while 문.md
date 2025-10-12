@@ -1,6 +1,4 @@
 ---
-date created: 20240617T035819
-date modified: 20250519T171017
 title: do…while 문
 과목:
   - "[[프로그래밍 입문]]"

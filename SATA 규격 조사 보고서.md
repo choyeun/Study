@@ -1,6 +1,4 @@
 ---
-date created: 20250530T234121
-date modified: 20250606T160355
 title: SATA 규격 조사 보고서
 ---
 

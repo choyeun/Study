@@ -7,7 +7,7 @@
   "spellcheck": false,
   "showInlineTitle": true,
   "trashOption": "system",
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "./",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,

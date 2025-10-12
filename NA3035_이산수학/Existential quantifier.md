@@ -2,8 +2,6 @@
 aliases:
   - 존제 한정사
   - Existential Quantifier
-date created: 20250318T035237
-date modified: 20250519T171017
 linter-yaml-title-alias: Existential Quantifier
 tags:
   - math

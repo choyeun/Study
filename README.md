@@ -1,8 +1,6 @@
 ---
 aliases:
   - Study Repository
-date created: 20240526T155136
-date modified: 20250519T171016
 linter-yaml-title-alias: Study Repository
 title: Study Repository
 ---

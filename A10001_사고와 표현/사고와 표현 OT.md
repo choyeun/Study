@@ -1,8 +1,6 @@
 ---
 aliases:
   - 교양 필수
-date created: 20250308T220443
-date modified: 20250519T171017
 linter-yaml-title-alias: 교양 필수
 title: 교양 필수
 과목:

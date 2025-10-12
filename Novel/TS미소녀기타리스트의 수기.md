@@ -1,6 +1,4 @@
 ---
-date created: 20250322T203620
-date modified: 20250519T171016
 title: TS미소녀기타리스트의 수기
 URL: https://novelpia.com/novel/211768
 독자 태그: 

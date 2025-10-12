@@ -1,8 +1,6 @@
 ---
 aliases:
   - 저장 유형 지정자 Auto
-date created: 20240617T041946
-date modified: 20250519T171017
 linter-yaml-title-alias: 저장 유형 지정자 Auto
 title: 저장 유형 지정자 Auto
 과목:
