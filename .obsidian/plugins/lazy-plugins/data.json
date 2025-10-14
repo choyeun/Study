@@ -161,6 +161,12 @@
       },
       "korean-spellchecker": {
         "startupType": "instant"
+      },
+      "obsidian-front-matter-title-plugin": {
+        "startupType": "instant"
+      },
+      "recent-files-obsidian": {
+        "startupType": "instant"
       }
     }
   }
