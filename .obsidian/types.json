@@ -40,6 +40,7 @@
     "추천": "multitext",
     "작품 번호": "number",
     "점수": "number",
-    "보는중": "checkbox"
+    "보는중": "checkbox",
+    "계급": "multitext"
   }
 }
