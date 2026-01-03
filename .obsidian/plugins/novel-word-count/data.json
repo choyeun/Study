@@ -9550,20 +9550,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460085870,
-      "modifiedDate": 1767460170514,
-      "sizeInBytes": 127,
+      "modifiedDate": 1767464081149,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9573,6 +9573,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "김선우",
         "계급": [
           "상병"
         ],
@@ -9580,13 +9581,16 @@
           "탄약수"
         ],
         "소속": [
+          "1분대",
           "1소대",
           "4중대",
-          "군대",
-          "1분대"
+          "군대"
         ],
         "전역일": [
           "2605"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -9651,8 +9655,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460203922,
-      "modifiedDate": 1767460299022,
-      "sizeInBytes": 156,
+      "modifiedDate": 1767464105691,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9677,6 +9681,9 @@
         ],
         "전역일": [
           "2604"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -10387,20 +10394,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460869200,
-      "modifiedDate": 1767460893081,
-      "sizeInBytes": 139,
+      "modifiedDate": 1767464067843,
+      "sizeInBytes": 189,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10410,6 +10417,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "조연준",
         "계급": [
           "상병"
         ],
@@ -10418,13 +10426,16 @@
           "포수"
         ],
         "소속": [
-          "군대",
           "2소대",
+          "3분대",
           "4중대",
-          "3분대"
+          "군대"
         ],
         "전역일": [
           "2604"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -10654,20 +10665,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461107460,
-      "modifiedDate": 1767461123992,
-      "sizeInBytes": 126,
+      "modifiedDate": 1767464101491,
+      "sizeInBytes": 177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10677,6 +10688,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "김동우",
         "계급": [
           "상병"
         ],
@@ -10691,6 +10703,9 @@
         ],
         "전역일": [
           "2605"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -10738,20 +10753,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461167119,
-      "modifiedDate": 1767461208773,
-      "sizeInBytes": 138,
+      "modifiedDate": 1767464092756,
+      "sizeInBytes": 189,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10761,6 +10776,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "최현준",
         "계급": [
           "상병"
         ],
@@ -10769,13 +10785,16 @@
           "포수"
         ],
         "소속": [
-          "4중대",
-          "군대",
+          "1분대",
           "3소대",
-          "1분대"
+          "4중대",
+          "군대"
         ],
         "전역일": [
           "2605"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -10974,8 +10993,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461321333,
-      "modifiedDate": 1767461362232,
-      "sizeInBytes": 156,
+      "modifiedDate": 1767464050758,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11000,6 +11019,9 @@
         ],
         "전역일": [
           "2603"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -11111,8 +11133,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461471428,
-      "modifiedDate": 1767461495941,
-      "sizeInBytes": 156,
+      "modifiedDate": 1767464097182,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11137,6 +11159,9 @@
         ],
         "전역일": [
           "2605"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -11247,8 +11272,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461553408,
-      "modifiedDate": 1767461594315,
-      "sizeInBytes": 155,
+      "modifiedDate": 1767464060402,
+      "sizeInBytes": 177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11273,6 +11298,9 @@
         ],
         "전역일": [
           "2603"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -12032,8 +12060,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462822200,
-      "modifiedDate": 1767462910276,
-      "sizeInBytes": 204,
+      "modifiedDate": 1767464072430,
+      "sizeInBytes": 226,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12060,6 +12088,9 @@
         ],
         "전역일": [
           "2604"
+        ],
+        "생활관": [
+          "충성"
         ]
       }
     },
@@ -12506,8 +12537,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463269228,
-      "modifiedDate": 1767463761340,
-      "sizeInBytes": 201,
+      "modifiedDate": 1767464037490,
+      "sizeInBytes": 223,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12523,6 +12554,9 @@
         ],
         "보직": [
           "사수"
+        ],
+        "생활관": [
+          "충성"
         ],
         "소속": [
           "3분대",
@@ -12708,8 +12742,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767463916698,
-      "modifiedDate": 1767463831172,
-      "sizeInBytes": 222,
+      "modifiedDate": 1767464047146,
+      "sizeInBytes": 332,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
