@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - 소속.contains("2소대")
+    order:
+      - file.name
+      - 계급
+      - 보직
