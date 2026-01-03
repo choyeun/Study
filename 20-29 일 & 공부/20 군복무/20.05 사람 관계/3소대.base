@@ -7,12 +7,13 @@ views:
     order:
       - file.name
       - 계급
-      - 보직
       - 전역일
-      - 생활관
       - 소속
+      - 생활관
+      - 보직
     sort:
       - property: 전역일
         direction: ASC
     columnSize:
-      note.보직: 130
+      note.소속: 172
+      note.보직: 164

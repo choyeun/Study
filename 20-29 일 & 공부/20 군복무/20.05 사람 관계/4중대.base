@@ -10,8 +10,8 @@ views:
       - 계급
       - 전역일
       - 소속
-      - 보직
       - 생활관
+      - 보직
     sort:
       - property: 전역일
         direction: ASC
