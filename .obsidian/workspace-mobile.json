@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "9d678928815c6b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c2884543fcf124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b6d53c2c145ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "367e1a9f83420e65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f1e36fd1e4a71170",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3dcca0422a4f741a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8aaa9c138f238565",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c33922e150241f4e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "3ddadf93364b0898",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8f0ee3344c43c2e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b3beb0cd95065b7c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "889007f3f3052bec",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4450f70c988d4221",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "87f698be38a1fe3f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "f23cc61c2a8b6515",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {},
+          "icon": "GA-ICON",
+          "title": "Graph Analysis"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-gate:Microsoft Todo": false,
+      "open-gate:chat-gpt": false,
+      "open-gate:discord": false,
+      "open-gate:Novelpia": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-task-progress-bar:Open Task Genius view": false,
+      "widgets:Add widget": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian42-brat:BRAT": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "korean-spellchecker:Check spelling": false
+    }
+  },
+  "active": "29b6d53c2c145ce2",
+  "lastOpenFiles": []
+}
