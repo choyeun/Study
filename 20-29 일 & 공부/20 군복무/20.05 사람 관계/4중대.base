@@ -1,9 +1,10 @@
+filters:
+  and:
+    - file.tags.contains("군대")
+    - file.tags.contains("사람")
 views:
   - type: table
     name: 표
-    filters:
-      and:
-        - 소속.contains("군대")
     order:
       - file.name
       - 계급
@@ -16,3 +17,4 @@ views:
         direction: ASC
     columnSize:
       note.보직: 164
+      note.tags: 142

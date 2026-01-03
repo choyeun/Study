@@ -16,3 +16,4 @@ views:
         direction: ASC
     columnSize:
       note.보직: 130
+      note.tags: 142

@@ -9265,8 +9265,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767459511878,
-      "modifiedDate": 1767459776204,
-      "sizeInBytes": 106,
+      "modifiedDate": 1767465419671,
+      "sizeInBytes": 123,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9282,8 +9282,11 @@
           "중대장"
         ],
         "소속": [
-          "4중대",
-          "군대"
+          "4중대"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9303,8 +9306,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767459618047,
-      "modifiedDate": 1767459789916,
-      "sizeInBytes": 116,
+      "modifiedDate": 1767465421827,
+      "sizeInBytes": 133,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9318,12 +9321,15 @@
         "계급": [
           "상사"
         ],
-        "소속": [
-          "4중대",
-          "군대"
-        ],
         "보직": [
           "행정보급관"
+        ],
+        "소속": [
+          "4중대"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9343,8 +9349,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767459799809,
-      "modifiedDate": 1767459976952,
-      "sizeInBytes": 140,
+      "modifiedDate": 1767465390583,
+      "sizeInBytes": 157,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9363,11 +9369,14 @@
           "병기"
         ],
         "소속": [
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9375,20 +9384,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767459833696,
-      "modifiedDate": 1767459999504,
-      "sizeInBytes": 122,
+      "modifiedDate": 1767465410279,
+      "sizeInBytes": 168,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9398,6 +9407,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "조유식",
         "계급": [
           "일병"
         ],
@@ -9407,11 +9417,14 @@
           "행정"
         ],
         "소속": [
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9431,8 +9444,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767459906463,
-      "modifiedDate": 1767459987783,
-      "sizeInBytes": 154,
+      "modifiedDate": 1767465385355,
+      "sizeInBytes": 171,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9452,11 +9465,14 @@
           "조종수"
         ],
         "소속": [
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9464,20 +9480,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460001857,
-      "modifiedDate": 1767460039082,
-      "sizeInBytes": 93,
+      "modifiedDate": 1767465424445,
+      "sizeInBytes": 139,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9487,6 +9503,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "정순모",
         "계급": [
           "상사"
         ],
@@ -9494,9 +9511,12 @@
           "소대장"
         ],
         "소속": [
-          "4중대",
+          "1소대",
+          "4중대"
+        ],
+        "tags": [
           "군대",
-          "1소대"
+          "사람"
         ]
       }
     },
@@ -9516,8 +9536,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460046317,
-      "modifiedDate": 1767460123908,
-      "sizeInBytes": 167,
+      "modifiedDate": 1767465359785,
+      "sizeInBytes": 184,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9538,11 +9558,14 @@
         "소속": [
           "1분대",
           "1소대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2602"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9562,8 +9585,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460085870,
-      "modifiedDate": 1767464253521,
-      "sizeInBytes": 178,
+      "modifiedDate": 1767465370906,
+      "sizeInBytes": 195,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9586,11 +9609,14 @@
         "소속": [
           "1분대",
           "1소대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2605"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9598,20 +9624,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460171961,
-      "modifiedDate": 1767460196540,
-      "sizeInBytes": 141,
+      "modifiedDate": 1767465373924,
+      "sizeInBytes": 187,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9621,21 +9647,25 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "구영준",
         "계급": [
           "상병"
         ],
         "보직": [
-          "탄약수",
-          "운전병"
+          "운전병",
+          "탄약수"
         ],
         "소속": [
+          "1분대",
           "1소대",
-          "4중대",
-          "군대",
-          "1분대"
+          "4중대"
         ],
         "전역일": [
           "2607"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9655,8 +9685,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460203922,
-      "modifiedDate": 1767464251072,
-      "sizeInBytes": 178,
+      "modifiedDate": 1767465365540,
+      "sizeInBytes": 195,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9679,11 +9709,14 @@
         "소속": [
           "1소대",
           "2분대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2604"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9703,8 +9736,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460254798,
-      "modifiedDate": 1767464317718,
-      "sizeInBytes": 180,
+      "modifiedDate": 1767465418834,
+      "sizeInBytes": 197,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9724,14 +9757,17 @@
         "소속": [
           "1소대",
           "2분대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2704"
         ],
         "생활관": [
           "창의"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9739,20 +9775,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460309309,
-      "modifiedDate": 1767460333046,
-      "sizeInBytes": 142,
+      "modifiedDate": 1767465376980,
+      "sizeInBytes": 187,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9762,21 +9798,25 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "김경록",
         "계급": [
           "일병"
         ],
         "보직": [
-          "탄약수",
-          "운전병"
+          "운전병",
+          "탄약수"
         ],
         "소속": [
           "1소대",
           "2분대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2609"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9784,20 +9824,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460340563,
-      "modifiedDate": 1767460379945,
-      "sizeInBytes": 139,
+      "modifiedDate": 1767465384133,
+      "sizeInBytes": 184,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9807,6 +9847,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "최유준",
         "계급": [
           "일병"
         ],
@@ -9816,12 +9857,15 @@
         ],
         "소속": [
           "1소대",
-          "4중대",
-          "군대",
-          "3분대"
+          "3분대",
+          "4중대"
         ],
         "전역일": [
           "2611"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9829,20 +9873,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460397747,
-      "modifiedDate": 1767460439493,
-      "sizeInBytes": 128,
+      "modifiedDate": 1767465355836,
+      "sizeInBytes": 173,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9852,6 +9896,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "이강산",
         "계급": [
           "병장"
         ],
@@ -9860,12 +9905,15 @@
         ],
         "소속": [
           "1소대",
-          "4중대",
-          "군대",
-          "3분대"
+          "3분대",
+          "4중대"
         ],
         "전역일": [
           "2601"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9873,20 +9921,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460443437,
-      "modifiedDate": 1767460451807,
-      "sizeInBytes": 142,
+      "modifiedDate": 1767465223153,
+      "sizeInBytes": 198,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9896,21 +9944,26 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "도연우",
         "계급": [
           "병장"
         ],
         "보직": [
-          "탄약수",
-          "운전병"
+          "운전병",
+          "탄약수"
         ],
         "소속": [
           "1소대",
+          "3분대",
           "4중대",
-          "군대",
-          "3분대"
+          "군대"
         ],
         "전역일": [
           "2601"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9930,8 +9983,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460461495,
-      "modifiedDate": 1767464284892,
-      "sizeInBytes": 177,
+      "modifiedDate": 1767465412610,
+      "sizeInBytes": 194,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9951,7 +10004,6 @@
         "소속": [
           "1소대",
           "4중대",
-          "군대",
           "본부"
         ],
         "전역일": [
@@ -9959,6 +10011,10 @@
         ],
         "생활관": [
           "책임"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -9966,20 +10022,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460541900,
-      "modifiedDate": 1767460564718,
-      "sizeInBytes": 127,
+      "modifiedDate": 1767465409590,
+      "sizeInBytes": 172,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9989,6 +10045,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "이선우",
         "계급": [
           "일병"
         ],
@@ -9998,11 +10055,14 @@
         "소속": [
           "1소대",
           "4중대",
-          "군대",
           "본부"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10022,8 +10082,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460573412,
-      "modifiedDate": 1767464311772,
-      "sizeInBytes": 177,
+      "modifiedDate": 1767465415943,
+      "sizeInBytes": 194,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10043,7 +10103,6 @@
         "소속": [
           "1소대",
           "4중대",
-          "군대",
           "본부"
         ],
         "전역일": [
@@ -10051,6 +10110,10 @@
         ],
         "생활관": [
           "창의"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10058,99 +10121,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460601678,
-      "modifiedDate": 1767460636660,
-      "sizeInBytes": 94,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "계급": [
-          "상사"
-        ],
-        "보직": [
-          "소대장"
-        ],
-        "소속": [
-          "군대",
-          "2소대",
-          "4중대"
-        ]
-      }
-    },
-    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이대희.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1767460645353,
-      "modifiedDate": 1767460664015,
-      "sizeInBytes": 97,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "계급": [
-          "중사"
-        ],
-        "보직": [
-          "부소대장"
-        ],
-        "소속": [
-          "군대",
-          "2소대",
-          "4중대"
-        ]
-      }
-    },
-    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김민성.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1767460675343,
-      "modifiedDate": 1767460709863,
+      "modifiedDate": 1767465423415,
       "sizeInBytes": 139,
       "sessionStart": {
         "noteCount": 0,
@@ -10161,42 +10144,41 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "정대철",
         "계급": [
-          "일병"
+          "상사"
         ],
         "보직": [
-          "분대장",
-          "포수"
+          "소대장"
         ],
         "소속": [
-          "군대",
           "2소대",
-          "4중대",
-          "1분대"
+          "4중대"
         ],
-        "전역일": [
-          "2612"
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
-    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이준석A.md": {
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이대희.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1767460719636,
-      "modifiedDate": 1767460750000,
-      "sizeInBytes": 128,
+      "createdDate": 1767460645353,
+      "modifiedDate": 1767465308719,
+      "sizeInBytes": 153,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10206,6 +10188,101 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "이대희",
+        "계급": [
+          "중사"
+        ],
+        "보직": [
+          "부소대장"
+        ],
+        "소속": [
+          "2소대",
+          "4중대",
+          "군대"
+        ],
+        "tags": [
+          "군대",
+          "사람"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김민성.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460675343,
+      "modifiedDate": 1767465387415,
+      "sizeInBytes": 184,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "김민성",
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "1분대",
+          "2소대",
+          "4중대"
+        ],
+        "전역일": [
+          "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이준석A.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 9,
+      "nonWhitespaceCharacterCount": 5,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.009773584905660378,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460719636,
+      "modifiedDate": 1767465366463,
+      "sizeInBytes": 175,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "이준석A",
         "계급": [
           "상병"
         ],
@@ -10213,13 +10290,16 @@
           "부포수"
         ],
         "소속": [
-          "군대",
+          "1분대",
           "2소대",
-          "4중대",
-          "1분대"
+          "4중대"
         ],
         "전역일": [
           "2604"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10239,8 +10319,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460755665,
-      "modifiedDate": 1767464279341,
-      "sizeInBytes": 192,
+      "modifiedDate": 1767465411612,
+      "sizeInBytes": 209,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10261,14 +10341,17 @@
         "소속": [
           "1분대",
           "2소대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2701"
         ],
         "생활관": [
           "책임"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10276,20 +10359,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460789399,
-      "modifiedDate": 1767460813806,
-      "sizeInBytes": 139,
+      "modifiedDate": 1767465381152,
+      "sizeInBytes": 184,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10299,6 +10382,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "김홍필",
         "계급": [
           "일병"
         ],
@@ -10307,13 +10391,16 @@
           "포수"
         ],
         "소속": [
-          "군대",
+          "2분대",
           "2소대",
-          "4중대",
-          "2분대"
+          "4중대"
         ],
         "전역일": [
           "2611"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10333,8 +10420,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460817665,
-      "modifiedDate": 1767464316062,
-      "sizeInBytes": 178,
+      "modifiedDate": 1767465301719,
+      "sizeInBytes": 206,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10362,6 +10449,10 @@
         ],
         "생활관": [
           "창의"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10369,20 +10460,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460847459,
-      "modifiedDate": 1767460862808,
-      "sizeInBytes": 142,
+      "modifiedDate": 1767465356733,
+      "sizeInBytes": 187,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10392,21 +10483,25 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "한승민",
         "계급": [
           "병장"
         ],
         "보직": [
-          "탄약수",
-          "운전병"
+          "운전병",
+          "탄약수"
         ],
         "소속": [
-          "군대",
+          "2분대",
           "2소대",
-          "4중대",
-          "2분대"
+          "4중대"
         ],
         "전역일": [
           "2601"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10426,8 +10521,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460869200,
-      "modifiedDate": 1767464067843,
-      "sizeInBytes": 189,
+      "modifiedDate": 1767465368381,
+      "sizeInBytes": 206,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10448,14 +10543,17 @@
         "소속": [
           "2소대",
           "3분대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2604"
         ],
         "생활관": [
           "충성"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10475,8 +10573,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460899454,
-      "modifiedDate": 1767464287404,
-      "sizeInBytes": 178,
+      "modifiedDate": 1767465413314,
+      "sizeInBytes": 195,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10496,14 +10594,17 @@
         "소속": [
           "2소대",
           "3분대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2702"
         ],
         "생활관": [
           "책임"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10511,20 +10612,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460929583,
-      "modifiedDate": 1767460987009,
-      "sizeInBytes": 128,
+      "modifiedDate": 1767465228810,
+      "sizeInBytes": 184,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10534,6 +10635,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "이성주",
         "계급": [
           "상병"
         ],
@@ -10541,13 +10643,17 @@
           "탄약수"
         ],
         "소속": [
-          "군대",
           "2소대",
+          "3분대",
           "4중대",
-          "3분대"
+          "군대"
         ],
         "전역일": [
           "2601"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10567,8 +10673,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460993617,
-      "modifiedDate": 1767461091267,
-      "sizeInBytes": 155,
+      "modifiedDate": 1767465262470,
+      "sizeInBytes": 183,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10593,6 +10699,10 @@
         ],
         "전역일": [
           "2610"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10612,8 +10722,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461030880,
-      "modifiedDate": 1767461095167,
-      "sizeInBytes": 155,
+      "modifiedDate": 1767465406721,
+      "sizeInBytes": 172,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10633,11 +10743,14 @@
         "소속": [
           "2소대",
           "4중대",
-          "군대",
           "본부"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10645,20 +10758,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461052857,
-      "modifiedDate": 1767461104909,
-      "sizeInBytes": 126,
+      "modifiedDate": 1767465376236,
+      "sizeInBytes": 172,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10668,6 +10781,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "김건민",
         "계급": [
           "상병"
         ],
@@ -10677,11 +10791,14 @@
         "소속": [
           "2소대",
           "4중대",
-          "군대",
           "본부"
         ],
         "전역일": [
           "2609"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10701,8 +10818,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461107460,
-      "modifiedDate": 1767464101491,
-      "sizeInBytes": 177,
+      "modifiedDate": 1767465369558,
+      "sizeInBytes": 194,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10722,7 +10839,6 @@
         "소속": [
           "2소대",
           "4중대",
-          "군대",
           "본부"
         ],
         "전역일": [
@@ -10730,6 +10846,10 @@
         ],
         "생활관": [
           "충성"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10737,20 +10857,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461130713,
-      "modifiedDate": 1767461164505,
-      "sizeInBytes": 96,
+      "modifiedDate": 1767465420596,
+      "sizeInBytes": 142,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10760,6 +10880,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "이상민",
         "계급": [
           "중사"
         ],
@@ -10767,9 +10888,12 @@
           "부소대장"
         ],
         "소속": [
-          "4중대",
-          "군대",
-          "3소대"
+          "3소대",
+          "4중대"
+        ],
+        "tags": [
+          "사람",
+          "군대"
         ]
       }
     },
@@ -10789,8 +10913,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461167119,
-      "modifiedDate": 1767464092756,
-      "sizeInBytes": 189,
+      "modifiedDate": 1767465371926,
+      "sizeInBytes": 206,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10811,14 +10935,17 @@
         "소속": [
           "1분대",
           "3소대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2605"
         ],
         "생활관": [
           "충성"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10826,20 +10953,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461217046,
-      "modifiedDate": 1767461239944,
-      "sizeInBytes": 127,
+      "modifiedDate": 1767465383268,
+      "sizeInBytes": 173,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10849,6 +10976,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "장정환",
         "계급": [
           "일병"
         ],
@@ -10856,13 +10984,16 @@
           "부포수"
         ],
         "소속": [
-          "4중대",
-          "군대",
+          "1분대",
           "3소대",
-          "1분대"
+          "4중대"
         ],
         "전역일": [
           "2611"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10882,8 +11013,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461242477,
-      "modifiedDate": 1767464290813,
-      "sizeInBytes": 178,
+      "modifiedDate": 1767465416788,
+      "sizeInBytes": 195,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10903,14 +11034,17 @@
         "소속": [
           "1분대",
           "3소대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2702"
         ],
         "생활관": [
           "책임"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10918,20 +11052,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461267633,
-      "modifiedDate": 1767461283786,
-      "sizeInBytes": 141,
+      "modifiedDate": 1767465264494,
+      "sizeInBytes": 198,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10941,21 +11075,26 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "김유년",
         "계급": [
           "일병"
         ],
         "보직": [
-          "탄약수",
-          "운전병"
+          "운전병",
+          "탄약수"
         ],
         "소속": [
-          "4중대",
-          "군대",
+          "1분대",
           "3소대",
-          "1분대"
+          "4중대",
+          "군대"
         ],
         "전역일": [
           "2610"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -10975,8 +11114,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461287067,
-      "modifiedDate": 1767461343176,
-      "sizeInBytes": 167,
+      "modifiedDate": 1767465237007,
+      "sizeInBytes": 195,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11002,6 +11141,10 @@
         ],
         "전역일": [
           "2604"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11021,8 +11164,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461321333,
-      "modifiedDate": 1767464050758,
-      "sizeInBytes": 178,
+      "modifiedDate": 1767465235463,
+      "sizeInBytes": 206,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11050,6 +11193,10 @@
         ],
         "생활관": [
           "충성"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11069,8 +11216,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461362079,
-      "modifiedDate": 1767464297837,
-      "sizeInBytes": 192,
+      "modifiedDate": 1767465288311,
+      "sizeInBytes": 220,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11099,6 +11246,10 @@
         ],
         "생활관": [
           "책임"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11118,8 +11269,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461416465,
-      "modifiedDate": 1767461471581,
-      "sizeInBytes": 167,
+      "modifiedDate": 1767465388891,
+      "sizeInBytes": 184,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11140,11 +11291,14 @@
         "소속": [
           "3분대",
           "3소대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11164,8 +11318,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461471428,
-      "modifiedDate": 1767464097182,
-      "sizeInBytes": 178,
+      "modifiedDate": 1767465248125,
+      "sizeInBytes": 206,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11193,6 +11347,10 @@
         ],
         "생활관": [
           "충성"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11212,8 +11370,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461495761,
-      "modifiedDate": 1767461521651,
-      "sizeInBytes": 170,
+      "modifiedDate": 1767465378388,
+      "sizeInBytes": 187,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11234,11 +11392,14 @@
         "소속": [
           "3분대",
           "3소대",
-          "4중대",
-          "군대"
+          "4중대"
         ],
         "전역일": [
           "2609"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11258,8 +11419,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461521503,
-      "modifiedDate": 1767461553585,
-      "sizeInBytes": 155,
+      "modifiedDate": 1767465382405,
+      "sizeInBytes": 172,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11279,11 +11440,14 @@
         "소속": [
           "3소대",
           "4중대",
-          "군대",
           "본부"
         ],
         "전역일": [
           "2611"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11303,8 +11467,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461553408,
-      "modifiedDate": 1767464060402,
-      "sizeInBytes": 177,
+      "modifiedDate": 1767465233896,
+      "sizeInBytes": 205,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11332,6 +11496,10 @@
         ],
         "생활관": [
           "충성"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11351,8 +11519,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461594073,
-      "modifiedDate": 1767462080064,
-      "sizeInBytes": 133,
+      "modifiedDate": 1767465334468,
+      "sizeInBytes": 150,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11362,6 +11530,10 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "tags": [
+          "군대",
+          "사람"
+        ],
         "title": "지창혁",
         "계급": [
           "상사"
@@ -11371,7 +11543,6 @@
         ],
         "소속": [
           "4중대",
-          "군대",
           "전투지원소대"
         ]
       }
@@ -11392,8 +11563,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461663078,
-      "modifiedDate": 1767462261924,
-      "sizeInBytes": 177,
+      "modifiedDate": 1767465421061,
+      "sizeInBytes": 194,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11413,10 +11584,13 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁1"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11436,8 +11610,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461720785,
-      "modifiedDate": 1767462070075,
-      "sizeInBytes": 165,
+      "modifiedDate": 1767465202178,
+      "sizeInBytes": 193,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11460,6 +11634,10 @@
           "군대",
           "대전차분대",
           "전투지원소대"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11467,20 +11645,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461734557,
-      "modifiedDate": 1767462099119,
-      "sizeInBytes": 137,
+      "modifiedDate": 1767465422984,
+      "sizeInBytes": 182,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11490,6 +11668,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "장수경",
         "계급": [
           "중사"
         ],
@@ -11499,9 +11678,12 @@
         "소속": [
           "4분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11521,8 +11703,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462101825,
-      "modifiedDate": 1767462621017,
-      "sizeInBytes": 199,
+      "modifiedDate": 1767465129772,
+      "sizeInBytes": 216,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11542,13 +11724,16 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁1"
         ],
         "전역일": [
           "2601"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11568,8 +11753,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462274080,
-      "modifiedDate": 1767462588849,
-      "sizeInBytes": 202,
+      "modifiedDate": 1767465358199,
+      "sizeInBytes": 219,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11589,13 +11774,16 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁2"
         ],
         "전역일": [
           "2602"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11615,8 +11803,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462314421,
-      "modifiedDate": 1767462576859,
-      "sizeInBytes": 199,
+      "modifiedDate": 1767465377697,
+      "sizeInBytes": 216,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11636,13 +11824,16 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁2"
         ],
         "전역일": [
           "2609"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11662,8 +11853,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462335992,
-      "modifiedDate": 1767462559199,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767465358751,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11684,13 +11875,16 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁2"
         ],
         "전역일": [
           "2602"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11710,8 +11904,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462364920,
-      "modifiedDate": 1767462548702,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767465103445,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11721,6 +11915,10 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "tags": [
+          "군대",
+          "사람"
+        ],
         "title": "김도연",
         "계급": [
           "병장"
@@ -11732,7 +11930,6 @@
         "소속": [
           "2분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁3"
@@ -11758,8 +11955,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462429648,
-      "modifiedDate": 1767462534184,
-      "sizeInBytes": 199,
+      "modifiedDate": 1767465386126,
+      "sizeInBytes": 216,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11779,13 +11976,16 @@
         "소속": [
           "2분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁4"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11805,8 +12005,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462473906,
-      "modifiedDate": 1767462527120,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767465407891,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11827,13 +12027,16 @@
         "소속": [
           "2분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁4"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11853,8 +12056,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462620873,
-      "modifiedDate": 1767464314110,
-      "sizeInBytes": 221,
+      "modifiedDate": 1767465417641,
+      "sizeInBytes": 238,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11874,7 +12077,6 @@
         "소속": [
           "3분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁5"
@@ -11884,6 +12086,10 @@
         ],
         "생활관": [
           "창의"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11903,8 +12109,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462674664,
-      "modifiedDate": 1767462738236,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767465360721,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11925,13 +12131,16 @@
         "소속": [
           "3분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁6"
         ],
         "전역일": [
           "2602"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11951,8 +12160,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462738072,
-      "modifiedDate": 1767462772552,
-      "sizeInBytes": 199,
+      "modifiedDate": 1767465364150,
+      "sizeInBytes": 216,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11972,13 +12181,16 @@
         "소속": [
           "4분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁7"
         ],
         "전역일": [
           "2603"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -11998,8 +12210,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462772386,
-      "modifiedDate": 1767464309462,
-      "sizeInBytes": 235,
+      "modifiedDate": 1767465415142,
+      "sizeInBytes": 252,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12020,7 +12232,6 @@
         "소속": [
           "4분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁7"
@@ -12030,6 +12241,10 @@
         ],
         "생활관": [
           "창의"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12049,8 +12264,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462795590,
-      "modifiedDate": 1767462822500,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767465408410,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12071,13 +12286,16 @@
         "소속": [
           "4분대",
           "4중대",
-          "군대",
           "대전차분대",
           "전투지원소대",
           "현궁8"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12097,8 +12315,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462822200,
-      "modifiedDate": 1767464072430,
-      "sizeInBytes": 226,
+      "modifiedDate": 1767465367621,
+      "sizeInBytes": 243,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12118,7 +12336,6 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "기관총1",
           "기관총분대",
           "전투지원소대"
@@ -12128,6 +12345,10 @@
         ],
         "생활관": [
           "충성"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12147,8 +12368,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462910153,
-      "modifiedDate": 1767462956220,
-      "sizeInBytes": 216,
+      "modifiedDate": 1767465379881,
+      "sizeInBytes": 233,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12169,13 +12390,16 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "기관총1",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2610"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12195,8 +12419,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462956032,
-      "modifiedDate": 1767463024191,
-      "sizeInBytes": 199,
+      "modifiedDate": 1767465361298,
+      "sizeInBytes": 216,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12216,13 +12440,16 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "기관총2",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2603"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12242,8 +12469,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463024035,
-      "modifiedDate": 1767463072512,
-      "sizeInBytes": 202,
+      "modifiedDate": 1767465374663,
+      "sizeInBytes": 219,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12263,13 +12490,16 @@
         "소속": [
           "1분대",
           "4중대",
-          "군대",
           "기관총2",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2608"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12289,8 +12519,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463072335,
-      "modifiedDate": 1767463660302,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767465159513,
+      "sizeInBytes": 241,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12318,6 +12548,10 @@
         ],
         "전역일": [
           "2608"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12337,8 +12571,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463113473,
-      "modifiedDate": 1767464300211,
-      "sizeInBytes": 224,
+      "modifiedDate": 1767465414606,
+      "sizeInBytes": 241,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12358,7 +12592,6 @@
         "소속": [
           "2분대",
           "4중대",
-          "군대",
           "기관총3",
           "기관총분대",
           "전투지원소대"
@@ -12368,6 +12601,10 @@
         ],
         "생활관": [
           "책임"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12387,8 +12624,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463137522,
-      "modifiedDate": 1767463684616,
-      "sizeInBytes": 199,
+      "modifiedDate": 1767465373161,
+      "sizeInBytes": 216,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12408,13 +12645,16 @@
         "소속": [
           "2분대",
           "4중대",
-          "군대",
           "기관총4",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2606"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12434,8 +12674,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463166828,
-      "modifiedDate": 1767463674255,
-      "sizeInBytes": 202,
+      "modifiedDate": 1767465408935,
+      "sizeInBytes": 219,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12455,13 +12695,16 @@
         "소속": [
           "2분대",
           "4중대",
-          "군대",
           "기관총4",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12481,8 +12724,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463196975,
-      "modifiedDate": 1767463755524,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767465375712,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12503,13 +12746,16 @@
         "소속": [
           "3분대",
           "4중대",
-          "군대",
           "기관총5",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2608"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12529,8 +12775,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463232855,
-      "modifiedDate": 1767463733313,
-      "sizeInBytes": 216,
+      "modifiedDate": 1767465388188,
+      "sizeInBytes": 233,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12551,13 +12797,16 @@
         "소속": [
           "3분대",
           "4중대",
-          "군대",
           "기관총5",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2612"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12577,8 +12826,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463269228,
-      "modifiedDate": 1767464037490,
-      "sizeInBytes": 223,
+      "modifiedDate": 1767465363508,
+      "sizeInBytes": 240,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12601,13 +12850,16 @@
         "소속": [
           "3분대",
           "4중대",
-          "군대",
           "기관총6",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2603"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12627,8 +12879,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463325979,
-      "modifiedDate": 1767463725003,
-      "sizeInBytes": 202,
+      "modifiedDate": 1767465357642,
+      "sizeInBytes": 219,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12648,13 +12900,16 @@
         "소속": [
           "3분대",
           "4중대",
-          "군대",
           "기관총6",
           "기관총분대",
           "전투지원소대"
         ],
         "전역일": [
           "2602"
+        ],
+        "tags": [
+          "군대",
+          "사람"
         ]
       }
     },
@@ -12755,8 +13010,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767463813886,
-      "modifiedDate": 1767464653928,
-      "sizeInBytes": 319,
+      "modifiedDate": 1767465209471,
+      "sizeInBytes": 340,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12782,8 +13037,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767463916698,
-      "modifiedDate": 1767464465086,
-      "sizeInBytes": 307,
+      "modifiedDate": 1767465557292,
+      "sizeInBytes": 354,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
