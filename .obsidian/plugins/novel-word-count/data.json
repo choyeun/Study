@@ -9562,7 +9562,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460085870,
-      "modifiedDate": 1767464081149,
+      "modifiedDate": 1767464253521,
       "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
@@ -9580,6 +9580,9 @@
         "보직": [
           "탄약수"
         ],
+        "생활관": [
+          "충성"
+        ],
         "소속": [
           "1분대",
           "1소대",
@@ -9588,9 +9591,6 @@
         ],
         "전역일": [
           "2605"
-        ],
-        "생활관": [
-          "충성"
         ]
       }
     },
@@ -9655,7 +9655,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460203922,
-      "modifiedDate": 1767464105691,
+      "modifiedDate": 1767464251072,
       "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
@@ -9673,6 +9673,9 @@
         "보직": [
           "부포수"
         ],
+        "생활관": [
+          "충성"
+        ],
         "소속": [
           "1소대",
           "2분대",
@@ -9681,9 +9684,6 @@
         ],
         "전역일": [
           "2604"
-        ],
-        "생활관": [
-          "충성"
         ]
       }
     },
@@ -9691,20 +9691,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 9,
+      "nonWhitespaceCharacterCount": 5,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.009773584905660378,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460254798,
-      "modifiedDate": 1767460305683,
-      "sizeInBytes": 128,
+      "modifiedDate": 1767464317718,
+      "sizeInBytes": 180,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9714,6 +9714,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "장민혁B",
         "계급": [
           "일병"
         ],
@@ -9728,6 +9729,9 @@
         ],
         "전역일": [
           "2704"
+        ],
+        "생활관": [
+          "창의"
         ]
       }
     },
@@ -9914,20 +9918,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460461495,
-      "modifiedDate": 1767460537668,
-      "sizeInBytes": 127,
+      "modifiedDate": 1767464284892,
+      "sizeInBytes": 177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9937,6 +9941,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "유지현",
         "계급": [
           "일병"
         ],
@@ -9951,6 +9956,9 @@
         ],
         "전역일": [
           "2702"
+        ],
+        "생활관": [
+          "책임"
         ]
       }
     },
@@ -10002,20 +10010,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460573412,
-      "modifiedDate": 1767460589144,
-      "sizeInBytes": 127,
+      "modifiedDate": 1767464311772,
+      "sizeInBytes": 177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10025,6 +10033,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "주형민",
         "계급": [
           "일병"
         ],
@@ -10039,6 +10048,9 @@
         ],
         "전역일": [
           "2702"
+        ],
+        "생활관": [
+          "창의"
         ]
       }
     },
@@ -10215,20 +10227,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460755665,
-      "modifiedDate": 1767460783667,
-      "sizeInBytes": 142,
+      "modifiedDate": 1767464279341,
+      "sizeInBytes": 192,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10238,6 +10250,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "전우진",
         "계급": [
           "일병"
         ],
@@ -10246,13 +10259,16 @@
           "탄약수"
         ],
         "소속": [
-          "군대",
+          "1분대",
           "2소대",
           "4중대",
-          "1분대"
+          "군대"
         ],
         "전역일": [
           "2701"
+        ],
+        "생활관": [
+          "책임"
         ]
       }
     },
@@ -10305,20 +10321,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460817665,
-      "modifiedDate": 1767460839606,
-      "sizeInBytes": 128,
+      "modifiedDate": 1767464316062,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10328,6 +10344,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "김인찬",
         "계급": [
           "일병"
         ],
@@ -10335,13 +10352,16 @@
           "탄약수"
         ],
         "소속": [
-          "군대",
+          "2분대",
           "2소대",
           "4중대",
-          "2분대"
+          "군대"
         ],
         "전역일": [
           "2704"
+        ],
+        "생활관": [
+          "창의"
         ]
       }
     },
@@ -10443,20 +10463,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 3,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
       "newlineCount": 4,
-      "readingTimeInMinutes": 0,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767460899454,
-      "modifiedDate": 1767460926531,
-      "sizeInBytes": 128,
+      "modifiedDate": 1767464287404,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10466,6 +10486,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "윤길한",
         "계급": [
           "일병"
         ],
@@ -10473,13 +10494,16 @@
           "탄약수"
         ],
         "소속": [
-          "군대",
           "2소대",
+          "3분대",
           "4중대",
-          "3분대"
+          "군대"
         ],
         "전역일": [
           "2702"
+        ],
+        "생활관": [
+          "책임"
         ]
       }
     },
@@ -10846,20 +10870,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461242477,
-      "modifiedDate": 1767461265154,
-      "sizeInBytes": 127,
+      "modifiedDate": 1767464290813,
+      "sizeInBytes": 178,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10869,6 +10893,7 @@
         "newlineCount": 0
       },
       "frontmatter": {
+        "title": "채찬민",
         "계급": [
           "일병"
         ],
@@ -10876,13 +10901,16 @@
           "탄약수"
         ],
         "소속": [
-          "4중대",
-          "군대",
+          "1분대",
           "3소대",
-          "1분대"
+          "4중대",
+          "군대"
         ],
         "전역일": [
           "2702"
+        ],
+        "생활관": [
+          "책임"
         ]
       }
     },
@@ -11041,8 +11069,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461362079,
-      "modifiedDate": 1767461441575,
-      "sizeInBytes": 170,
+      "modifiedDate": 1767464297837,
+      "sizeInBytes": 192,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11068,6 +11096,9 @@
         ],
         "전역일": [
           "2701"
+        ],
+        "생활관": [
+          "책임"
         ]
       }
     },
@@ -11822,8 +11853,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462620873,
-      "modifiedDate": 1767462674802,
-      "sizeInBytes": 199,
+      "modifiedDate": 1767464314110,
+      "sizeInBytes": 221,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11850,6 +11881,9 @@
         ],
         "전역일": [
           "2703"
+        ],
+        "생활관": [
+          "창의"
         ]
       }
     },
@@ -11964,8 +11998,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767462772386,
-      "modifiedDate": 1767462795723,
-      "sizeInBytes": 213,
+      "modifiedDate": 1767464309462,
+      "sizeInBytes": 235,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11993,6 +12027,9 @@
         ],
         "전역일": [
           "2702"
+        ],
+        "생활관": [
+          "창의"
         ]
       }
     },
@@ -12300,8 +12337,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767463113473,
-      "modifiedDate": 1767463694042,
-      "sizeInBytes": 202,
+      "modifiedDate": 1767464300211,
+      "sizeInBytes": 224,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12328,6 +12365,9 @@
         ],
         "전역일": [
           "2702"
+        ],
+        "생활관": [
+          "책임"
         ]
       }
     },
@@ -12661,8 +12701,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767463487945,
-      "modifiedDate": 1767463668952,
-      "sizeInBytes": 211,
+      "modifiedDate": 1767464546325,
+      "sizeInBytes": 308,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12688,8 +12728,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767463706865,
-      "modifiedDate": 1767463807427,
-      "sizeInBytes": 211,
+      "modifiedDate": 1767464534979,
+      "sizeInBytes": 308,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -12742,8 +12782,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767463916698,
-      "modifiedDate": 1767464047146,
-      "sizeInBytes": 332,
+      "modifiedDate": 1767464465086,
+      "sizeInBytes": 307,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
