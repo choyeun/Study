@@ -8972,6 +8972,279 @@
           "[[자료 구조]]"
         ]
       }
+    },
+    "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.039773584905660374,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767443908980,
+      "modifiedDate": 1767443931174,
+      "sizeInBytes": 98,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "README"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.01 행정/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 59,
+      "nonWhitespaceCharacterCount": 41,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.057773584905660376,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Readme"
+      ],
+      "createdDate": 1767443876446,
+      "modifiedDate": 1767443936993,
+      "sizeInBytes": 190,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Readme"
+        ],
+        "linter-yaml-title-alias": "Readme",
+        "title": "Readme"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.03 생활/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 32,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.05154716981132075,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767443942263,
+      "modifiedDate": 1767443973764,
+      "sizeInBytes": 112,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "README"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.04 건강 & 의료/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 45,
+      "nonWhitespaceCharacterCount": 29,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.04577358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767443973651,
+      "modifiedDate": 1767444001644,
+      "sizeInBytes": 108,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "README"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 33,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.047773584905660374,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767444001511,
+      "modifiedDate": 1767444032572,
+      "sizeInBytes": 111,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "README"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.06 기록 & 회고/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 60,
+      "nonWhitespaceCharacterCount": 41,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.057094339622641516,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767444032423,
+      "modifiedDate": 1767444071590,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "README"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.07 외출 & 휴가/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 27,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.04377358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767444071472,
+      "modifiedDate": 1767444092520,
+      "sizeInBytes": 103,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "README"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.08 전역 준비/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 56,
+      "nonWhitespaceCharacterCount": 37,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.05977358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767444092398,
+      "modifiedDate": 1767444111411,
+      "sizeInBytes": 133,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "README"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.99 자료 & 참고/README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 16,
+      "nonWhitespaceCharacterCount": 11,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.019773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767444111270,
+      "modifiedDate": 1767444129628,
+      "sizeInBytes": 32,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
