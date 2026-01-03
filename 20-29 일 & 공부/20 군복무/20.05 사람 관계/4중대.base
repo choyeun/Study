@@ -15,5 +15,4 @@ views:
       - property: 전역일
         direction: ASC
     columnSize:
-      note.보직: 139
-      note.전역일: 76
+      note.보직: 164
