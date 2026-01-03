@@ -8,13 +8,13 @@ views:
     order:
       - file.name
       - 계급
-      - 보직
       - 전역일
-      - 생활관
       - 소속
+      - 보직
+      - 생활관
     sort:
       - property: 전역일
         direction: ASC
     columnSize:
+      note.소속: 380
       note.보직: 164
-      note.tags: 142
