@@ -9265,8 +9265,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767459511878,
-      "modifiedDate": 1767459618228,
-      "sizeInBytes": 84,
+      "modifiedDate": 1767459776204,
+      "sizeInBytes": 106,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -9278,6 +9278,9 @@
       "frontmatter": {
         "title": "오창선",
         "계급": "대위",
+        "보직": [
+          "중대장"
+        ],
         "소속": [
           "4중대",
           "군대"
@@ -9288,20 +9291,2136 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767459618047,
-      "modifiedDate": 1767459618047,
-      "sizeInBytes": 0,
+      "modifiedDate": 1767459789916,
+      "sizeInBytes": 116,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "이영태",
+        "계급": [
+          "상사"
+        ],
+        "소속": [
+          "4중대",
+          "군대"
+        ],
+        "보직": [
+          "행정보급관"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김태민.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767459799809,
+      "modifiedDate": 1767459976952,
+      "sizeInBytes": 140,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "김태민",
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "계원",
+          "병기"
+        ],
+        "소속": [
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2612"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/조유식.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767459833696,
+      "modifiedDate": 1767459999504,
+      "sizeInBytes": 122,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "계원",
+          "통신",
+          "행정"
+        ],
+        "소속": [
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2612"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김규민.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767459906463,
+      "modifiedDate": 1767459987783,
+      "sizeInBytes": 154,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "김규민",
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "계원",
+          "보급",
+          "조종수"
+        ],
+        "소속": [
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2612"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/정순모.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460001857,
+      "modifiedDate": 1767460039082,
+      "sizeInBytes": 93,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상사"
+        ],
+        "보직": [
+          "소대장"
+        ],
+        "소속": [
+          "4중대",
+          "군대",
+          "1소대"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/양정렴.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460046317,
+      "modifiedDate": 1767460123908,
+      "sizeInBytes": 167,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "양정렴",
+        "계급": [
+          "병장"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "1분대",
+          "1소대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2602"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김선우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460085870,
+      "modifiedDate": 1767460170514,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "탄약수"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "1분대"
+        ],
+        "전역일": [
+          "2605"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/구영준.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460171961,
+      "modifiedDate": 1767460196540,
+      "sizeInBytes": 141,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "탄약수",
+          "운전병"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "1분대"
+        ],
+        "전역일": [
+          "2607"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김민재.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460203922,
+      "modifiedDate": 1767460299022,
+      "sizeInBytes": 156,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "김민재",
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "부포수"
+        ],
+        "소속": [
+          "1소대",
+          "2분대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2604"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/장민혁B.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460254798,
+      "modifiedDate": 1767460305683,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "탄약수"
+        ],
+        "소속": [
+          "1소대",
+          "2분대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2704"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김경록.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460309309,
+      "modifiedDate": 1767460333046,
+      "sizeInBytes": 142,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "탄약수",
+          "운전병"
+        ],
+        "소속": [
+          "1소대",
+          "2분대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2609"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/최유준.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460340563,
+      "modifiedDate": 1767460379945,
+      "sizeInBytes": 139,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "3분대"
+        ],
+        "전역일": [
+          "2611"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이강산.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460397747,
+      "modifiedDate": 1767460439493,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "병장"
+        ],
+        "보직": [
+          "탄약수"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "3분대"
+        ],
+        "전역일": [
+          "2601"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/도연우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460443437,
+      "modifiedDate": 1767460451807,
+      "sizeInBytes": 142,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "병장"
+        ],
+        "보직": [
+          "탄약수",
+          "운전병"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "3분대"
+        ],
+        "전역일": [
+          "2601"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/유지현.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460461495,
+      "modifiedDate": 1767460537668,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "계산병"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2702"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이선우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460541900,
+      "modifiedDate": 1767460564718,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "통신병"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2612"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/주형민.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460573412,
+      "modifiedDate": 1767460589144,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "운전병"
+        ],
+        "소속": [
+          "1소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2702"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/정대철.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460601678,
+      "modifiedDate": 1767460636660,
+      "sizeInBytes": 94,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상사"
+        ],
+        "보직": [
+          "소대장"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이대희.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460645353,
+      "modifiedDate": 1767460664015,
+      "sizeInBytes": 97,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "중사"
+        ],
+        "보직": [
+          "부소대장"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김민성.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460675343,
+      "modifiedDate": 1767460709863,
+      "sizeInBytes": 139,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "1분대"
+        ],
+        "전역일": [
+          "2612"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이준석A.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460719636,
+      "modifiedDate": 1767460750000,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "부포수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "1분대"
+        ],
+        "전역일": [
+          "2604"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/전우진.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460755665,
+      "modifiedDate": 1767460783667,
+      "sizeInBytes": 142,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "운전병",
+          "탄약수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "1분대"
+        ],
+        "전역일": [
+          "2701"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김홍필.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460789399,
+      "modifiedDate": 1767460813806,
+      "sizeInBytes": 139,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "2분대"
+        ],
+        "전역일": [
+          "2611"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김인찬.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460817665,
+      "modifiedDate": 1767460839606,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "탄약수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "2분대"
+        ],
+        "전역일": [
+          "2704"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/한승민.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460847459,
+      "modifiedDate": 1767460862808,
+      "sizeInBytes": 142,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "병장"
+        ],
+        "보직": [
+          "탄약수",
+          "운전병"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "2분대"
+        ],
+        "전역일": [
+          "2601"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/조연준.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460869200,
+      "modifiedDate": 1767460893081,
+      "sizeInBytes": 139,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "3분대"
+        ],
+        "전역일": [
+          "2604"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/윤길한.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460899454,
+      "modifiedDate": 1767460926531,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "탄약수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "3분대"
+        ],
+        "전역일": [
+          "2702"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이성주.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460929583,
+      "modifiedDate": 1767460987009,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "탄약수"
+        ],
+        "소속": [
+          "군대",
+          "2소대",
+          "4중대",
+          "3분대"
+        ],
+        "전역일": [
+          "2601"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/강수원.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767460993617,
+      "modifiedDate": 1767461091267,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "강수원",
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "관측병"
+        ],
+        "소속": [
+          "2소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2610"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/박종훈.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461030880,
+      "modifiedDate": 1767461095167,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "박종훈",
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "계산병"
+        ],
+        "소속": [
+          "2소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2612"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김건민.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461052857,
+      "modifiedDate": 1767461104909,
+      "sizeInBytes": 126,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "통신병"
+        ],
+        "소속": [
+          "2소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2609"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김동우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461107460,
+      "modifiedDate": 1767461123992,
+      "sizeInBytes": 126,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "운전병"
+        ],
+        "소속": [
+          "2소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2605"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이상민.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461130713,
+      "modifiedDate": 1767461164505,
+      "sizeInBytes": 96,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "중사"
+        ],
+        "보직": [
+          "부소대장"
+        ],
+        "소속": [
+          "4중대",
+          "군대",
+          "3소대"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/최현준.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461167119,
+      "modifiedDate": 1767461208773,
+      "sizeInBytes": 138,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "4중대",
+          "군대",
+          "3소대",
+          "1분대"
+        ],
+        "전역일": [
+          "2605"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/장정환.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461217046,
+      "modifiedDate": 1767461239944,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "부포수"
+        ],
+        "소속": [
+          "4중대",
+          "군대",
+          "3소대",
+          "1분대"
+        ],
+        "전역일": [
+          "2611"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/채찬민.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461242477,
+      "modifiedDate": 1767461265154,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "탄약수"
+        ],
+        "소속": [
+          "4중대",
+          "군대",
+          "3소대",
+          "1분대"
+        ],
+        "전역일": [
+          "2702"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김유년.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461267633,
+      "modifiedDate": 1767461283786,
+      "sizeInBytes": 141,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "탄약수",
+          "운전병"
+        ],
+        "소속": [
+          "4중대",
+          "군대",
+          "3소대",
+          "1분대"
+        ],
+        "전역일": [
+          "2610"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김진혁.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461287067,
+      "modifiedDate": 1767461343176,
+      "sizeInBytes": 167,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "김진혁",
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "2분대",
+          "3소대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2604"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/진선우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461321333,
+      "modifiedDate": 1767461362232,
+      "sizeInBytes": 156,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "진선우",
+        "계급": [
+          "병장"
+        ],
+        "보직": [
+          "부포수"
+        ],
+        "소속": [
+          "2분대",
+          "3소대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2603"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/윤서용.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461362079,
+      "modifiedDate": 1767461441575,
+      "sizeInBytes": 170,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "윤서용",
+        "계급": [
+          "병장"
+        ],
+        "보직": [
+          "운전병",
+          "탄약수"
+        ],
+        "소속": [
+          "2분대",
+          "3소대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2701"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김은광.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461416465,
+      "modifiedDate": 1767461471581,
+      "sizeInBytes": 167,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "김은광",
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "분대장",
+          "포수"
+        ],
+        "소속": [
+          "3분대",
+          "3소대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2612"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이근우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461471428,
+      "modifiedDate": 1767461495941,
+      "sizeInBytes": 156,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "이근우",
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "부포수"
+        ],
+        "소속": [
+          "3분대",
+          "3소대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2605"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/호재우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461495761,
+      "modifiedDate": 1767461521651,
+      "sizeInBytes": 170,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "호재우",
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "운전병",
+          "탄약수"
+        ],
+        "소속": [
+          "3분대",
+          "3소대",
+          "4중대",
+          "군대"
+        ],
+        "전역일": [
+          "2609"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/노유성.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461521503,
+      "modifiedDate": 1767461553585,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "노유성",
+        "계급": [
+          "일병"
+        ],
+        "보직": [
+          "관측병"
+        ],
+        "소속": [
+          "3소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2611"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이윤서.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461553408,
+      "modifiedDate": 1767461594315,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "이윤서",
+        "계급": [
+          "상병"
+        ],
+        "보직": [
+          "계산병"
+        ],
+        "소속": [
+          "3소대",
+          "4중대",
+          "군대",
+          "본부"
+        ],
+        "전역일": [
+          "2603"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/지창혁.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461594073,
+      "modifiedDate": 1767461663304,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "지창혁",
+        "계급": [
+          "상사"
+        ],
+        "보직": [
+          "소대장"
+        ],
+        "소속": [
+          "4중대",
+          "군대",
+          "전투지원"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이성대.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461663078,
+      "modifiedDate": 1767461720973,
+      "sizeInBytes": 159,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "이성대",
+        "계급": [
+          "상사"
+        ],
+        "보직": [
+          "분대장"
+        ],
+        "소속": [
+          "1분대",
+          "4중대",
+          "군대",
+          "대전차분대",
+          "전투지원"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/임진성.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 4,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.006,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461720785,
+      "modifiedDate": 1767461734755,
+      "sizeInBytes": 159,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "임진성",
+        "계급": [
+          "중사"
+        ],
+        "보직": [
+          "분대장"
+        ],
+        "소속": [
+          "2분대",
+          "4중대",
+          "군대",
+          "대전차분대",
+          "전투지원"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/장수경.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 40,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.05177358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767461734557,
+      "modifiedDate": 1767461739981,
+      "sizeInBytes": 117,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

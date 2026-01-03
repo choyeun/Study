@@ -41,6 +41,8 @@
     "작품 번호": "number",
     "점수": "number",
     "보는중": "checkbox",
-    "계급": "multitext"
+    "계급": "multitext",
+    "보직": "multitext",
+    "전역일": "multitext"
   }
 }
