@@ -178,6 +178,16 @@
         "id": "f23cc61c2a8b6515",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "229b99daddfdc9a7",
+        "type": "leaf",
+        "state": {
           "type": "graph-analysis",
           "state": {},
           "icon": "GA-ICON",
@@ -206,15 +216,18 @@
       "open-gate:discord": false,
       "open-gate:Novelpia": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "obsidian-task-progress-bar:Open Task Genius view": false,
       "widgets:Add widget": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
       "daily-notes-editor:Open Daily Note Editor": false,
-      "korean-spellchecker:Check spelling": false
+      "korean-spellchecker:Check spelling": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "29b6d53c2c145ce2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/4중대.base",
+    "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md"
+  ]
 }
