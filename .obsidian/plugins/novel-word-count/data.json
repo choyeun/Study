@@ -11292,8 +11292,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461594073,
-      "modifiedDate": 1767461663304,
-      "sizeInBytes": 127,
+      "modifiedDate": 1767462080064,
+      "sizeInBytes": 133,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11313,7 +11313,7 @@
         "소속": [
           "4중대",
           "군대",
-          "전투지원"
+          "전투지원소대"
         ]
       }
     },
@@ -11333,8 +11333,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461663078,
-      "modifiedDate": 1767461720973,
-      "sizeInBytes": 159,
+      "modifiedDate": 1767462073151,
+      "sizeInBytes": 165,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11356,7 +11356,7 @@
           "4중대",
           "군대",
           "대전차분대",
-          "전투지원"
+          "전투지원소대"
         ]
       }
     },
@@ -11376,8 +11376,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461720785,
-      "modifiedDate": 1767461734755,
-      "sizeInBytes": 159,
+      "modifiedDate": 1767462070075,
+      "sizeInBytes": 165,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11395,11 +11395,11 @@
           "분대장"
         ],
         "소속": [
-          "2분대",
+          "3분대",
           "4중대",
           "군대",
           "대전차분대",
-          "전투지원"
+          "전투지원소대"
         ]
       }
     },
@@ -11407,20 +11407,62 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 40,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.05177358490566038,
+      "pageCount": 0,
+      "characterCount": 3,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767461734557,
-      "modifiedDate": 1767461739981,
-      "sizeInBytes": 117,
+      "modifiedDate": 1767462099119,
+      "sizeInBytes": 137,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "계급": [
+          "중사"
+        ],
+        "보직": [
+          "분대장"
+        ],
+        "소속": [
+          "4분대",
+          "4중대",
+          "군대",
+          "대전차분대",
+          "전투지원소대"
+        ]
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/장수경 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 81,
+      "nonWhitespaceCharacterCount": 46,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.06354716981132076,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767462101825,
+      "modifiedDate": 1767462099119,
+      "sizeInBytes": 137,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
