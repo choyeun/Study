@@ -70,33 +70,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "SATA 규격 조사 보고서.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1748616753535,
-      "modifiedDate": 1748616753545,
-      "sizeInBytes": 299550,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "무제.base": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -124,7 +97,7 @@
         "newlineCount": 0
       }
     },
-    "SATA 규격 조사 보고서.odt": {
+    "SATA 규격 조사 보고서.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -139,9 +112,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1748616628865,
-      "modifiedDate": 1748616629053,
-      "sizeInBytes": 68882,
+      "createdDate": 1748616753535,
+      "modifiedDate": 1748616753545,
+      "sizeInBytes": 299550,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -178,6 +151,33 @@
         "newlineCount": 0
       }
     },
+    "SATA 규격 조사 보고서.odt": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1748616628865,
+      "modifiedDate": 1748616629053,
+      "sizeInBytes": 68882,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "generate_folder_structure.py": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -196,33 +196,6 @@
       "createdDate": 1716773121980,
       "modifiedDate": 1727924986554,
       "sizeInBytes": 1562,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/합집합.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741628090726,
-      "modifiedDate": 1760290923580,
-      "sizeInBytes": 65,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -259,7 +232,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/프로그래밍 입문.md": {
+    "00-09 시스템/00.00 Inbox/합집합.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -274,9 +247,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741795406662,
-      "modifiedDate": 1760290923572,
-      "sizeInBytes": 93,
+      "createdDate": 1741628090726,
+      "modifiedDate": 1760290923580,
+      "sizeInBytes": 65,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -313,6 +286,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/프로그래밍 입문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741795406662,
+      "modifiedDate": 1760290923572,
+      "sizeInBytes": 93,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/차집합.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -331,6 +331,33 @@
       "createdDate": 1741628115423,
       "modifiedDate": 1760290923562,
       "sizeInBytes": 109,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/정수.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741627981606,
+      "modifiedDate": 1760290923553,
+      "sizeInBytes": 59,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -367,7 +394,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/정수.md": {
+    "00-09 시스템/00.00 Inbox/임시.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -382,9 +409,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741627981606,
-      "modifiedDate": 1760290923553,
-      "sizeInBytes": 59,
+      "createdDate": 1742087657248,
+      "modifiedDate": 1760290923537,
+      "sizeInBytes": 2927,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -475,7 +502,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/임시.md": {
+    "00-09 시스템/00.00 Inbox/인공지능개론_중간고사정리_20241017T124807.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -490,9 +517,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742087657248,
-      "modifiedDate": 1760290923537,
-      "sizeInBytes": 2927,
+      "createdDate": 1729336659566,
+      "modifiedDate": 1760290923531,
+      "sizeInBytes": 2397,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -520,33 +547,6 @@
       "createdDate": 1741794310725,
       "modifiedDate": 1760290923534,
       "sizeInBytes": 114,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/인공지능개론_중간고사정리_20241017T124807.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1729336659566,
-      "modifiedDate": 1760290923531,
-      "sizeInBytes": 2397,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -721,6 +721,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/시험.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1745256205906,
+      "modifiedDate": 1760290923510,
+      "sizeInBytes": 914,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/쌍별 서로소 집합.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -775,60 +802,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/시험.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1745256205906,
-      "modifiedDate": 1760290923510,
-      "sizeInBytes": 914,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/사고와 표현.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741618191074,
-      "modifiedDate": 1760290923506,
-      "sizeInBytes": 100,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/부분집합.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -847,60 +820,6 @@
       "createdDate": 1741628051529,
       "modifiedDate": 1760290923503,
       "sizeInBytes": 82,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/박은화.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741796615929,
-      "modifiedDate": 1760290923500,
-      "sizeInBytes": 156,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/멱집합.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741628071681,
-      "modifiedDate": 1760290923492,
-      "sizeInBytes": 61,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -937,6 +856,60 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/사고와 표현.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741618191074,
+      "modifiedDate": 1760290923506,
+      "sizeInBytes": 100,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/박은화.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741796615929,
+      "modifiedDate": 1760290923500,
+      "sizeInBytes": 156,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/무제 파일.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -964,33 +937,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/리눅스 시스템.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741618093478,
-      "modifiedDate": 1760290923489,
-      "sizeInBytes": 106,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/리눅스 시스템 11주 과제.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1009,6 +955,60 @@
       "createdDate": 1747653389717,
       "modifiedDate": 1760290923487,
       "sizeInBytes": 9595,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/멱집합.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741628071681,
+      "modifiedDate": 1760290923492,
+      "sizeInBytes": 61,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/리눅스 시스템.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741618093478,
+      "modifiedDate": 1760290923489,
+      "sizeInBytes": 106,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1099,33 +1099,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/기말 정리.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1729336659565,
-      "modifiedDate": 1760290169407,
-      "sizeInBytes": 2465,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/권희용.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1144,6 +1117,33 @@
       "createdDate": 1741796768996,
       "modifiedDate": 1760290169404,
       "sizeInBytes": 152,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/기말 정리.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1729336659565,
+      "modifiedDate": 1760290169407,
+      "sizeInBytes": 2465,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1180,6 +1180,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/Web2024E7109_김인찬_기말평가_202401.hwp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1719045363966,
+      "modifiedDate": 1719282468434,
+      "sizeInBytes": 5191168,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/공집합.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1207,8 +1234,8 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/Web2024E7109_김인찬_기말평가_202401.hwp": {
-      "isCountable": false,
+    "00-09 시스템/00.00 Inbox/Truth table.md": {
+      "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -1222,9 +1249,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1719045363966,
-      "modifiedDate": 1719282468434,
-      "sizeInBytes": 5191168,
+      "createdDate": 1742218585518,
+      "modifiedDate": 1760290169400,
+      "sizeInBytes": 133,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1315,7 +1342,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/Truth table.md": {
+    "00-09 시스템/00.00 Inbox/sufficient conclusion.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1330,9 +1357,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1742218585518,
-      "modifiedDate": 1760290169400,
-      "sizeInBytes": 133,
+      "createdDate": 1742221978183,
+      "modifiedDate": 1760290169438,
+      "sizeInBytes": 177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1369,33 +1396,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/sufficient conclusion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742221978183,
-      "modifiedDate": 1760290169438,
-      "sizeInBytes": 177,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/student_scores_korean_fruits.csv": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1414,33 +1414,6 @@
       "createdDate": 1729756105224,
       "modifiedDate": 1729756105224,
       "sizeInBytes": 1536,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/SATA 규격 조사 보고서.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1748616081300,
-      "modifiedDate": 1760290169441,
-      "sizeInBytes": 8293,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1477,7 +1450,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/QuickCapture.md": {
+    "00-09 시스템/00.00 Inbox/SATA 규격 조사 보고서.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1492,36 +1465,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1757852607336,
-      "modifiedDate": 1760290169450,
-      "sizeInBytes": 77,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/quene.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1743225782209,
-      "modifiedDate": 1760290169448,
-      "sizeInBytes": 120,
+      "createdDate": 1748616081300,
+      "modifiedDate": 1760290169441,
+      "sizeInBytes": 8293,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1576,6 +1522,60 @@
       "createdDate": 1741439083912,
       "modifiedDate": 1741439083912,
       "sizeInBytes": 23463,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/QuickCapture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1757852607336,
+      "modifiedDate": 1760290169450,
+      "sizeInBytes": 77,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/quene.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743225782209,
+      "modifiedDate": 1760290169448,
+      "sizeInBytes": 120,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1747,33 +1747,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/Novel/아카데미 흑막의 딸이 되었다.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742643380363,
-      "modifiedDate": 1760290923401,
-      "sizeInBytes": 486,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/Novel/악의 과학자가 너무 유능하다.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1792,6 +1765,33 @@
       "createdDate": 1742643380363,
       "modifiedDate": 1760290923404,
       "sizeInBytes": 469,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/Novel/아카데미 흑막의 딸이 되었다.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742643380363,
+      "modifiedDate": 1760290923401,
+      "sizeInBytes": 486,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1963,87 +1963,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA3036_컴퓨터구조/컴퓨터 시스템 개요.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741439083911,
-      "modifiedDate": 1760290923393,
-      "sizeInBytes": 6692,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA3036_컴퓨터구조/컴퓨터 구조 OT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741439083910,
-      "modifiedDate": 1760290923391,
-      "sizeInBytes": 1206,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA3036_컴퓨터구조/CPU의 구조와 기능.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741970851875,
-      "modifiedDate": 1760290923396,
-      "sizeInBytes": 1240,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/necessary condition.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2071,7 +1990,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA3035_이산수학/집합.md": {
+    "00-09 시스템/00.00 Inbox/NA3035_이산수학/이산수학 OT.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2086,9 +2005,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741618349656,
-      "modifiedDate": 1760290923386,
-      "sizeInBytes": 3352,
+      "createdDate": 1741439083910,
+      "modifiedDate": 1760290923380,
+      "sizeInBytes": 338,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2152,6 +2071,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/NA3035_이산수학/집합.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741618349656,
+      "modifiedDate": 1760290923386,
+      "sizeInBytes": 3352,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/NA3035_이산수학/명제.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2170,33 +2116,6 @@
       "createdDate": 1742216648422,
       "modifiedDate": 1760290923383,
       "sizeInBytes": 2368,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA3035_이산수학/이산수학 OT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741439083910,
-      "modifiedDate": 1760290923380,
-      "sizeInBytes": 338,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2341,6 +2260,87 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/NA3036_컴퓨터구조/CPU의 구조와 기능.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741970851875,
+      "modifiedDate": 1760290923396,
+      "sizeInBytes": 1240,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA3036_컴퓨터구조/컴퓨터 시스템 개요.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741439083911,
+      "modifiedDate": 1760290923393,
+      "sizeInBytes": 6692,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA3036_컴퓨터구조/컴퓨터 구조 OT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741439083910,
+      "modifiedDate": 1760290923391,
+      "sizeInBytes": 1206,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/NA3034_리눅스 시스템/리눅스 시스템 OT.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2359,6 +2359,33 @@
       "createdDate": 1741439083909,
       "modifiedDate": 1760290923366,
       "sizeInBytes": 332,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA3034_리눅스 시스템/fedora install.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741439083909,
+      "modifiedDate": 1760290923364,
+      "sizeInBytes": 362,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2395,7 +2422,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA3034_리눅스 시스템/fedora install.md": {
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/프로그래밍 입문 기말 고사 일정.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2410,9 +2437,387 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1741439083909,
-      "modifiedDate": 1760290923364,
-      "sizeInBytes": 362,
+      "createdDate": 1717842149529,
+      "modifiedDate": 1760290923185,
+      "sizeInBytes": 219,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/프로그래밍 입문 기말 과제.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1717267526898,
+      "modifiedDate": 1760290923186,
+      "sizeInBytes": 571,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/기말_점검.c": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1717842149529,
+      "modifiedDate": 1719056942260,
+      "sizeInBytes": 212,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/프로그램의 흐름 제어 구조.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564192902,
+      "modifiedDate": 1760290923362,
+      "sizeInBytes": 312,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/중첩 (nested) 반복문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564446560,
+      "modifiedDate": 1760290923355,
+      "sizeInBytes": 149,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/다양한 증감수식의 형태.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564416644,
+      "modifiedDate": 1760290923357,
+      "sizeInBytes": 163,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/센티널(경계값의 이용).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564269367,
+      "modifiedDate": 1760290923360,
+      "sizeInBytes": 294,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/While 반복과 for 반복 비교.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564395391,
+      "modifiedDate": 1760290923354,
+      "sizeInBytes": 165,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/While 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564234469,
+      "modifiedDate": 1760290923350,
+      "sizeInBytes": 147,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/do…while 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564299636,
+      "modifiedDate": 1760290923342,
+      "sizeInBytes": 177,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/For 루프.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564350337,
+      "modifiedDate": 1760290923346,
+      "sizeInBytes": 119,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/For 문의 실행과정.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564371224,
+      "modifiedDate": 1760290923349,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/Continue 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564446560,
+      "modifiedDate": 1760290923341,
+      "sizeInBytes": 143,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/Break 문.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861917,
+      "modifiedDate": 1760290923340,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/잘못된 인덱스 문제.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861909,
+      "modifiedDate": 1760290923323,
+      "sizeInBytes": 293,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2467,33 +2872,6 @@
       "createdDate": 1718637861909,
       "modifiedDate": 1760290923319,
       "sizeInBytes": 311,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/잘못된 인덱스 문제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861909,
-      "modifiedDate": 1760290923323,
-      "sizeInBytes": 293,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2611,33 +2989,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/배열의복사, 비교.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861908,
-      "modifiedDate": 1760290923307,
-      "sizeInBytes": 145,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/배열의 초기화.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2656,6 +3007,33 @@
       "createdDate": 1718637861907,
       "modifiedDate": 1760290923301,
       "sizeInBytes": 137,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/배열의복사, 비교.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861908,
+      "modifiedDate": 1760290923307,
+      "sizeInBytes": 145,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2692,33 +3070,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/배열.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861907,
-      "modifiedDate": 1760290923288,
-      "sizeInBytes": 380,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/배열 원소의 개수 계산.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2737,6 +3088,33 @@
       "createdDate": 1718637861907,
       "modifiedDate": 1760290923292,
       "sizeInBytes": 159,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/배열.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861907,
+      "modifiedDate": 1760290923288,
+      "sizeInBytes": 380,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2827,6 +3205,45 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/2차원 배열.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 61,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 114,
+      "nonWhitespaceCharacterCount": 83,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.13264150943396227,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "2 차원 배열"
+      ],
+      "createdDate": 1718637861904,
+      "modifiedDate": 1760290923277,
+      "sizeInBytes": 365,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.20333333333333334,
+        "wordCount": 61,
+        "characterCount": 114,
+        "nonWhitespaceCharacterCount": 83,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "aliases": [
+          "2 차원 배열"
+        ],
+        "linter-yaml-title-alias": "2 차원 배열",
+        "title": "2 차원 배열",
+        "과목": [
+          "[[프로그래밍 입문]]"
+        ]
+      }
+    },
     "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/다차원 배열 인수.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2891,423 +3308,6 @@
         "과목": [
           "[[프로그래밍 입문]]"
         ]
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/12. 배열/2차원 배열.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 61,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.20333333333333334,
-      "characterCount": 114,
-      "nonWhitespaceCharacterCount": 83,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.13264150943396227,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "2 차원 배열"
-      ],
-      "createdDate": 1718637861904,
-      "modifiedDate": 1760290923277,
-      "sizeInBytes": 365,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.20333333333333334,
-        "wordCount": 61,
-        "characterCount": 114,
-        "nonWhitespaceCharacterCount": 83,
-        "newlineCount": 6
-      },
-      "frontmatter": {
-        "aliases": [
-          "2 차원 배열"
-        ],
-        "linter-yaml-title-alias": "2 차원 배열",
-        "title": "2 차원 배열",
-        "과목": [
-          "[[프로그래밍 입문]]"
-        ]
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/프로그래밍 입문 기말 과제.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1717267526898,
-      "modifiedDate": 1760290923186,
-      "sizeInBytes": 571,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/프로그래밍 입문 기말 고사 일정.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1717842149529,
-      "modifiedDate": 1760290923185,
-      "sizeInBytes": 219,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/기말_점검.c": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1717842149529,
-      "modifiedDate": 1719056942260,
-      "sizeInBytes": 212,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/프로그램의 흐름 제어 구조.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564192902,
-      "modifiedDate": 1760290923362,
-      "sizeInBytes": 312,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/중첩 (nested) 반복문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564446560,
-      "modifiedDate": 1760290923355,
-      "sizeInBytes": 149,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/센티널(경계값의 이용).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564269367,
-      "modifiedDate": 1760290923360,
-      "sizeInBytes": 294,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/다양한 증감수식의 형태.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564416644,
-      "modifiedDate": 1760290923357,
-      "sizeInBytes": 163,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/While 반복과 for 반복 비교.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564395391,
-      "modifiedDate": 1760290923354,
-      "sizeInBytes": 165,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/While 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564234469,
-      "modifiedDate": 1760290923350,
-      "sizeInBytes": 147,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/For 문의 실행과정.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564371224,
-      "modifiedDate": 1760290923349,
-      "sizeInBytes": 145,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/For 루프.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564350337,
-      "modifiedDate": 1760290923346,
-      "sizeInBytes": 119,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/do…while 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564299636,
-      "modifiedDate": 1760290923342,
-      "sizeInBytes": 177,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/Continue 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564446560,
-      "modifiedDate": 1760290923341,
-      "sizeInBytes": 143,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/9. 반복문/Break 문.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861917,
-      "modifiedDate": 1760290923340,
-      "sizeInBytes": 145,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     },
     "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/8. 조건문/중첩 if.md": {
@@ -3472,6 +3472,411 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/하노이 탑.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861904,
+      "modifiedDate": 1760290923258,
+      "sizeInBytes": 882,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/지역 변수.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565482902,
+      "modifiedDate": 1760290923256,
+      "sizeInBytes": 157,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/피보니치 수열의 계산.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861904,
+      "modifiedDate": 1760290923261,
+      "sizeInBytes": 510,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 static.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565639155,
+      "modifiedDate": 1760290923253,
+      "sizeInBytes": 320,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/전역 변수.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565482902,
+      "modifiedDate": 1760290923247,
+      "sizeInBytes": 382,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/전역 변수와 지역 변수.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565482902,
+      "modifiedDate": 1760290923251,
+      "sizeInBytes": 159,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 정리.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861903,
+      "modifiedDate": 1760290923238,
+      "sizeInBytes": 435,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 register.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565674280,
+      "modifiedDate": 1760290923245,
+      "sizeInBytes": 275,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 auto.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565586748,
+      "modifiedDate": 1760290923241,
+      "sizeInBytes": 415,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/외부 연결.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861903,
+      "modifiedDate": 1760290923240,
+      "sizeInBytes": 182,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/연결(linkage).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565690893,
+      "modifiedDate": 1760290923234,
+      "sizeInBytes": 313,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/순환(recursion).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861903,
+      "modifiedDate": 1760290923233,
+      "sizeInBytes": 283,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/순환 알고리즘의 구조.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718637861902,
+      "modifiedDate": 1760290923230,
+      "sizeInBytes": 417,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/생존 기간.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565537424,
+      "modifiedDate": 1760290923225,
+      "sizeInBytes": 422,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/변수의 속성.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718565443058,
+      "modifiedDate": 1760290923228,
+      "sizeInBytes": 368,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/함수의 정의.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3526,33 +3931,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/함수의 개념.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564556014,
-      "modifiedDate": 1760290923217,
-      "sizeInBytes": 284,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/함수 호출과 반환.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3571,6 +3949,33 @@
       "createdDate": 1718564732526,
       "modifiedDate": 1760290923213,
       "sizeInBytes": 346,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/함수의 개념.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564556014,
+      "modifiedDate": 1760290923217,
+      "sizeInBytes": 284,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3607,7 +4012,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/함수 원형.md": {
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/수학 라이브러리 함수.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3622,9 +4027,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1718564825155,
-      "modifiedDate": 1760290923210,
-      "sizeInBytes": 194,
+      "createdDate": 1718564976239,
+      "modifiedDate": 1760290923203,
+      "sizeInBytes": 157,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3661,6 +4066,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/함수 원형.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1718564825155,
+      "modifiedDate": 1760290923210,
+      "sizeInBytes": 194,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/유틸리티 함수.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3679,33 +4111,6 @@
       "createdDate": 1718564952851,
       "modifiedDate": 1760290923206,
       "sizeInBytes": 137,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/10. 함수/수학 라이브러리 함수.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718564976239,
-      "modifiedDate": 1760290923203,
-      "sizeInBytes": 157,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3877,411 +4282,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/하노이 탑.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861904,
-      "modifiedDate": 1760290923258,
-      "sizeInBytes": 882,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/피보니치 수열의 계산.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861904,
-      "modifiedDate": 1760290923261,
-      "sizeInBytes": 510,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/지역 변수.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565482902,
-      "modifiedDate": 1760290923256,
-      "sizeInBytes": 157,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/전역 변수와 지역 변수.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565482902,
-      "modifiedDate": 1760290923251,
-      "sizeInBytes": 159,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/전역 변수.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565482902,
-      "modifiedDate": 1760290923247,
-      "sizeInBytes": 382,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 static.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565639155,
-      "modifiedDate": 1760290923253,
-      "sizeInBytes": 320,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 register.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565674280,
-      "modifiedDate": 1760290923245,
-      "sizeInBytes": 275,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 지정자 auto.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565586748,
-      "modifiedDate": 1760290923241,
-      "sizeInBytes": 415,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/저장 유형 정리.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861903,
-      "modifiedDate": 1760290923238,
-      "sizeInBytes": 435,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/외부 연결.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861903,
-      "modifiedDate": 1760290923240,
-      "sizeInBytes": 182,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/연결(linkage).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565690893,
-      "modifiedDate": 1760290923234,
-      "sizeInBytes": 313,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/순환 알고리즘의 구조.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861902,
-      "modifiedDate": 1760290923230,
-      "sizeInBytes": 417,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/순환(recursion).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718637861903,
-      "modifiedDate": 1760290923233,
-      "sizeInBytes": 283,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/생존 기간.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565537424,
-      "modifiedDate": 1760290923225,
-      "sizeInBytes": 422,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/NA1011_프로그래밍 입문/11. 함수와 변수/변수의 속성.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1718565443058,
-      "modifiedDate": 1760290923228,
-      "sizeInBytes": 368,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/Markdown.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4354,33 +4354,6 @@
       "createdDate": 1742223930051,
       "modifiedDate": 1760290923466,
       "sizeInBytes": 162,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/JAVA 프로그래밍.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741793896173,
-      "modifiedDate": 1760290923463,
-      "sizeInBytes": 108,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4471,6 +4444,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/JAVA 프로그래밍.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741793896173,
+      "modifiedDate": 1760290923463,
+      "sizeInBytes": 108,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/HTML.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4525,6 +4525,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/Conjunction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742218646856,
+      "modifiedDate": 1760290923425,
+      "sizeInBytes": 88,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/ESP.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4550,157 +4577,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/esp/ESP OT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741439083913,
-      "modifiedDate": 1760290923182,
-      "sizeInBytes": 270,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/esp/0311 esp 2주차.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 18,
-      "nonWhitespaceCharacterCount": 11,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.015320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "0311 Esp 2 주차"
-      ],
-      "createdDate": 1741721824880,
-      "modifiedDate": 1760290923173,
-      "sizeInBytes": 205,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 18,
-        "nonWhitespaceCharacterCount": 11,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "aliases": [
-          "0311 Esp 2 주차"
-        ],
-        "linter-yaml-title-alias": "0311 Esp 2 주차",
-        "page": 10,
-        "title": "0311 Esp 2 주차",
-        "강의 n주차": 2,
-        "과목": [
-          "[[ESP]]"
-        ],
-        "시간": "2025-03-11T15:00:00"
-      }
-    },
-    "00-09 시스템/00.00 Inbox/esp/0312 esp 2주차.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 157,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 752,
-      "nonWhitespaceCharacterCount": 588,
-      "newlineCount": 38,
-      "readingTimeInMinutes": 0.5374716981132075,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "0312 Esp 2 주차"
-      ],
-      "createdDate": 1741766218703,
-      "modifiedDate": 1760290923179,
-      "sizeInBytes": 988,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5233333333333333,
-        "wordCount": 157,
-        "characterCount": 752,
-        "nonWhitespaceCharacterCount": 588,
-        "newlineCount": 38
-      },
-      "frontmatter": {
-        "aliases": [
-          "0312 Esp 2 주차"
-        ],
-        "linter-yaml-title-alias": "0312 Esp 2 주차",
-        "title": "0312 Esp 2 주차",
-        "강의 n주차": 2,
-        "과목": [
-          "[[ESP]]"
-        ],
-        "시간": "2025-03-12T12:00:00"
-      }
-    },
-    "00-09 시스템/00.00 Inbox/esp/0305 esp 1주차.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 149,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.49666666666666665,
-      "characterCount": 649,
-      "nonWhitespaceCharacterCount": 454,
-      "newlineCount": 55,
-      "readingTimeInMinutes": 0.45762264150943394,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Finding the Ideal Job"
-      ],
-      "createdDate": 1741439083913,
-      "modifiedDate": 1760290923172,
-      "sizeInBytes": 953,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.49666666666666665,
-        "wordCount": 149,
-        "characterCount": 649,
-        "nonWhitespaceCharacterCount": 454,
-        "newlineCount": 55
-      },
-      "frontmatter": {
-        "aliases": [
-          "Finding the Ideal Job"
-        ],
-        "linter-yaml-title-alias": "Finding the Ideal Job",
-        "title": "Finding the Ideal Job",
-        "강의 n주차": 1,
-        "과목": [
-          "[[ESP]]"
-        ],
-        "시간": "2025-03-05T12:00:00"
       }
     },
     "00-09 시스템/00.00 Inbox/Electron.md": {
@@ -4757,6 +4633,157 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/esp/ESP OT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741439083913,
+      "modifiedDate": 1760290923182,
+      "sizeInBytes": 270,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/esp/0312 esp 2주차.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 157,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 752,
+      "nonWhitespaceCharacterCount": 588,
+      "newlineCount": 38,
+      "readingTimeInMinutes": 0.5374716981132075,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "0312 Esp 2 주차"
+      ],
+      "createdDate": 1741766218703,
+      "modifiedDate": 1760290923179,
+      "sizeInBytes": 988,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5233333333333333,
+        "wordCount": 157,
+        "characterCount": 752,
+        "nonWhitespaceCharacterCount": 588,
+        "newlineCount": 38
+      },
+      "frontmatter": {
+        "aliases": [
+          "0312 Esp 2 주차"
+        ],
+        "linter-yaml-title-alias": "0312 Esp 2 주차",
+        "title": "0312 Esp 2 주차",
+        "강의 n주차": 2,
+        "과목": [
+          "[[ESP]]"
+        ],
+        "시간": "2025-03-12T12:00:00"
+      }
+    },
+    "00-09 시스템/00.00 Inbox/esp/0311 esp 2주차.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 18,
+      "nonWhitespaceCharacterCount": 11,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.015320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "0311 Esp 2 주차"
+      ],
+      "createdDate": 1741721824880,
+      "modifiedDate": 1760290923173,
+      "sizeInBytes": 205,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 18,
+        "nonWhitespaceCharacterCount": 11,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "aliases": [
+          "0311 Esp 2 주차"
+        ],
+        "linter-yaml-title-alias": "0311 Esp 2 주차",
+        "page": 10,
+        "title": "0311 Esp 2 주차",
+        "강의 n주차": 2,
+        "과목": [
+          "[[ESP]]"
+        ],
+        "시간": "2025-03-11T15:00:00"
+      }
+    },
+    "00-09 시스템/00.00 Inbox/esp/0305 esp 1주차.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 149,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 649,
+      "nonWhitespaceCharacterCount": 454,
+      "newlineCount": 55,
+      "readingTimeInMinutes": 0.45762264150943394,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Finding the Ideal Job"
+      ],
+      "createdDate": 1741439083913,
+      "modifiedDate": 1760290923172,
+      "sizeInBytes": 953,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.49666666666666665,
+        "wordCount": 149,
+        "characterCount": 649,
+        "nonWhitespaceCharacterCount": 454,
+        "newlineCount": 55
+      },
+      "frontmatter": {
+        "aliases": [
+          "Finding the Ideal Job"
+        ],
+        "linter-yaml-title-alias": "Finding the Ideal Job",
+        "title": "Finding the Ideal Job",
+        "강의 n주차": 1,
+        "과목": [
+          "[[ESP]]"
+        ],
+        "시간": "2025-03-05T12:00:00"
+      }
+    },
     "00-09 시스템/00.00 Inbox/dataviewjs test.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4811,7 +4838,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/daily note/20251013.md": {
+    "00-09 시스템/00.00 Inbox/Converse.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4826,9 +4853,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1760289865419,
-      "modifiedDate": 1760290923167,
-      "sizeInBytes": 38,
+      "createdDate": 1742222916663,
+      "modifiedDate": 1760290923433,
+      "sizeInBytes": 68,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4855,6 +4882,33 @@
       "aliases": [],
       "createdDate": 1760011329757,
       "modifiedDate": 1760290923138,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/daily note/20251013.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1760289865419,
+      "modifiedDate": 1760290923167,
       "sizeInBytes": 38,
       "sessionStart": {
         "noteCount": 0,
@@ -5084,7 +5138,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/daily note/20250612.md": {
+    "00-09 시스템/00.00 Inbox/daily note/20250608.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5099,8 +5153,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1749655910808,
-      "modifiedDate": 1760290923076,
+      "createdDate": 1749308736774,
+      "modifiedDate": 1760290923064,
       "sizeInBytes": 38,
       "sessionStart": {
         "noteCount": 0,
@@ -5138,7 +5192,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/daily note/20250608.md": {
+    "00-09 시스템/00.00 Inbox/daily note/20250612.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5153,8 +5207,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1749308736774,
-      "modifiedDate": 1760290923064,
+      "createdDate": 1749655910808,
+      "modifiedDate": 1760290923076,
       "sizeInBytes": 38,
       "sessionStart": {
         "noteCount": 0,
@@ -5246,7 +5300,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/daily note/20250523.md": {
+    "00-09 시스템/00.00 Inbox/daily note/20250522.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5261,9 +5315,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1747975639982,
-      "modifiedDate": 1760290923042,
-      "sizeInBytes": 155,
+      "createdDate": 1747875206960,
+      "modifiedDate": 1760290923021,
+      "sizeInBytes": 52,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5300,7 +5354,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/daily note/20250522.md": {
+    "00-09 시스템/00.00 Inbox/daily note/20250523.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5315,9 +5369,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1747875206960,
-      "modifiedDate": 1760290923021,
-      "sizeInBytes": 52,
+      "createdDate": 1747975639982,
+      "modifiedDate": 1760290923042,
+      "sizeInBytes": 155,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5344,6 +5398,33 @@
       "aliases": [],
       "createdDate": 1747753646244,
       "modifiedDate": 1760290923010,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/daily note/20250520.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747667248931,
+      "modifiedDate": 1760290923015,
       "sizeInBytes": 38,
       "sessionStart": {
         "noteCount": 0,
@@ -5381,33 +5462,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/daily note/20250520.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1747667248931,
-      "modifiedDate": 1760290923015,
-      "sizeInBytes": 38,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/daily note/20250312.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5426,33 +5480,6 @@
       "createdDate": 1741734939969,
       "modifiedDate": 1760290922993,
       "sizeInBytes": 38,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/Converse.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742222916663,
-      "modifiedDate": 1760290923433,
-      "sizeInBytes": 68,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5489,33 +5516,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/Connectives.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742217521176,
-      "modifiedDate": 1760290923427,
-      "sizeInBytes": 80,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/contradiction.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5543,6 +5543,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/Connectives.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742217521176,
+      "modifiedDate": 1760290923427,
+      "sizeInBytes": 80,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/C 프로그래밍 입문.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5561,33 +5588,6 @@
       "createdDate": 1741793703572,
       "modifiedDate": 1760290923422,
       "sizeInBytes": 116,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/Conjunction.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742218646856,
-      "modifiedDate": 1760290923425,
-      "sizeInBytes": 88,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5694,33 +5694,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/B10008_인류 문명과 세계 문화사/중국 문명을 도약시킨 젊은 황제, 진시황 20241107T103948.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1731142421152,
-      "modifiedDate": 1760290922981,
-      "sizeInBytes": 747,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/B10008_인류 문명과 세계 문화사/인류 문명의 새벽과 세계의 문화유산.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5739,6 +5712,33 @@
       "createdDate": 1729336659553,
       "modifiedDate": 1760290922979,
       "sizeInBytes": 222,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/B10008_인류 문명과 세계 문화사/중국 문명을 도약시킨 젊은 황제, 진시황 20241107T103948.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1731142421152,
+      "modifiedDate": 1760290922981,
+      "sizeInBytes": 747,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5829,6 +5829,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/B10008_인류 문명과 세계 문화사/문화유산이 들려주는 문화사 20241114T110500.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1732187709878,
+      "modifiedDate": 1760290922967,
+      "sizeInBytes": 984,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/B10008_인류 문명과 세계 문화사/서양 고대문명의 저장고, 로마제국 20241120T101500.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5874,33 +5901,6 @@
       "createdDate": 1729336659552,
       "modifiedDate": 1760290922969,
       "sizeInBytes": 396,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/B10008_인류 문명과 세계 문화사/문화유산이 들려주는 문화사 20241114T110500.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1732187709878,
-      "modifiedDate": 1760290922967,
-      "sizeInBytes": 984,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6153,6 +6153,33 @@
         "newlineCount": 0
       }
     },
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/사고와 표현 OT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1741439083908,
+      "modifiedDate": 1760290922881,
+      "sizeInBytes": 543,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "00-09 시스템/00.00 Inbox/A10001_사고와 표현/중간고사.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6225,33 +6252,6 @@
       "createdDate": 1732187709878,
       "modifiedDate": 1760290922911,
       "sizeInBytes": 165,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/사고와 표현 OT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1741439083908,
-      "modifiedDate": 1760290922881,
-      "sizeInBytes": 543,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6342,7 +6342,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/2. 즐거운 글쓰기/7. 다양한 글쓰기 유형/2. 에피소드형 글쓰기/에피소드형 글쓰기는 단지 에피소드, 즉 일화를 쓰는 것이 아니다 20241105T100000.md": {
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/2. 즐거운 글쓰기/4. 개요는 집짓기의 설계도/1. 개요의 쓸모/개요는 글을 집필하기 전 글을 기획하는 과정에서 글의 뼈대가 되는 내용을 조직한 구조도 이다 20241016.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6357,9 +6357,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1731142421150,
-      "modifiedDate": 1760290922931,
-      "sizeInBytes": 332,
+      "createdDate": 1729336659548,
+      "modifiedDate": 1760290922921,
+      "sizeInBytes": 181,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6387,6 +6387,60 @@
       "createdDate": 1731142421149,
       "modifiedDate": 1760290922929,
       "sizeInBytes": 345,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/2. 즐거운 글쓰기/7. 다양한 글쓰기 유형/2. 에피소드형 글쓰기/에피소드형 글쓰기는 단지 에피소드, 즉 일화를 쓰는 것이 아니다 20241105T100000.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1731142421150,
+      "modifiedDate": 1760290922931,
+      "sizeInBytes": 332,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/2. 즐거운 글쓰기/6. 고치기는 글의 완성/2. 글 고치기의 방법/주어와 서술어의 호응.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1731142421148,
+      "modifiedDate": 1760290922926,
+      "sizeInBytes": 113,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6433,60 +6487,6 @@
         "과목": [
           "[[사고와 표현]]"
         ]
-      }
-    },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/2. 즐거운 글쓰기/6. 고치기는 글의 완성/2. 글 고치기의 방법/주어와 서술어의 호응.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1731142421148,
-      "modifiedDate": 1760290922926,
-      "sizeInBytes": 113,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/2. 즐거운 글쓰기/4. 개요는 집짓기의 설계도/1. 개요의 쓸모/개요는 글을 집필하기 전 글을 기획하는 과정에서 글의 뼈대가 되는 내용을 조직한 구조도 이다 20241016.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1729336659548,
-      "modifiedDate": 1760290922921,
-      "sizeInBytes": 181,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     },
     "00-09 시스템/00.00 Inbox/A10001_사고와 표현/2. 즐거운 글쓰기/5. 단락은 어떻게 운용하나/1. 문장과 단락/한 편의 글은 문장과 단락으로 구성된다 20241016T130000.md": {
@@ -6597,60 +6597,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/2. 생각에서 표현으로/20241008 아래 왼쪽 사진은 고물상의 풍경이다.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1729336659544,
-      "modifiedDate": 1760290922909,
-      "sizeInBytes": 297,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/2. 생각에서 표현으로/20241002 어떻게 생각할 것 인가.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1729336659543,
-      "modifiedDate": 1760290922908,
-      "sizeInBytes": 624,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/머리말.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6669,6 +6615,107 @@
       "createdDate": 1727924986318,
       "modifiedDate": 1760290922890,
       "sizeInBytes": 603,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/2. 생각에서 표현으로/20241002 어떻게 생각할 것 인가.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 117,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39,
+      "characterCount": 212,
+      "nonWhitespaceCharacterCount": 155,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.2410943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "표현은 생각의 결과다"
+      ],
+      "createdDate": 1729336659543,
+      "modifiedDate": 1760290922908,
+      "sizeInBytes": 624,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.39,
+        "wordCount": 117,
+        "characterCount": 212,
+        "nonWhitespaceCharacterCount": 155,
+        "newlineCount": 20
+      },
+      "frontmatter": {
+        "aliases": [
+          "표현은 생각의 결과다"
+        ],
+        "linter-yaml-title-alias": "표현은 생각의 결과다",
+        "page": 28,
+        "title": "표현은 생각의 결과다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
+      }
+    },
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/2. 생각에서 표현으로/20241008 아래 왼쪽 사진은 고물상의 풍경이다.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 84,
+      "nonWhitespaceCharacterCount": 61,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.09977358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729336659544,
+      "modifiedDate": 1760290922909,
+      "sizeInBytes": 297,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16333333333333333,
+        "wordCount": 49,
+        "characterCount": 84,
+        "nonWhitespaceCharacterCount": 61,
+        "newlineCount": 8
+      },
+      "frontmatter": {
+        "page": 33,
+        "title": "20241008 아래 왼쪽 사진은 고물상의 풍경이다",
+        "과목": [
+          "[[사고와 표현]]"
+        ]
+      }
+    },
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/3. 표현과 글쓰기의 힘/위대한 과학자는 위대한 문장가이기도 하다.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1729336659542,
+      "modifiedDate": 1760290922942,
+      "sizeInBytes": 783,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6705,33 +6752,6 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/3. 표현과 글쓰기의 힘/위대한 과학자는 위대한 문장가이기도 하다.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1729336659542,
-      "modifiedDate": 1760290922942,
-      "sizeInBytes": 783,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/2. 사고와 표현의 관계/인간은 사고 할 줄 알며 그것을 표현할 줄 안다.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6750,6 +6770,33 @@
       "createdDate": 1729336659541,
       "modifiedDate": 1760290922941,
       "sizeInBytes": 1029,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/1. 현대사회와 의사소통/인간은 사고를 통해, 살아가면서 부딪히는 수많은 문제에 대응하면서 해결해 간다.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1729336659539,
+      "modifiedDate": 1760290922946,
+      "sizeInBytes": 710,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6786,7 +6833,7 @@
         "newlineCount": 0
       }
     },
-    "00-09 시스템/00.00 Inbox/A10001_사고와 표현/1. 생각하기와 표현하기/1. 왜 사고와 표현인가/1. 현대사회와 의사소통/인간은 사고를 통해, 살아가면서 부딪히는 수많은 문제에 대응하면서 해결해 간다.md": {
+    "00-09 시스템/00.00 Inbox/202509142118.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6801,9 +6848,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1729336659539,
-      "modifiedDate": 1760290922946,
-      "sizeInBytes": 710,
+      "createdDate": 1757852283895,
+      "modifiedDate": 1760290923421,
+      "sizeInBytes": 46,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6841,33 +6888,6 @@
       },
       "frontmatter": {
         "title": "2025-03-10"
-      }
-    },
-    "00-09 시스템/00.00 Inbox/202509142118.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1757852283895,
-      "modifiedDate": 1760290923421,
-      "sizeInBytes": 46,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     },
     "00-09 시스템/00.00 Inbox/0408 영어 과제.md": {
