@@ -3,7 +3,7 @@ views:
     name: 표
     filters:
       and:
-        - 소속.contains("2소대")
+        - 소속.contains("전투지원소대")
     order:
       - file.name
       - 계급
