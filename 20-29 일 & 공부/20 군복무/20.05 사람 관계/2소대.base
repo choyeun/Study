@@ -12,7 +12,7 @@ views:
       - 생활관
       - 보직
     sort:
-      - property: 전역일
+      - property: 소속
         direction: ASC
     columnSize:
       note.소속: 170

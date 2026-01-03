@@ -30,6 +30,19 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "3d50252c4dd64c26",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/1소대.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "1소대"
+            }
           }
         ]
       }
@@ -188,6 +201,16 @@
         "id": "229b99daddfdc9a7",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "1428ec72c0155762",
+        "type": "leaf",
+        "state": {
           "type": "graph-analysis",
           "state": {},
           "icon": "GA-ICON",
@@ -227,7 +250,9 @@
   },
   "active": "29b6d53c2c145ce2",
   "lastOpenFiles": [
-    "20-29 일 & 공부/20 군복무/20.05 사람 관계/4중대.base",
-    "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md"
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/2소대.base",
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/1소대.base",
+    "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/4중대.base"
   ]
 }
