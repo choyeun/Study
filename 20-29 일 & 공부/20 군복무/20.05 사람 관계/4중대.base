@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - 소속.contains("군대")
+    order:
+      - file.name
+      - 계급
+      - 보직
+      - 전역일
+      - 생활관
+      - 소속
+    sort:
+      - property: 전역일
+        direction: ASC
+    columnSize:
+      note.보직: 139
+      note.전역일: 76
