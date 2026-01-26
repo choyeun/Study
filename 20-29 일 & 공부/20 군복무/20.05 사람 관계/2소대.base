@@ -12,6 +12,10 @@ views:
       - 생활관
       - 보직
     sort:
+      - property: 전역일
+        direction: ASC
+      - property: 계급
+        direction: ASC
       - property: 소속
         direction: ASC
     columnSize:

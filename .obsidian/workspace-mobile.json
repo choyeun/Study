@@ -11,24 +11,65 @@
             "id": "29b6d53c2c145ce2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/1소대.base",
+                "viewName": "표"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "1소대"
+            }
+          },
+          {
+            "id": "ae2e8cdd1e96dadb",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/2소대.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "2소대"
+            }
+          },
+          {
+            "id": "d5a83b6ab379d285",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/전투지원소대.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "전투지원소대"
+            }
+          },
+          {
+            "id": "9fd209d34a63a12a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/전투지원소대.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "전투지원소대"
+            }
+          },
+          {
+            "id": "9bad590a24faeb7c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/3소대.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "3소대"
             }
           },
           {
@@ -44,7 +85,8 @@
               "title": "1소대"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +177,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
+            "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/3소대.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,6 +253,46 @@
         "id": "1428ec72c0155762",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "2a9cc34d7a88c07a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "0098bf6241ea922a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "82ff862d0928e4e6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
+      },
+      {
+        "id": "f116da33ed37784a",
+        "type": "leaf",
+        "state": {
           "type": "graph-analysis",
           "state": {},
           "icon": "GA-ICON",
@@ -248,11 +330,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "29b6d53c2c145ce2",
+  "active": "9bad590a24faeb7c",
   "lastOpenFiles": [
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/전투지원소대.base",
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/3소대.base",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/2소대.base",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/1소대.base",
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/4중대.base",
+    "손태우.md",
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/김세진.md",
+    "권영익.md",
+    "정효준.md",
+    "이민수.md",
     "20-29 일 & 공부/20 군복무/20.02 근무 & 업무/README.md",
-    "20-29 일 & 공부/20 군복무/20.05 사람 관계/4중대.base"
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이성주.md"
   ]
 }

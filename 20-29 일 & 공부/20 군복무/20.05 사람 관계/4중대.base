@@ -8,10 +8,10 @@ views:
     order:
       - file.name
       - 계급
-      - 전역일
-      - 소속
       - 생활관
+      - 소속
       - 보직
+      - 전역일
     sort:
       - property: 전역일
         direction: ASC
