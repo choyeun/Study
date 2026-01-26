@@ -70,151 +70,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "정효준.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 4,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.006,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1769397042972,
-      "modifiedDate": 1768003318338,
-      "sizeInBytes": 181,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 8,
-        "nonWhitespaceCharacterCount": 4,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "title": "정효준",
-        "계급": [
-          "일병"
-        ],
-        "보직": [
-          "운전병",
-          "탄약수"
-        ],
-        "생활관": [
-          "책임"
-        ],
-        "소속": [
-          "2분대",
-          "2소대",
-          "4중대"
-        ],
-        "전역일": [
-          "2704"
-        ]
-      }
-    },
-    "이민수.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 4,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.006,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1769397042997,
-      "modifiedDate": 1768003229050,
-      "sizeInBytes": 181,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 8,
-        "nonWhitespaceCharacterCount": 4,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "title": "이민수",
-        "계급": [
-          "일병"
-        ],
-        "보직": [
-          "운전병",
-          "탄약수"
-        ],
-        "생활관": [
-          "책임"
-        ],
-        "소속": [
-          "1소대",
-          "4중대",
-          "3분대"
-        ],
-        "전역일": [
-          "2704"
-        ]
-      }
-    },
-    "손태우.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 4,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.006,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1769397042977,
-      "modifiedDate": 1768003631326,
-      "sizeInBytes": 210,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 8,
-        "nonWhitespaceCharacterCount": 4,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "title": "손태우",
-        "계급": [
-          "일병"
-        ],
-        "보직": [
-          "사수"
-        ],
-        "생활관": [
-          "창의"
-        ],
-        "소속": [
-          "2분대",
-          "4중대",
-          "기관총4",
-          "기관총분대",
-          "전투지원소대"
-        ],
-        "전역일": [
-          "2703"
-        ]
-      }
-    },
     "무제.base": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -240,48 +95,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "권영익.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 4,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.006,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1769397043001,
-      "modifiedDate": 1768003503118,
-      "sizeInBytes": 162,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 8,
-        "nonWhitespaceCharacterCount": 4,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "title": "권영익",
-        "계급": [
-          "상사"
-        ],
-        "보직": null,
-        "생활관": null,
-        "소속": [
-          "2분대",
-          "대전차분대",
-          "전투지원소대",
-          "4중대"
-        ],
-        "전역일": null
       }
     },
     "SATA 규격 조사 보고서.pdf": {
@@ -13101,20 +12914,137 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 68,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 95,
-      "nonWhitespaceCharacterCount": 94,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.0037735849056603774,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 172,
+      "nonWhitespaceCharacterCount": 132,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.16083018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Test"
+      ],
+      "createdDate": 1769418310383,
+      "modifiedDate": 1769419485701,
+      "sizeInBytes": 347,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Test"
+        ],
+        "linter-yaml-title-alias": "Test",
+        "title": "Test"
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/정효준.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 69,
+      "newlineCount": 19,
+      "readingTimeInMinutes": 0.08686792452830189,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1769418310383,
-      "modifiedDate": 1769418371386,
-      "sizeInBytes": 95,
+      "createdDate": 1769397042972,
+      "modifiedDate": 1768003318338,
+      "sizeInBytes": 181,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/이민수.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 69,
+      "newlineCount": 19,
+      "readingTimeInMinutes": 0.08686792452830189,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1769397042997,
+      "modifiedDate": 1769419428646,
+      "sizeInBytes": 181,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/손태우.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 78,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.10286792452830189,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1769397042977,
+      "modifiedDate": 1768003631326,
+      "sizeInBytes": 210,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "20-29 일 & 공부/20 군복무/20.05 사람 관계/권영익.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 38,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 92,
+      "nonWhitespaceCharacterCount": 60,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.08132075471698114,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1769397043001,
+      "modifiedDate": 1768003503118,
+      "sizeInBytes": 162,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

@@ -1,3 +1,12 @@
+---
+aliases:
+  - Test
+linter-yaml-title-alias: Test
+title: Test
+---
+
+# Test
+
 지금 obsidian 폴더 구조가 이런데
 
 00-09 시스템
@@ -12,5 +21,4 @@
 90-99 아카이브
 Zettelkasten
 
-
-이 상태에서 가계부는 재정에 넣자
+이 상태에서 가계부는 재정에 넣자dd
