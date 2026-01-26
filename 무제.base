@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: 표
+  - type: flagged-bases-view
+    name: 뷰
+  - type: inbox-bases-view
+    name: 뷰 2
+  - type: projects-bases-view
+    name: 뷰 3
