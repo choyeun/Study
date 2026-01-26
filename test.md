@@ -1,1 +1,2 @@
-![](https://docs.google.com/spreadsheets/d/18JgTNnP9dQ38Yf2Y7T2g7rfXTxGbjKUZ/edit?usp=sharing)
+지금 obsidian 폴더 구조가 이런데 
+이 상태에서 가계부는 재정에 넣자
