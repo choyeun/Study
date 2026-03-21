@@ -8,85 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29b6d53c2c145ce2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/1소대.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "1소대"
-            }
-          },
-          {
-            "id": "ae2e8cdd1e96dadb",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/2소대.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "2소대"
-            }
-          },
-          {
-            "id": "d5a83b6ab379d285",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/전투지원소대.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "전투지원소대"
-            }
-          },
-          {
-            "id": "9fd209d34a63a12a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/전투지원소대.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "전투지원소대"
-            }
-          },
-          {
             "id": "9bad590a24faeb7c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/3소대.base",
-                "viewName": "표"
+                "file": "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "3소대"
-            }
-          },
-          {
-            "id": "3d50252c4dd64c26",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/1소대.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "1소대"
+              "icon": "lucide-file",
+              "title": "4.2인치 박격포 집체교육 자료"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +50,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "파일 탐색기"
         }
       },
       {
@@ -177,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "20-29 일 & 공부/20 군복무/20.05 사람 관계/3소대.base",
+            "file": "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +132,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "백링크"
         }
       },
       {
@@ -236,7 +181,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -246,7 +191,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -256,7 +201,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -266,7 +211,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -276,7 +221,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -286,11 +231,41 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
         "id": "f116da33ed37784a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "015845c5dd1f292d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "2dcf774ba5a0a4f1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "ab658957cc9c0217",
         "type": "leaf",
         "state": {
           "type": "graph-analysis",
@@ -304,17 +279,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "zk-prefixer:새 고유 노트 생성": false,
+      "random-note:무작위 노트 열기": false,
+      "audio-recorder:녹음 시작/정지": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "bases:새 베이스 생성하기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-gate:Microsoft Todo": false,
       "open-gate:chat-gpt": false,
@@ -332,6 +307,8 @@
   },
   "active": "9bad590a24faeb7c",
   "lastOpenFiles": [
+    "40-49 생활관리/40 군복무/40.02 근무 & 업무/Tccc 정리.md",
+    "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/전투지원소대.base",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/3소대.base",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/2소대.base",
