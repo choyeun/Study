@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 시스템/00.01 Templates/daily_log_full.md",
-                "mode": "source",
+                "file": "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily_log_full"
+              "title": "4.2인치 박격포 집체교육 자료"
             }
           },
           {
@@ -99,7 +99,7 @@
               "type": "markdown",
               "state": {
                 "file": "40-49 생활관리/40 군복무/40.05 사람 관계/장정환.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -116,8 +116,7 @@
               "title": "장정환"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "파일 탐색기"
         }
       },
       {
@@ -208,7 +207,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "40-49 생활관리/40 군복무/40.05 사람 관계/장정환.md",
+            "file": "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "백링크"
         }
       },
       {
@@ -267,7 +266,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -277,7 +276,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -287,7 +286,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -297,7 +296,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -307,7 +306,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -317,7 +316,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -327,7 +326,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -337,7 +336,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -347,7 +346,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -357,7 +356,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -367,7 +366,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -377,7 +376,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -387,7 +386,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -397,7 +396,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -407,7 +406,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -417,7 +416,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -427,7 +426,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -437,7 +436,7 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
@@ -447,11 +446,41 @@
           "type": "empty",
           "state": {},
           "icon": "lucide-file",
-          "title": "New tab"
+          "title": "새 탭"
         }
       },
       {
         "id": "d40a785320f3f1c2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "157630829ab61340",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "c79e0314b280e0cb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "f5f18728c30b4252",
         "type": "leaf",
         "state": {
           "type": "graph-analysis",
@@ -465,17 +494,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "zk-prefixer:새 고유 노트 생성": false,
+      "random-note:무작위 노트 열기": false,
+      "audio-recorder:녹음 시작/정지": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "bases:새 베이스 생성하기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-gate:Microsoft Todo": false,
       "open-gate:chat-gpt": false,
@@ -487,15 +516,15 @@
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
       "daily-notes-editor:Open Daily Note Editor": false,
-      "korean-spellchecker:Check spelling": false,
-      "periodic-notes:Open today": false
+      "korean-spellchecker:Check spelling": false
     }
   },
-  "active": "ca1b5a2eb8453d02",
+  "active": "914efef28d1df4a3",
   "lastOpenFiles": [
+    "00-09 시스템/00.01 Templates/daily_log_full.md",
+    "40-49 생활관리/40 군복무/40.05 사람 관계/장정환.md",
     "40-49 생활관리/40 군복무/40.02 근무 & 업무/Tccc 정리;흐니ㅍ윾ㅎ쐬빝ㄷㅂㄲ풒.md",
     "Teye.md",
-    "00-09 시스템/00.01 Templates/daily_log_full.md",
     "Test.md",
     "무제.base",
     "Untitled",

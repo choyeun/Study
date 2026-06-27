@@ -5,12 +5,20 @@
       "path": "40-49 생활관리/40 군복무/40.05 사람 관계/4중대.base"
     },
     {
-      "basename": "이민수",
-      "path": "40-49 생활관리/40 군복무/40.05 사람 관계/이민수.md"
-    },
-    {
       "basename": "4.2인치 박격포 집체교육 자료",
       "path": "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md"
+    },
+    {
+      "basename": "daily_log_full",
+      "path": "00-09 시스템/00.01 Templates/daily_log_full.md"
+    },
+    {
+      "basename": "장정환",
+      "path": "40-49 생활관리/40 군복무/40.05 사람 관계/장정환.md"
+    },
+    {
+      "basename": "이민수",
+      "path": "40-49 생활관리/40 군복무/40.05 사람 관계/이민수.md"
     },
     {
       "basename": "README",
@@ -25,16 +33,8 @@
       "path": "무제.base"
     },
     {
-      "basename": "장정환",
-      "path": "40-49 생활관리/40 군복무/40.05 사람 관계/장정환.md"
-    },
-    {
       "basename": "Teye",
       "path": "Teye.md"
-    },
-    {
-      "basename": "daily_log_full",
-      "path": "00-09 시스템/00.01 Templates/daily_log_full.md"
     },
     {
       "basename": "실험",
