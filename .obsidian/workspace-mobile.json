@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
-                "mode": "preview",
+                "file": "10-19 개인/11 취미/11.01 소설/전 버튜버가 하고 싶은데요.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.2인치 박격포 집체교육 자료"
+              "title": "전 버튜버가 하고 싶은데요"
             }
           },
           {
@@ -207,7 +207,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
+            "file": "10-19 개인/11 취미/11.01 소설/전 버튜버가 하고 싶은데요.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -483,6 +483,56 @@
         "id": "f5f18728c30b4252",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "710d865b8245eb81",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "4729038fad04e033",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "d3b8659467811227",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "ea28552e1abe4bac",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "새 탭"
+        }
+      },
+      {
+        "id": "f42f03ae71de531d",
+        "type": "leaf",
+        "state": {
           "type": "graph-analysis",
           "state": {},
           "icon": "GA-ICON",
@@ -516,11 +566,19 @@
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
       "daily-notes-editor:Open Daily Note Editor": false,
-      "korean-spellchecker:Check spelling": false
+      "korean-spellchecker:Check spelling": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "914efef28d1df4a3",
   "lastOpenFiles": [
+    "20-29 일 & 공부/2026-07-29-hermes-trend-deepdive.md",
+    "10-19 개인/소설",
+    "2026-07-29-hermes-trend-report.md",
+    "backups/server-backup-20260727_030001.tar",
+    "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
+    "10-19 개인/음악/보카로P GOAT 추천곡.md",
+    "10-19 개인/음악",
     "00-09 시스템/00.01 Templates/daily_log_full.md",
     "40-49 생활관리/40 군복무/40.05 사람 관계/장정환.md",
     "40-49 생활관리/40 군복무/40.02 근무 & 업무/Tccc 정리;흐니ㅍ윾ㅎ쐬빝ㄷㅂㄲ풒.md",
@@ -530,7 +588,6 @@
     "Untitled",
     "test.md",
     "실험.md",
-    "40-49 생활관리/40 군복무/40.02 근무 & 업무/4.2인치 박격포 집체교육 자료.md",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/전투지원소대.base",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/3소대.base",
     "20-29 일 & 공부/20 군복무/20.05 사람 관계/2소대.base",

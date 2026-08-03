@@ -3,3 +3,6 @@
 
 .obsidian/workspace.json
 
+# 서버 백업 파일
+/backups/
+
