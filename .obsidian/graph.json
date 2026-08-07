@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"10-19 개인/11 취미/11.01 소설\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3443491
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.51640625,
+  "lineSizeMultiplier": 0.878385416666667,
   "collapse-forces": true,
-  "centerStrength": 0.455729166666667,
-  "repelStrength": 11.6145833333333,
-  "linkStrength": 0.497395833333333,
-  "linkDistance": 190,
-  "scale": 0.08000200328080753,
-  "close": true
+  "centerStrength": 0.325520833333333,
+  "repelStrength": 15.15625,
+  "linkStrength": 0,
+  "linkDistance": 266,
+  "scale": 0.029031716509399102,
+  "close": false
 }
