@@ -8,5 +8,6 @@
     "header"
   ],
   "theme": "system",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "nativeMenus": false
 }

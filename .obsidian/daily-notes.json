@@ -1,4 +1,5 @@
 {
   "format": "YYYYMMDD",
-  "folder": "daily note"
+  "folder": "00-09 시스템/00.00 Inbox/daily note",
+  "template": "00-09 시스템/00.01 Templates/daily_log_full.md"
 }

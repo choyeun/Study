@@ -7,8 +7,8 @@ keywords: []
 status: "연재중"
 platform: "novelpia"
 novel_no: 434178
-episode: 
-latest_episode_id: 
+episode: 14
+latest_episode_id: 5804037
 view_count: 70210
 like_count: 4590
 created: 2026-08-02

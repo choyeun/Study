@@ -7,8 +7,8 @@ keywords: []
 status: "완결"
 platform: "novelpia"
 novel_no: 427687
-episode: 
-latest_episode_id: 
+episode: 1
+latest_episode_id: 5655501
 view_count: 199508
 like_count: 4510
 created: 2026-08-02
